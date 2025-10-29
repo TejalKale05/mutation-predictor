@@ -8,7 +8,7 @@ import re
 import requests
 import numpy as np
 
-# --- BLOSUM62 Compatibility Layer ---
+
 try:
     # For older Biopython versions
     from Bio.SubsMat.MatrixInfo import blosum62
@@ -17,13 +17,13 @@ except ImportError:
     from Bio.Align import substitution_matrices
     blosum62 = substitution_matrices.load("BLOSUM62")
 
-# --- Constants ---
+
 UNIPROT_API = "https://rest.uniprot.org/uniprotkb/"
 AA_ORDER = list("ACDEFGHIKLMNPQRSTVWY")
 AA_INDEX = {aa: i for i, aa in enumerate(AA_ORDER)}
 
 
-# --- HGVS Parser ---
+
 def parse_protein_hgvs(hgvs):
     """
     Parse HGVS protein mutation notation.
@@ -35,7 +35,7 @@ def parse_protein_hgvs(hgvs):
 
     hgvs = hgvs.strip()
 
-    # Try standard and compact formats
+    
     m = re.match(r'p\.?([A-Z][a-z]{2}|[A-Z])(\d+)([A-Z][a-z]{2}|[A-Z])$', hgvs)
     if not m:
         m2 = re.match(r'^([A-Z])(\d+)([A-Z])$', hgvs)
@@ -45,7 +45,7 @@ def parse_protein_hgvs(hgvs):
 
     ref, pos, alt = m.group(1), int(m.group(2)), m.group(3)
 
-    # Convert 3-letter codes to 1-letter codes
+    
     three_to_one = {
         'Ala': 'A', 'Arg': 'R', 'Asn': 'N', 'Asp': 'D', 'Cys': 'C',
         'Glu': 'E', 'Gln': 'Q', 'Gly': 'G', 'His': 'H', 'Ile': 'I',
@@ -64,7 +64,7 @@ def parse_protein_hgvs(hgvs):
     return ref, pos, alt
 
 
-# --- UniProt Sequence Fetcher ---
+
 def fetch_uniprot_sequence(uniprot_id):
     """
     Fetch protein sequence from UniProt in FASTA format.
@@ -93,7 +93,7 @@ def fetch_uniprot_sequence(uniprot_id):
     return seq
 
 
-# --- Scoring Functions ---
+
 def blosum_score(a, b):
     """
     Get BLOSUM62 substitution score between two amino acids.
@@ -105,7 +105,7 @@ def blosum_score(a, b):
     return blosum62.get((a, b), blosum62.get((b, a), 0))
 
 
-# --- Grantham Distance Matrix ---
+
 GRANTHAM = {
     ('S','R'):110, ('S','L'):145, ('S','P'):74, ('S','T'):58, ('S','A'):99,
     ('S','V'):124, ('S','G'):56, ('S','I'):142, ('S','F'):155, ('S','Y'):144,
@@ -167,7 +167,7 @@ def grantham_distance(a, b):
     return GRANTHAM.get((a, b), GRANTHAM.get((b, a), 100))
 
 
-# --- One-Hot Encoding ---
+
 def window_onehot(seq, pos, window=11):
     """
     One-hot encode a sequence window centered at the mutation position.
@@ -190,7 +190,7 @@ def window_onehot(seq, pos, window=11):
     return arr
 
 
-# --- Feature Extraction ---
+
 def extract_features(ref, alt, seq, pos, window=11):
     """
     Extract combined features for mutation (BLOSUM, Grantham, and one-hot).
@@ -205,7 +205,7 @@ def extract_features(ref, alt, seq, pos, window=11):
         raise RuntimeError(f"Feature extraction failed: {e}")
 
 
-# --- Self-Test ---
+
 if __name__ == "__main__":
     print("✅ utils.py loaded successfully.")
     try:
@@ -217,3 +217,4 @@ if __name__ == "__main__":
         print("Feature vector length:", len(extract_features(ref, alt, seq, pos)))
     except Exception as err:
         print("❌ Error:", err)
+
