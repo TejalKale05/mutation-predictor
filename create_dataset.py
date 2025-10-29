@@ -8,8 +8,7 @@ import pandas as pd
 from utils import parse_protein_hgvs, fetch_uniprot_sequence, extract_features
 import time
 
-# Curated list of well-known variants with UniProt IDs
-# Format: (Gene, UniProtID, Mutation, Label, Description)
+
 TRAINING_VARIANTS = [
     # TP53 (Tumor suppressor) - P04637
     ('TP53', 'P04637', 'p.R175H', 1, 'Pathogenic - common cancer mutation'),
@@ -175,4 +174,5 @@ if failed:
 
 print("\n" + "="*70)
 print("NEXT STEP: Run 'python train_model.py'")
+
 print("="*70)
