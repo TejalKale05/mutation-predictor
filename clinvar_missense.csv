@@ -1,0 +1,6001 @@
+GeneSymbol,ProteinChange,ClinicalSignificance,Label
+SLC6A1,Met1Val,Pathogenic,1
+RDH12,Glu77Ter,Pathogenic,1
+OTOA,Gln306Ter,Pathogenic,1
+PLEC,Glu3032Ter,Pathogenic,1
+POLK,Lys461Glu,Pathogenic,1
+BRCA1,Glu1478Ter,Pathogenic,1
+SALL1,Leu275Ter,Pathogenic,1
+RP1,Cys1657Ter,Pathogenic,1
+TSC1,Trp750Ter,Pathogenic,1
+C7,Cys728Ter,Pathogenic,1
+SMAD4,Ser242Ter,Pathogenic,1
+ALS2,Ser417Ter,Pathogenic,1
+MTOR,Ile2501Phe,Pathogenic,1
+SCN5A,Arg1631Cys,Pathogenic,1
+LZTR1,Leu559Ter,Pathogenic,1
+RPS6KA3,Glu204Ter,Pathogenic,1
+NSD1,Glu2284Ter,Pathogenic,1
+NF1,Leu2395Ter,Pathogenic,1
+NPHP3,Tyr995Ter,Pathogenic,1
+ALMS1,Gln1109Ter,Pathogenic,1
+FLNA,Tyr373Ter,Pathogenic,1
+STK11,Trp239Cys,Pathogenic,1
+PDHA1,Asp258Ala,Pathogenic,1
+RUNX2,Ala180Glu,Pathogenic,1
+BMPR2,Cys117Gly,Pathogenic,1
+NF1,Lys662Ter,Pathogenic,1
+MEN1,Gln209Ter,Pathogenic,1
+DDC,Gln176Ter,Pathogenic,1
+DMD,Glu1543Ter,Pathogenic,1
+UROS,Thr62Ala,Pathogenic,1
+MSH2,Met453Lys,Pathogenic,1
+PIK3CA,Glu545Ala,Pathogenic,1
+SPTB,Glu1680Ter,Pathogenic,1
+FLNC,Ala1539Thr,Pathogenic,1
+IQSEC2,Gln527Ter,Pathogenic,1
+ALOX12B,Pro353Thr,Pathogenic,1
+SCN1A,Trp370Ter,Pathogenic,1
+AR,Ser866Pro,Pathogenic,1
+SCN1A,Arg101Gln,Pathogenic,1
+GNAS,Val159Ala,Pathogenic,1
+LRP5,Gln1340Ter,Pathogenic,1
+PIGW,Arg154Gly,Pathogenic,1
+ALG6,Gln417Ter,Pathogenic,1
+EPG5,Gln1231Ter,Pathogenic,1
+GLA,Lys127Ter,Pathogenic,1
+LDLR,Gln739Ter,Pathogenic,1
+PPOX,Gln189Ter,Pathogenic,1
+ATM,Leu2475Ter,Pathogenic,1
+DSP,Ser597Pro,Pathogenic,1
+SLC5A7,Asp48Gly,Pathogenic,1
+PDE8B,Glu299Ter,Pathogenic,1
+MSH6,Glu368Ter,Pathogenic,1
+CLN8,Trp64Ter,Pathogenic,1
+HNF4A,Ala107Asp,Pathogenic,1
+LDLR,Leu682Phe,Pathogenic,1
+OAT,Glu384Ter,Pathogenic,1
+KNG1,Arg389Ter,Pathogenic,1
+PHEX,Gly102Val,Pathogenic,1
+NTRK1,Gly577Ser,Pathogenic,1
+LRBA,Ile2646Ser,Pathogenic,1
+PALB2,Leu337Ter,Pathogenic,1
+BMPR2,Cys94Gly,Pathogenic,1
+GALT,Met129Thr,Pathogenic,1
+RPGR,Glu1017Ter,Pathogenic,1
+VPS13C,Gln2325Ter,Pathogenic,1
+LARS1,Tyr373Cys,Pathogenic,1
+FBN1,Cys1333Arg,Pathogenic,1
+ARMC5,Arg362Trp,Pathogenic,1
+MEN1,Asp153Val,Pathogenic,1
+NOTCH3,Cys49Arg,Pathogenic,1
+PIK3CA,Arg88Gln,Pathogenic,1
+KMT2D,Gln2004Ter,Pathogenic,1
+GATA2,Tyr33Ter,Pathogenic,1
+ALG9,Leu487Pro,Pathogenic,1
+OCA2,Gln612Ter,Pathogenic,1
+HSD17B4,Arg248Cys,Pathogenic,1
+DBT,Trp448Ter,Pathogenic,1
+CYP27A1,Glu215Ter,Pathogenic,1
+ALDOB,Arg60Ter,Pathogenic,1
+PC,Glu305Ter,Pathogenic,1
+KCNB1,Thr210Arg,Pathogenic,1
+CHD7,Gln2562Ter,Pathogenic,1
+AGXT,Gly47Arg,Pathogenic,1
+JAG1,Trp257Ter,Pathogenic,1
+ARSG,Trp349Ter,Pathogenic,1
+NPC1,Arg1077Ter,Pathogenic,1
+MFSD8,Trp200Ter,Pathogenic,1
+BMPR2,Gln433Ter,Pathogenic,1
+PHGDH,Tyr495Ter,Pathogenic,1
+BRCA2,Glu2020Ter,Pathogenic,1
+GCK,Phe152Ser,Pathogenic,1
+SLC45A2,Gln484Ter,Pathogenic,1
+BMPER,Gln219Ter,Pathogenic,1
+MEN1,Glu463Ter,Pathogenic,1
+APC,Ser713Ter,Pathogenic,1
+LDLR,Tyr442Ter,Pathogenic,1
+OPLAH,Ser323Arg,Pathogenic,1
+TET2,Leu446Ter,Pathogenic,1
+RP1,Gln178Ter,Pathogenic,1
+KCNE1,Gly52Arg,Pathogenic,1
+APC,Cys451Ter,Pathogenic,1
+SPAST,Glu157Ter,Pathogenic,1
+L1CAM,Asp202Gly,Pathogenic,1
+HPS5,Gln905Ter,Pathogenic,1
+EPG5,Arg2078Ter,Pathogenic,1
+RAG2,Gly44Ter,Pathogenic,1
+SLC25A15,Gln135Ter,Pathogenic,1
+MYO7A,Gly1298Arg,Pathogenic,1
+SLC26A4,Tyr556Ter,Pathogenic,1
+ASCC1,Gln99Ter,Pathogenic,1
+MSH6,Lys923Ter,Pathogenic,1
+DMD,Trp2561Ter,Pathogenic,1
+EPOR,Glu399Ter,Pathogenic,1
+BRCA2,Gly2748Asp,Pathogenic,1
+ALMS1,Ser576Ter,Pathogenic,1
+RBP3,Gln969Ter,Pathogenic,1
+SCN1A,Gly355Asp,Pathogenic,1
+G6PD,Phe173Leu,Pathogenic,1
+MOCS2,Glu91Ter,Pathogenic,1
+DHCR7,Arg352Trp,Pathogenic,1
+BMPR2,Glu415Ter,Pathogenic,1
+OCA2,Arg165Ter,Pathogenic,1
+RP1,Glu1940Ter,Pathogenic,1
+COL1A1,Gly1019Cys,Pathogenic,1
+CHM,Glu491Ter,Pathogenic,1
+SCN4A,Trp195Ter,Pathogenic,1
+GRIN1,Met555Ile,Pathogenic,1
+COL7A1,Gly1770Val,Pathogenic,1
+RYR1,Trp3284Ter,Pathogenic,1
+ITGB3,Gln518Ter,Pathogenic,1
+ZBTB18,Arg195Ter,Pathogenic,1
+GATAD2B,Gly406Arg,Pathogenic,1
+ADGRV1,Lys2741Ter,Pathogenic,1
+FHL1,Val280Met,Pathogenic,1
+RMND1,Arg417Gln,Pathogenic,1
+LRPPRC,Trp443Ter,Pathogenic,1
+F7,Cys99Ter,Pathogenic,1
+PAH,Glu66Ter,Pathogenic,1
+PKD1,Gln149Ter,Pathogenic,1
+GLA,Leu191Gln,Pathogenic,1
+ESRRB,Ala131Val,Pathogenic,1
+OTOF,Glu1380Ter,Pathogenic,1
+RPGRIP1L,Arg132Ter,Pathogenic,1
+POP1,Glu723Ter,Pathogenic,1
+CDH23,Arg2029Trp,Pathogenic,1
+APC,Tyr1147Ter,Pathogenic,1
+ATP7B,Gln95Ter,Pathogenic,1
+TUBGCP6,Gln469Ter,Pathogenic,1
+F8,Tyr738Ter,Pathogenic,1
+RYR1,Gly4891Arg,Pathogenic,1
+COL7A1,Arg2685Ter,Pathogenic,1
+ABCB11,Trp189Ter,Pathogenic,1
+KAT6B,Glu675Ter,Pathogenic,1
+PEX16,Ser171Ter,Pathogenic,1
+CDKL5,Glu181Ala,Pathogenic,1
+SAMHD1,Gln256Ter,Pathogenic,1
+PCNT,Glu1675Ter,Pathogenic,1
+TERT,Gln794Ter,Pathogenic,1
+TMEM67,Gly821Ser,Pathogenic,1
+LAMA2,Gln2433Ter,Pathogenic,1
+SLC7A7,Cys374Ter,Pathogenic,1
+NFIX,Arg121Pro,Pathogenic,1
+RAD50,Lys933Ter,Pathogenic,1
+MSH3,Tyr1028Ter,Pathogenic,1
+TMEM151A,Cys125Ter,Pathogenic,1
+ETFDH,Glu193Ter,Pathogenic,1
+COL4A4,Gln1323Ter,Pathogenic,1
+PSEN1,Leu250Phe,Pathogenic,1
+GCDH,Arg294Pro,Pathogenic,1
+KMT2D,Gln2000Ter,Pathogenic,1
+NF1,Glu479Ter,Pathogenic,1
+BRCA2,Tyr761Ter,Pathogenic,1
+PEX5,Glu328Ter,Pathogenic,1
+MYO7A,Gln2066Ter,Pathogenic,1
+UROD,Trp34Ter,Pathogenic,1
+COL3A1,Gly963Arg,Pathogenic,1
+COX15,Ser151Ter,Pathogenic,1
+ANK2,Arg1088Ter,Pathogenic,1
+ARSB,Ser403Ter,Pathogenic,1
+GCK,Leu243Pro,Pathogenic,1
+WT1,Cys458Arg,Pathogenic,1
+DNAH11,Trp2326Ter,Pathogenic,1
+BRCA1,Ser510Ter,Pathogenic,1
+KRIT1,Gly439Ter,Pathogenic,1
+GALNS,Glu126Ter,Pathogenic,1
+ATG4D,Arg125Leu,Pathogenic,1
+RECQL4,Gln810Ter,Pathogenic,1
+BRCA2,Gln1987Ter,Pathogenic,1
+EIF2AK3,Lys553Ter,Pathogenic,1
+EPRS1,Gln985Ter,Pathogenic,1
+ERCC6L2,Arg552Ter,Pathogenic,1
+BCKDHB,Val251Ala,Pathogenic,1
+FBN1,Cys2483Ser,Pathogenic,1
+BRCA2,Ser2052Ter,Pathogenic,1
+ACVRL1,Cys51Tyr,Pathogenic,1
+MMUT,Thr387Ile,Pathogenic,1
+CYP21A2,Glu320Ter,Pathogenic,1
+NUS1,Met1Val,Pathogenic,1
+RBP3,Tyr834Ter,Pathogenic,1
+PKD1,Gln3702Ter,Pathogenic,1
+COL6A3,Gly2053Cys,Pathogenic,1
+PALB2,Gly999Ter,Pathogenic,1
+CYLD,Gln905Ter,Pathogenic,1
+MVK,Leu41Pro,Pathogenic,1
+CLCN1,Gln68Ter,Pathogenic,1
+KCNQ2,Leu439Ter,Pathogenic,1
+SERPING1,Cys205Tyr,Pathogenic,1
+MYBPC3,Lys395Ter,Pathogenic,1
+F8,Glu968Ter,Pathogenic,1
+GCK,Ala456Val,Pathogenic,1
+KRT2,Asn186Lys,Pathogenic,1
+VPS13A,Gln113Ter,Pathogenic,1
+VWF,Tyr795Cys,Pathogenic,1
+RPGR,Cys356Ter,Pathogenic,1
+FGFR2,Met391Arg,Pathogenic,1
+SLX4,Glu7Ter,Pathogenic,1
+ZFYVE26,Ser1548Ter,Pathogenic,1
+NF1,Cys673Ter,Pathogenic,1
+ARMC5,Arg764Ter,Pathogenic,1
+IBA57,Gln103Ter,Pathogenic,1
+NPC1,Gln407Ter,Pathogenic,1
+ABCD1,Gly507Asp,Pathogenic,1
+EXT1,Tyr467Ter,Pathogenic,1
+IDH3A,Met239Thr,Pathogenic,1
+SDCCAG8,Gln288Ter,Pathogenic,1
+HNF1B,Tyr169His,Pathogenic,1
+DNAH5,Tyr523Ter,Pathogenic,1
+DNMT3A,Trp795Ter,Pathogenic,1
+BRAT1,Trp35Ter,Pathogenic,1
+PKP1,Gln614Ter,Pathogenic,1
+SCN1A,Arg377Ter,Pathogenic,1
+RB1,Gln35Ter,Pathogenic,1
+SLC6A3,Leu224Pro,Pathogenic,1
+DMD,Gln1383Ter,Pathogenic,1
+CREBBP,Glu1020Ter,Pathogenic,1
+SCN1A,Leu890Pro,Pathogenic,1
+RAB18,Thr95Arg,Pathogenic,1
+COL11A2,Arg1061Ter,Pathogenic,1
+TGFBR2,Tyr424Cys,Pathogenic,1
+AR,Met1Ile,Pathogenic,1
+LRP2,Glu2674Ter,Pathogenic,1
+APC,Glu1284Ter,Pathogenic,1
+COL3A1,Gly603Asp,Pathogenic,1
+SLC2A1,Glu359Ter,Pathogenic,1
+KDM5C,Gln859Ter,Pathogenic,1
+SRSF2,Pro95Leu,Pathogenic,1
+MPZ,Ser63Cys,Pathogenic,1
+LRP6,Arg644Ter,Pathogenic,1
+ZC4H2,Glu58Ter,Pathogenic,1
+OBSCN,Arg6329Ter,Pathogenic,1
+GPSM2,Arg365Ter,Pathogenic,1
+FBN1,Cys582Arg,Pathogenic,1
+PDHA1,Arg304Ter,Pathogenic,1
+SLC26A4,Phe692Leu,Pathogenic,1
+HMBS,Gln204His,Pathogenic,1
+PDGFRB,Asp826Tyr,Pathogenic,1
+PAX6,Trp176Ter,Pathogenic,1
+HAND2,Glu67Ter,Pathogenic,1
+DYSF,Gly2042Asp,Pathogenic,1
+FLG,Arg1150Ter,Pathogenic,1
+ACBD5,Trp26Ter,Pathogenic,1
+CHM,Gly44Ter,Pathogenic,1
+RAD50,Gln1011Ter,Pathogenic,1
+DSP,Asn287Lys,Pathogenic,1
+DEPDC5,Trp115Ter,Pathogenic,1
+ATP7B,Arg919Gly,Pathogenic,1
+DNAH11,Glu3175Ter,Pathogenic,1
+MAMLD1,Arg726Ter,Pathogenic,1
+ALDH7A1,Tyr354Cys,Pathogenic,1
+KRAS,Val14Ile,Pathogenic,1
+DNMT3A,Val716Ile,Pathogenic,1
+ACTG2,Arg148Ser,Pathogenic,1
+IDS,Lys213Ter,Pathogenic,1
+PCLO,Ser1349Ter,Pathogenic,1
+BBS1,Gln128Ter,Pathogenic,1
+GNE,Gln692Ter,Pathogenic,1
+VHL,Gly114Arg,Pathogenic,1
+BTK,Met630Lys,Pathogenic,1
+NOTCH3,Cys323Ser,Pathogenic,1
+AICDA,Met139Val,Pathogenic,1
+RAD51D,Gln168Ter,Pathogenic,1
+SCN5A,Gly514Cys,Pathogenic,1
+DOK7,Tyr160Ter,Pathogenic,1
+MLH1,Tyr646Ter,Pathogenic,1
+SMARCAL1,Trp622Ter,Pathogenic,1
+BRAF,Lys601Thr,Pathogenic,1
+ACTA1,Gly76Arg,Pathogenic,1
+STAT1,Lys201Asn,Pathogenic,1
+ACAN,Trp615Ter,Pathogenic,1
+GUCY2D,Trp22Ter,Pathogenic,1
+IDS,Tyr54Ter,Pathogenic,1
+AGPAT2,Ser100Asn,Pathogenic,1
+SOX11,Trp429Ter,Pathogenic,1
+ABCA4,Tyr665Ter,Pathogenic,1
+SYN1,Arg422Ter,Pathogenic,1
+GPC3,Gln444Ter,Pathogenic,1
+MSH6,Tyr1006Ter,Pathogenic,1
+ALG5,Arg79Trp,Pathogenic,1
+ALDH3A2,Lys437Ter,Pathogenic,1
+APC,Ser1104Ter,Pathogenic,1
+DNAH11,Trp1750Ter,Pathogenic,1
+CDKL5,Gln606Ter,Pathogenic,1
+OTUD6B,Glu211Ter,Pathogenic,1
+KMT2A,Lys1113Ter,Pathogenic,1
+CDH23,Glu1539Ter,Pathogenic,1
+COG5,Arg755Ter,Pathogenic,1
+RECQL4,Gln377Ter,Pathogenic,1
+HMGCS1,Arg430Lys,Pathogenic,1
+RNASEH2B,Ser28Ter,Pathogenic,1
+DCDC2,Lys217Ter,Pathogenic,1
+BRAF,Thr241Lys,Pathogenic,1
+TMC1,Arg389Ter,Pathogenic,1
+NF1,Tyr1783Ter,Pathogenic,1
+CHST6,Arg127Cys,Pathogenic,1
+MSH6,Tyr1066Ter,Pathogenic,1
+HGD,Leu44Phe,Pathogenic,1
+LCA5,Ser56Ter,Pathogenic,1
+PCNT,Lys2909Ter,Pathogenic,1
+ANKRD11,Gln2350Ter,Pathogenic,1
+DST,Trp4383Ter,Pathogenic,1
+BRCA2,Arg2645Ter,Pathogenic,1
+SLC25A46,Leu341Pro,Pathogenic,1
+PHEX,Tyr593Ter,Pathogenic,1
+NALCN,Arg1181Ter,Pathogenic,1
+DYRK1A,Gly162Arg,Pathogenic,1
+TRIOBP,Arg774Ter,Pathogenic,1
+AGXT,Gly63Arg,Pathogenic,1
+MYO7A,Gln1102Ter,Pathogenic,1
+SETD2,Arg368Ter,Pathogenic,1
+KRIT1,Lys569Ter,Pathogenic,1
+SLC45A2,Tyr422Ter,Pathogenic,1
+PTPN23,Asn634Lys,Pathogenic,1
+GLDC,Tyr848Ter,Pathogenic,1
+COL1A1,Gly791Ala,Pathogenic,1
+MTHFD1,Gly276Arg,Pathogenic,1
+FBN1,Arg1541Ter,Pathogenic,1
+MYH7,Arg403Gln,Pathogenic,1
+TRPV4,Arg616Gln,Pathogenic,1
+BUB1B,Leu959Ter,Pathogenic,1
+IL12RB1,Gln165Ter,Pathogenic,1
+NR3C2,Cys645Ter,Pathogenic,1
+TSC1,Gln842Ter,Pathogenic,1
+FLNC,Cys203Ter,Pathogenic,1
+SLC6A8,Tyr542Ter,Pathogenic,1
+COLEC11,Gly204Ser,Pathogenic,1
+IDH1,Arg132Leu,Pathogenic,1
+COL1A2,Gly766Ser,Pathogenic,1
+FOXP1,Arg503Ter,Pathogenic,1
+BLM,Tyr764Ter,Pathogenic,1
+ATP7B,Gly1341Val,Pathogenic,1
+COL1A1,Gly305Ser,Pathogenic,1
+SOX2,Trp166Ter,Pathogenic,1
+BRCA2,Ser2695Ter,Pathogenic,1
+BMPR2,Tyr40Ter,Pathogenic,1
+TYMP,Ile54Met,Pathogenic,1
+PKD2,Arg654Ter,Pathogenic,1
+CHD8,Gln1404Ter,Pathogenic,1
+BRCA2,Gln1295Ter,Pathogenic,1
+GRIN2A,Ala508Thr,Pathogenic,1
+TWIST1,Leu159Phe,Pathogenic,1
+ETFDH,Val291Gly,Pathogenic,1
+NEB,Tyr2384Ter,Pathogenic,1
+LRP2,Cys3525Ter,Pathogenic,1
+DMD,Gln442Ter,Pathogenic,1
+ASXL3,Gln1512Ter,Pathogenic,1
+SORL1,Trp450Ter,Pathogenic,1
+SLC4A1,Trp81Ter,Pathogenic,1
+ENG,Val311Gly,Pathogenic,1
+EXT2,Tyr222Ter,Pathogenic,1
+APC,Lys311Ter,Pathogenic,1
+CST6,Gln121Ter,Pathogenic,1
+MSH6,Lys920Ter,Pathogenic,1
+DICER1,Tyr1335Ter,Pathogenic,1
+NIPBL,Gln2028Ter,Pathogenic,1
+BRAF,Lys601Glu,Pathogenic,1
+ALPL,Gln347Ter,Pathogenic,1
+RECQL4,Trp613Ter,Pathogenic,1
+F8,Asp101Gly,Pathogenic,1
+TACSTD2,Gln207Ter,Pathogenic,1
+DDR2,Arg611Ter,Pathogenic,1
+EGR2,Glu412Gly,Pathogenic,1
+CSNK2A1,Arg43Ter,Pathogenic,1
+CERKL,Gln112Ter,Pathogenic,1
+RPGRIP1L,Gln1023Ter,Pathogenic,1
+COL27A1,Gln1658Ter,Pathogenic,1
+SDHA,Met1Ile,Pathogenic,1
+KCNJ2,Ser136Phe,Pathogenic,1
+TNNI3,Lys206Glu,Pathogenic,1
+GRIN2B,Lys488Met,Pathogenic,1
+SCN1A,Met1852Thr,Pathogenic,1
+ATM,Gln14Ter,Pathogenic,1
+CAPN15,Gly969Ser,Pathogenic,1
+NDUFAF5,Leu10Ter,Pathogenic,1
+CFAP54,Arg293His,Pathogenic,1
+SLC5A5,Gly543Glu,Pathogenic,1
+ASAH1,Gly168Trp,Pathogenic,1
+MKS1,Gln42Ter,Pathogenic,1
+BRCA2,Ser1764Ter,Pathogenic,1
+WDPCP,Cys240Ter,Pathogenic,1
+PMS2,Lys593Ter,Pathogenic,1
+BLM,Trp881Ter,Pathogenic,1
+LDLR,Val127Gly,Pathogenic,1
+KLHL3,Pro501Thr,Pathogenic,1
+SATB2,Gln144Ter,Pathogenic,1
+ABCA4,Pro1511Arg,Pathogenic,1
+LIG4,Gln773Ter,Pathogenic,1
+FAT4,Arg2846Ter,Pathogenic,1
+LRP5,Cys1305Ter,Pathogenic,1
+SATB2,Gln409Ter,Pathogenic,1
+PROM1,Arg244Ter,Pathogenic,1
+KCTD1,Pro628Ser,Pathogenic,1
+MVK,His20Pro,Pathogenic,1
+KCNQ5,Pro369Arg,Pathogenic,1
+MYO7A,Tyr999Ter,Pathogenic,1
+BEST1,Val81Leu,Pathogenic,1
+ABCA4,Gln1516Ter,Pathogenic,1
+SPAST,Ser436Tyr,Pathogenic,1
+CFAP418,Trp147Ter,Pathogenic,1
+PIGN,Gln656Ter,Pathogenic,1
+DYNC2H1,Arg560Ter,Pathogenic,1
+TAP1,Arg312Ter,Pathogenic,1
+MAB21L1,Tyr280Ter,Pathogenic,1
+RPSA,Thr54Asn,Pathogenic,1
+BMPR2,Lys230Asn,Pathogenic,1
+FGFR1,Ala608Asp,Pathogenic,1
+NFE2L2,Thr80Lys,Pathogenic,1
+PKHD1L1,Gly605Arg,Pathogenic,1
+ELAC2,Phe154Leu,Pathogenic,1
+FANCM,Gly201Ter,Pathogenic,1
+TECPR2,Gln852Ter,Pathogenic,1
+CACNA1A,Val713Ala,Pathogenic,1
+DNAH11,Gln4366Ter,Pathogenic,1
+NBAS,Glu956Ter,Pathogenic,1
+FA2H,Trp169Ter,Pathogenic,1
+BRCA1,Gly1738Arg,Pathogenic,1
+ATM,Ser83Ter,Pathogenic,1
+PKD1,Trp1582Ter,Pathogenic,1
+CACNA1A,Gln912Ter,Pathogenic,1
+TSC2,Ser742Ter,Pathogenic,1
+BRCA1,Gln169Ter,Pathogenic,1
+TSC2,Glu1360Ter,Pathogenic,1
+TAOK1,Glu835Ter,Pathogenic,1
+SCN1A,Pro1323Thr,Pathogenic,1
+NF1,Glu836Ter,Pathogenic,1
+RUNX1,Gln268Ter,Pathogenic,1
+CACNA1F,Arg1288Ter,Pathogenic,1
+RASGRP2,Gly248Trp,Pathogenic,1
+SPTB,Trp725Ter,Pathogenic,1
+CEP83,Arg41Ter,Pathogenic,1
+FLNC,Trp34Ter,Pathogenic,1
+KRT14,Glu411Ter,Pathogenic,1
+TSC2,Tyr1250Ter,Pathogenic,1
+COL7A1,Gly2213Arg,Pathogenic,1
+PERP,Trp151Ter,Pathogenic,1
+AP1B1,Gln893Ter,Pathogenic,1
+TNRC6B,Gln881Ter,Pathogenic,1
+BRCA2,Glu1035Ter,Pathogenic,1
+SBF2,Gln1455Ter,Pathogenic,1
+GRIN1,Gln40Ter,Pathogenic,1
+WLS,Tyr392Cys,Pathogenic,1
+TYK2,Leu1014Pro,Pathogenic,1
+CYP17A1,Gln268Ter,Pathogenic,1
+GBA1,Pro454Leu,Pathogenic,1
+MFN2,Arg373Ter,Pathogenic,1
+DPYS,Tyr168His,Pathogenic,1
+TPI1,Phe241Ser,Pathogenic,1
+SOX10,Lys172Ter,Pathogenic,1
+USH2A,Gly3556Ter,Pathogenic,1
+BRIP1,Gln827Ter,Pathogenic,1
+NAXE,Ala94Asp,Pathogenic,1
+NKX2-5,Tyr256Ter,Pathogenic,1
+COL2A1,Asp1469Tyr,Pathogenic,1
+CNOT3,Trp622Ter,Pathogenic,1
+NSD1,Tyr1815Ter,Pathogenic,1
+NF1,Tyr1292Ter,Pathogenic,1
+ATM,Trp57Ter,Pathogenic,1
+POLG,Arg627Trp,Pathogenic,1
+ATP2A1,Tyr497Ter,Pathogenic,1
+GNB1,Trp63Ter,Pathogenic,1
+MAPRE2,Gln152Ter,Pathogenic,1
+PIK3R1,Arg301Ter,Pathogenic,1
+TSEN54,Lys224Ter,Pathogenic,1
+CYP21A2,Arg445Ter,Pathogenic,1
+SPTB,Trp652Ter,Pathogenic,1
+EARS2,Lys65Glu,Pathogenic,1
+ARL6,Leu63Ter,Pathogenic,1
+ALMS1,Ser2780Ter,Pathogenic,1
+GLI1,Gln644Ter,Pathogenic,1
+VPS13B,Leu2026Ter,Pathogenic,1
+CYP19A1,Arg115Ter,Pathogenic,1
+SUPT16H,Leu432Pro,Pathogenic,1
+CRB1,Gly791Arg,Pathogenic,1
+GLA,Ile384Asn,Pathogenic,1
+PINK1,Arg246Ter,Pathogenic,1
+LARS1,Lys834Ter,Pathogenic,1
+BARD1,Ser412Ter,Pathogenic,1
+FLCN,Trp260Ter,Pathogenic,1
+APC,Gly371Ter,Pathogenic,1
+HERC1,Arg1466Ter,Pathogenic,1
+SLX4,Gln1306Ter,Pathogenic,1
+MPL,Arg102Pro,Pathogenic,1
+FBN1,Cys555Phe,Pathogenic,1
+BRCA2,Glu304Ter,Pathogenic,1
+RPGR,Glu836Ter,Pathogenic,1
+TG,Trp1287Ter,Pathogenic,1
+RYR1,Trp3445Ter,Pathogenic,1
+COL1A1,Gln966Ter,Pathogenic,1
+PHEX,Gln515Ter,Pathogenic,1
+ALDH5A1,Tyr106Ter,Pathogenic,1
+CTSF,Arg217Ter,Pathogenic,1
+ATM,Leu435Ter,Pathogenic,1
+KMT2D,Arg5501Ter,Pathogenic,1
+SCN4A,Ile693Thr,Pathogenic,1
+MYBPC3,Trp1098Ter,Pathogenic,1
+SZT2,Gln958Ter,Pathogenic,1
+ABCA12,Asn1380Ser,Pathogenic,1
+ANXA11,Asp40Gly,Pathogenic,1
+RASGRP2,Gly248Trp,Pathogenic,1
+LAMC2,Gln615Ter,Pathogenic,1
+TOR1AIP1,Gln255Ter,Pathogenic,1
+PALB2,Ser168Ter,Pathogenic,1
+NBAS,Leu961Ter,Pathogenic,1
+TSC2,Gly1595Arg,Pathogenic,1
+TNNT2,Pro90Leu,Pathogenic,1
+ADAMTSL2,Asp167Asn,Pathogenic,1
+TULP1,Arg482Gln,Pathogenic,1
+L1CAM,Asp598Asn,Pathogenic,1
+HPS1,Glu133Ter,Pathogenic,1
+SMARCA4,Gly719Asp,Pathogenic,1
+DSP,Trp493Ter,Pathogenic,1
+GPR143,Trp133Arg,Pathogenic,1
+LMNA,Trp498Ter,Pathogenic,1
+DNAAF2,Glu621Ter,Pathogenic,1
+FRAS1,Ser1424Ter,Pathogenic,1
+COL3A1,Gly726Glu,Pathogenic,1
+DEAF1,Gly225Val,Pathogenic,1
+CFTR,Leu1324Pro,Pathogenic,1
+PHEX,Met1Ile,Pathogenic,1
+ATP7B,Gln155Ter,Pathogenic,1
+APTX,Gln187Ter,Pathogenic,1
+CDKN1C,Glu82Ter,Pathogenic,1
+ATP7B,Ser105Ter,Pathogenic,1
+PSEN1,Leu286Val,Pathogenic,1
+ARSA,Arg290Cys,Pathogenic,1
+SGCD,Trp30Ter,Pathogenic,1
+FBN1,Trp854Cys,Pathogenic,1
+SLC26A4,Ser366Ter,Pathogenic,1
+OTC,Ser164Ter,Pathogenic,1
+DMD,Leu1674Ter,Pathogenic,1
+FLNC,Gln357Ter,Pathogenic,1
+RDH12,Glu77Ter,Pathogenic,1
+RP1L1,Arg703Ter,Pathogenic,1
+SERPING1,Arg466Ser,Pathogenic,1
+RPGRIP1,Ser256Ter,Pathogenic,1
+ZFYVE26,Gln1651Ter,Pathogenic,1
+SMARCC2,Met927Val,Pathogenic,1
+HCN1,Ser264Cys,Pathogenic,1
+APC,Ser280Ter,Pathogenic,1
+SETD1A,Glu982Ter,Pathogenic,1
+COL7A1,Ser721Ter,Pathogenic,1
+EHMT1,Ser1161Ter,Pathogenic,1
+CDK6,Ala197Thr,Pathogenic,1
+MFRP,Trp329Ter,Pathogenic,1
+ANK1,Gln120Ter,Pathogenic,1
+TECPR2,Trp1306Ter,Pathogenic,1
+ETFDH,Trp484Arg,Pathogenic,1
+NF1,Gln236Ter,Pathogenic,1
+FOXC2,Gln420Ter,Pathogenic,1
+MTHFR,Gln260Ter,Pathogenic,1
+GOSR2,Met1Arg,Pathogenic,1
+NIPBL,Tyr1445Ter,Pathogenic,1
+BCKDHA,Cys258Ter,Pathogenic,1
+OCRL,Arg334Ter,Pathogenic,1
+PIK3R2,Asp557His,Pathogenic,1
+AR,Phe828Leu,Pathogenic,1
+COL1A1,Gly1022Ala,Pathogenic,1
+ALMS1,Gln1346Ter,Pathogenic,1
+GATA6,Asn466Asp,Pathogenic,1
+LRP4,Glu956Ter,Pathogenic,1
+DYSF,Gly331Arg,Pathogenic,1
+ACVRL1,Met376Arg,Pathogenic,1
+CDKN2A,Tyr44Ter,Pathogenic,1
+NOTCH1,Gln846Ter,Pathogenic,1
+CEP290,Glu2422Ter,Pathogenic,1
+MPO,Arg135Ter,Pathogenic,1
+MYRF,Gln515Ter,Pathogenic,1
+PIEZO2,Ile802Phe,Pathogenic,1
+ACTC1,Met271Val,Pathogenic,1
+PRIMA1,Trp27Ter,Pathogenic,1
+CALM3,Phe142Leu,Pathogenic,1
+NR3C2,Arg651Ter,Pathogenic,1
+TSC2,Glu1243Ter,Pathogenic,1
+ARSA,Cys158Ter,Pathogenic,1
+CHM,Tyr254Ter,Pathogenic,1
+CFTR,Gly126Asp,Pathogenic,1
+GTF3C3,Arg807Cys,Pathogenic,1
+ASXL1,Gln977Ter,Pathogenic,1
+ADA,Trp272Ter,Pathogenic,1
+FBN1,Cys1736Ter,Pathogenic,1
+GALNT3,Thr272Lys,Pathogenic,1
+HPD,Tyr200Ter,Pathogenic,1
+CHD2,Glu1063Ter,Pathogenic,1
+CLCN2,Arg172Gln,Pathogenic,1
+DMD,Trp2786Ter,Pathogenic,1
+CLRN1,Leu140Ter,Pathogenic,1
+ASPM,Glu2333Ter,Pathogenic,1
+KDELR2,Arg5Trp,Pathogenic,1
+MVK,Trp188Ter,Pathogenic,1
+KIT,Gly664Arg,Pathogenic,1
+CLRN1,Ser188Ter,Pathogenic,1
+CRB1,Val666Asp,Pathogenic,1
+OTOF,Gln940Ter,Pathogenic,1
+DNAH5,Gln2091Ter,Pathogenic,1
+USH2A,Cys4814Phe,Pathogenic,1
+BTK,Arg28Cys,Pathogenic,1
+FBN1,Cys504Ter,Pathogenic,1
+CUL7,Arg382Ter,Pathogenic,1
+MYO7A,Tyr559Ter,Pathogenic,1
+CHD2,Lys702Arg,Pathogenic,1
+ABCA4,Gln2104Ter,Pathogenic,1
+POLG,Arg232Cys,Pathogenic,1
+KCNH2,Trp563Ter,Pathogenic,1
+DNAH5,Glu352Ter,Pathogenic,1
+PIGA,Ile206Phe,Pathogenic,1
+HACE1,Arg269Ter,Pathogenic,1
+SLC12A5,Cys322Ter,Pathogenic,1
+DCX,Lys151Ter,Pathogenic,1
+APC,Gln1406Ter,Pathogenic,1
+HSPA9,Tyr128Cys,Pathogenic,1
+VPS33B,Arg438Ter,Pathogenic,1
+WDR62,Gln970Ter,Pathogenic,1
+CTSA,Tyr291Ter,Pathogenic,1
+PPT1,Gln177Glu,Pathogenic,1
+ANKRD31,Gln329Ter,Pathogenic,1
+FANCA,Leu155Ter,Pathogenic,1
+CTNNA1,Lys373Ter,Pathogenic,1
+SDHD,Tyr114Cys,Pathogenic,1
+LRP2,Cys2043Ter,Pathogenic,1
+SORL1,Lys1238Ter,Pathogenic,1
+ATP7A,Arg201Ter,Pathogenic,1
+NXN,Trp165Ter,Pathogenic,1
+NBAS,Trp934Ter,Pathogenic,1
+GRIN2D,Ser694Arg,Pathogenic,1
+CACNA1A,Gln847Ter,Pathogenic,1
+SYNE1,Arg8047Ter,Pathogenic,1
+NF1,Cys1063Ter,Pathogenic,1
+KMT2D,Gln4732Ter,Pathogenic,1
+RPS19,Trp33Ter,Pathogenic,1
+ACAN,Tyr2365Ter,Pathogenic,1
+MITF,Arg321Ter,Pathogenic,1
+PAH,His170Asp,Pathogenic,1
+UBE3B,Tyr117Ter,Pathogenic,1
+BLM,Glu1212Ter,Pathogenic,1
+MRAP,Met1Val,Pathogenic,1
+KRT14,Leu419Gln,Pathogenic,1
+TNFRSF13B,Arg9Ter,Pathogenic,1
+GTF2H5,Lys17Ter,Pathogenic,1
+KIZ,Gln22Ter,Pathogenic,1
+TSC1,Glu876Ter,Pathogenic,1
+PMS2,Glu583Ter,Pathogenic,1
+ATM,Glu2479Ter,Pathogenic,1
+GATA2,Ser290Ter,Pathogenic,1
+PCNT,Arg2918Ter,Pathogenic,1
+PCNT,Arg2855Ter,Pathogenic,1
+SPINK5,Arg217Ter,Pathogenic,1
+COL4A3,Gly792Ter,Pathogenic,1
+CEP295,Pro562Leu,Pathogenic,1
+GLB1,Asp441Asn,Pathogenic,1
+HGD,Asp18Asn,Pathogenic,1
+APC,Gln1621Ter,Pathogenic,1
+FBN1,Gln1990Ter,Pathogenic,1
+GLDC,Trp8Ter,Pathogenic,1
+PIGO,Gln799His,Pathogenic,1
+ANKRD11,Ser1354Ter,Pathogenic,1
+KDM3B,Arg943Gln,Pathogenic,1
+FIG4,Gln572Ter,Pathogenic,1
+BMPR1A,Gln22Ter,Pathogenic,1
+ATP1A3,Ala723Pro,Pathogenic,1
+ABCB11,Glu1127Ter,Pathogenic,1
+APOB,Arg3699Ter,Pathogenic,1
+RAC1,Tyr64Asp,Pathogenic,1
+TRIOBP,Arg448Ter,Pathogenic,1
+F8,Arg2228Gln,Pathogenic,1
+UROS,Cys73Arg,Pathogenic,1
+SLC25A21,Lys232Arg,Pathogenic,1
+DMD,Gln2526Ter,Pathogenic,1
+MLH1,Lys140Ter,Pathogenic,1
+MSN,Trp168Ter,Pathogenic,1
+OTC,Pro305His,Pathogenic,1
+ATP6V0A2,Leu672Ter,Pathogenic,1
+CYP4F22,His435Tyr,Pathogenic,1
+BMPR2,Cys123Ser,Pathogenic,1
+SMOC2,Cys216Ter,Pathogenic,1
+SMARCA2,Leu1217Pro,Pathogenic,1
+PHEX,Gln621Ter,Pathogenic,1
+GDAP1,Ala156Gly,Pathogenic,1
+OGDH,Arg312Lys,Pathogenic,1
+FOXP1,Ser440Ter,Pathogenic,1
+SCN1A,Glu1503Lys,Pathogenic,1
+ASCC1,Arg110Ter,Pathogenic,1
+BRCA2,Lys1058Ter,Pathogenic,1
+NEB,Tyr635Ter,Pathogenic,1
+SPTB,Trp1043Ter,Pathogenic,1
+RAB23,Lys141Ter,Pathogenic,1
+HDAC4,Pro248Ala,Pathogenic,1
+MVK,Asn301Thr,Pathogenic,1
+EPS8,Ser60Ter,Pathogenic,1
+SLC12A3,Val807Glu,Pathogenic,1
+GUK1,Gln47Ter,Pathogenic,1
+NKX2-1,Ser217Ter,Pathogenic,1
+GUCY2D,Arg7Ter,Pathogenic,1
+PTPN11,Leu262Arg,Pathogenic,1
+PHEX,Leu236Pro,Pathogenic,1
+CIT,Arg1839Ter,Pathogenic,1
+MYH2,Glu1301Ter,Pathogenic,1
+BMPR2,Gln42Ter,Pathogenic,1
+SLC26A4,Gln207Ter,Pathogenic,1
+ASS1,Gly390Arg,Pathogenic,1
+BLM,Tyr1029Ter,Pathogenic,1
+ANKRD11,Glu805Ter,Pathogenic,1
+PCSK9,Leu108Pro,Pathogenic,1
+SETD1A,Glu982Ter,Pathogenic,1
+SOD1,Asn87Ser,Pathogenic,1
+NAE1,Arg430Gln,Pathogenic,1
+COL4A1,Gly749Ser,Pathogenic,1
+PDZD7,Arg59Ter,Pathogenic,1
+DNAAF19,Glu146Ter,Pathogenic,1
+PAX2,Tyr302Ter,Pathogenic,1
+EDA,Ser110Ter,Pathogenic,1
+GAA,Gln115Ter,Pathogenic,1
+PIGN,Trp314Ter,Pathogenic,1
+ADGRV1,Trp3486Ter,Pathogenic,1
+WDR35,Arg332Ter,Pathogenic,1
+NEB,Tyr4228Ter,Pathogenic,1
+MTHFR,Trp389Ter,Pathogenic,1
+BAP1,Lys155Ter,Pathogenic,1
+USH2A,Trp2644Ter,Pathogenic,1
+SC5D,Asp210Glu,Pathogenic,1
+COL1A1,Glu1021Ter,Pathogenic,1
+ACTA1,Asp288Gly,Pathogenic,1
+ATM,Tyr2036Ter,Pathogenic,1
+GCK,Thr255Ala,Pathogenic,1
+CLCNKB,Arg76Ter,Pathogenic,1
+MPDZ,Glu1006Ter,Pathogenic,1
+NPR2,Glu567Ter,Pathogenic,1
+FANCE,Trp347Ter,Pathogenic,1
+COQ2,Ser96Asn,Pathogenic,1
+SYNE4,Gln121Ter,Pathogenic,1
+COL1A2,Met93Ile,Pathogenic,1
+RB1,Arg552Ter,Pathogenic,1
+FKRP,Ile367Asn,Pathogenic,1
+BEST1,Thr91Ile,Pathogenic,1
+UBE3A,Trp597Ter,Pathogenic,1
+FANCI,Glu722Ter,Pathogenic,1
+CCDC40,Gln974Ter,Pathogenic,1
+BMPR1A,Trp487Ter,Pathogenic,1
+ASXL3,Gln466Ter,Pathogenic,1
+RUNX1,Trp106Ter,Pathogenic,1
+KCNQ1,Ala178Pro,Pathogenic,1
+FLNC,Gln485Ter,Pathogenic,1
+RBP3,Arg388Ter,Pathogenic,1
+RELN,Gly2783Cys,Pathogenic,1
+BFSP1,Gln300Ter,Pathogenic,1
+NF1,Tyr930Ter,Pathogenic,1
+KCNQ2,Lys606Ter,Pathogenic,1
+TAP2,Arg623Ter,Pathogenic,1
+MSH2,Gln397Ter,Pathogenic,1
+VHL,Gly144Ter,Pathogenic,1
+MLH1,Gly351Ter,Pathogenic,1
+LAMB1,Arg508Ter,Pathogenic,1
+FANCE,Gln119Ter,Pathogenic,1
+DOHH,Asn184Lys,Pathogenic,1
+BRCA1,Glu1258Ter,Pathogenic,1
+BMPR2,Gln42Ter,Pathogenic,1
+COL4A4,Gln1660Ter,Pathogenic,1
+TNNI3,Gln175Ter,Pathogenic,1
+COL1A1,Gly803Ser,Pathogenic,1
+ASXL1,Trp1037Ter,Pathogenic,1
+SPAST,Arg460Leu,Pathogenic,1
+TNXB,Glu2786Ter,Pathogenic,1
+TUBA1A,Gly95Cys,Pathogenic,1
+NDUFA10,Gln142Arg,Pathogenic,1
+CLCN5,Trp192Ter,Pathogenic,1
+CHD7,Asp2097His,Pathogenic,1
+RRAS2,Gly23Asp,Pathogenic,1
+NF1,Tyr628Ter,Pathogenic,1
+ATP2A1,Tyr858Ter,Pathogenic,1
+ARL13B,Val22Gly,Pathogenic,1
+TMEM67,Gln147Ter,Pathogenic,1
+SMPD1,Arg602His,Pathogenic,1
+PHKG2,Trp300Ter,Pathogenic,1
+APC,Gln1244Ter,Pathogenic,1
+SMN1,Tyr276Cys,Pathogenic,1
+BRCA1,Gln1182Ter,Pathogenic,1
+MFSD8,Glu381Ter,Pathogenic,1
+ALG6,Gln106Ter,Pathogenic,1
+WFS1,Gln520Ter,Pathogenic,1
+RB1,Ser780Ter,Pathogenic,1
+MYH3,Gln56Ter,Pathogenic,1
+ADAMTSL4,Trp53Ter,Pathogenic,1
+CYB5R3,Arg219Ter,Pathogenic,1
+ZAP70,Tyr506Ter,Pathogenic,1
+PAH,Val190Ala,Pathogenic,1
+GLA,Gln327Lys,Pathogenic,1
+LIFR,Arg812Ter,Pathogenic,1
+BAP1,Glu640Ter,Pathogenic,1
+FAM110C,Ala231Pro,Pathogenic,1
+TBX3,Gln331Ter,Pathogenic,1
+TRRAP,Ala1043Val,Pathogenic,1
+CFTR,Lys52Ter,Pathogenic,1
+FAH,Gly337Ser,Pathogenic,1
+ENG,Val105Asp,Pathogenic,1
+ARID2,Gln912Ter,Pathogenic,1
+INTS1,Arg1858Ter,Pathogenic,1
+APC,Arg976Ter,Pathogenic,1
+AGA,Ser72Pro,Pathogenic,1
+OCA2,Gln309Ter,Pathogenic,1
+ACADVL,Val146Gly,Pathogenic,1
+ALOX12B,Asp124Val,Pathogenic,1
+RAD21,Arg586Ter,Pathogenic,1
+PROS1,Cys288Ter,Pathogenic,1
+ZMIZ1,Glu732Ter,Pathogenic,1
+ERBB2,Asn857Ser,Pathogenic,1
+LOC100507346;PTCH1,Glu836Ter,Pathogenic,1
+NF1,Lys1444Arg,Pathogenic,1
+BRCA2,Glu1482Ter,Pathogenic,1
+MSH2,Gly204Ter,Pathogenic,1
+DNAH8,Arg3250Ter,Pathogenic,1
+CPSF1,Gln620Ter,Pathogenic,1
+RPE65,Arg44Gln,Pathogenic,1
+TGFB2,Pro338Thr,Pathogenic,1
+MYH11,Glu342Ter,Pathogenic,1
+PIEZO2,Arg1163Ter,Pathogenic,1
+BRCA2,Glu3152Ter,Pathogenic,1
+BRCA1,Lys32Ter,Pathogenic,1
+TUBA4A,Arg320His,Pathogenic,1
+PDZD7,Gln906Ter,Pathogenic,1
+UBE2A,Gln110Glu,Pathogenic,1
+EFEMP2,Cys267Tyr,Pathogenic,1
+TNNI3,Gln99Ter,Pathogenic,1
+F8,Gly164Val,Pathogenic,1
+ALMS1,Gln3637Ter,Pathogenic,1
+PDZD7,Cys194Ter,Pathogenic,1
+KRIT1,Trp271Ter,Pathogenic,1
+ESPN,Trp88Ter,Pathogenic,1
+APC,Glu1397Ter,Pathogenic,1
+PAH,Tyr277Asp,Pathogenic,1
+SPTAN1,Glu447Ter,Pathogenic,1
+MGME1,Gln139Ter,Pathogenic,1
+XRCC4,Arg205Ter,Pathogenic,1
+THRB,Cys446Arg,Pathogenic,1
+RYR1,Asp4918Asn,Pathogenic,1
+GLI2,Tyr558Ter,Pathogenic,1
+ELP1,Leu430Ter,Pathogenic,1
+FLVCR1,Leu443Arg,Pathogenic,1
+AUH,Arg197Ter,Pathogenic,1
+GATAD2B,Gly406Arg,Pathogenic,1
+COL7A1,Gly2671Glu,Pathogenic,1
+TTN,Trp16471Ter,Pathogenic,1
+AP1S2,Trp18Ter,Pathogenic,1
+BRCA1,Lys995Ter,Pathogenic,1
+ANO1,Thr740Ile,Pathogenic,1
+CIB2,Ile123Thr,Pathogenic,1
+NDUFAF5,Leu159Ter,Pathogenic,1
+SEC23A,Phe382Leu,Pathogenic,1
+NF1,Trp1952Arg,Pathogenic,1
+APP,Ile716Phe,Pathogenic,1
+NAXD,Gln147Ter,Pathogenic,1
+ERCC5,Pro72His,Pathogenic,1
+OPA1,Arg313Ter,Pathogenic,1
+CEP152,Gln64Ter,Pathogenic,1
+ADGRV1,Ser955Ter,Pathogenic,1
+SCN1A,Cys949Phe,Pathogenic,1
+VHL,Arg161Gln,Pathogenic,1
+PAX8,Arg108Ter,Pathogenic,1
+KMT2A,Gln3045Ter,Pathogenic,1
+SSX1,Tyr55Cys,Pathogenic,1
+PURA,Arg4Ter,Pathogenic,1
+PLEC,Gln875Ter,Pathogenic,1
+PLK4,Gln901Ter,Pathogenic,1
+SCN1A,Met1348Ile,Pathogenic,1
+GALNS,Glu298Ter,Pathogenic,1
+COL1A2,Asp1120Gly,Pathogenic,1
+LAMA2,Thr821Pro,Pathogenic,1
+BFSP1,Asp348Asn,Pathogenic,1
+SCN1A,Tyr426His,Pathogenic,1
+CDH1,Trp213Ter,Pathogenic,1
+PHKA1,Arg919Ter,Pathogenic,1
+BRCA1,Gln759Ter,Pathogenic,1
+MPZ,Asp109Asn,Pathogenic,1
+PHF21A,Gln89Ter,Pathogenic,1
+GLUD1,Gly499Val,Pathogenic,1
+BRCA2,Glu1481Ter,Pathogenic,1
+RPGRIP1,Gln644Ter,Pathogenic,1
+DPAGT1,Trp2Ter,Pathogenic,1
+SMAD6,Glu315Ter,Pathogenic,1
+TET2,Cys882Ter,Pathogenic,1
+ERCC2,Tyr625Ter,Pathogenic,1
+SI,Cys1229Tyr,Pathogenic,1
+ITPR1,Arg2211Ter,Pathogenic,1
+BRCA2,Tyr839Ter,Pathogenic,1
+C6,Trp29Ter,Pathogenic,1
+USH2A,Gln4296Ter,Pathogenic,1
+SKIC2,Gln966Ter,Pathogenic,1
+DICER1,Tyr1701Ter,Pathogenic,1
+DARS2,Leu7Ter,Pathogenic,1
+LGI1,Phe318Cys,Pathogenic,1
+ATP6V0A2,Gln102Ter,Pathogenic,1
+FBN1,Cys996Arg,Pathogenic,1
+COL1A2,Gly136Asp,Pathogenic,1
+DNAH5,Ser169Ter,Pathogenic,1
+APOA1,Glu160Ter,Pathogenic,1
+FBN1,Cys1687Ter,Pathogenic,1
+RPGR,Glu954Ter,Pathogenic,1
+INTS1,Ser1784Ter,Pathogenic,1
+DCTN1,Gly59Arg,Pathogenic,1
+SOX11,Arg64Gly,Pathogenic,1
+MTO1,Thr411Ile,Pathogenic,1
+SLC26A3,Tyr367Ter,Pathogenic,1
+PTCH1,Gln694Ter,Pathogenic,1
+JAG1,Arg25Ter,Pathogenic,1
+SAMHD1,Gln271Ter,Pathogenic,1
+COL4A5,Gly298Asp,Pathogenic,1
+RPE65,Leu67Arg,Pathogenic,1
+IDS,Arg88Ser,Pathogenic,1
+RB1,Leu676Ter,Pathogenic,1
+ARID1B,Gln1302Ter,Pathogenic,1
+GJB2,Leu90Pro,Pathogenic,1
+FOXG1,Pro182Gln,Pathogenic,1
+HPS5,Cys496Ter,Pathogenic,1
+FOXG1,Glu171Ter,Pathogenic,1
+NBN,Lys686Ter,Pathogenic,1
+NF1,Glu1094Ter,Pathogenic,1
+PKD1,Gln1116Ter,Pathogenic,1
+PRR12,Gln919Ter,Pathogenic,1
+F5,Phe218Ser,Pathogenic,1
+SCN4A,Leu689Ile,Pathogenic,1
+SCN1A,Trp1812Ter,Pathogenic,1
+DBT,Leu294Ter,Pathogenic,1
+NHS,Gln168Ter,Pathogenic,1
+ZC4H2,Arg213Trp,Pathogenic,1
+MKS1,Arg27Ter,Pathogenic,1
+SOX9,Glu148Ter,Pathogenic,1
+NOTCH3,Cys271Phe,Pathogenic,1
+OAT,Leu402Pro,Pathogenic,1
+TCTN2,Gln163Ter,Pathogenic,1
+ZMYND10,Glu26Ter,Pathogenic,1
+DMD,Ser2008Ter,Pathogenic,1
+BCKDHA,Asp282His,Pathogenic,1
+ABCB11,Pro103Ser,Pathogenic,1
+PLCE1,Arg1057Ter,Pathogenic,1
+APRT,Met1Ile,Pathogenic,1
+TANC2,Tyr952Ter,Pathogenic,1
+LAMB3,Trp168Ter,Pathogenic,1
+DPM3,Leu14Pro,Pathogenic,1
+IDH3B,Gln231Ter,Pathogenic,1
+ZBTB24,Arg320Ter,Pathogenic,1
+NTRK2,Gly444Ter,Pathogenic,1
+DMD,Gln1227Ter,Pathogenic,1
+PKHD1,Tyr3184Ter,Pathogenic,1
+MTTP,Ser212Ter,Pathogenic,1
+SCN1A,Trp1408Ter,Pathogenic,1
+UNC80,Arg1064Ter,Pathogenic,1
+PKD1,Arg3753Trp,Pathogenic,1
+SCN1A,Leu224Ser,Pathogenic,1
+CCDC40,Glu1117Ter,Pathogenic,1
+SDHA,Arg162Ter,Pathogenic,1
+ADGRV1,Gln5059Ter,Pathogenic,1
+NF1,Tyr2476Ter,Pathogenic,1
+CEP78,Glu457Ter,Pathogenic,1
+CTNNA1,Arg98Ter,Pathogenic,1
+NEB,Tyr4571Ter,Pathogenic,1
+MSH2,Pro622Leu,Pathogenic,1
+MTM1,Leu70Phe,Pathogenic,1
+TNFRSF13B,Ser144Ter,Pathogenic,1
+FBN1,Cys1947Ser,Pathogenic,1
+FLNC,Arg2326Ter,Pathogenic,1
+GLI3,Glu543Ter,Pathogenic,1
+TSC2,Val1673Gly,Pathogenic,1
+CST3,Leu94Gln,Pathogenic,1
+FIG4,Lys443Ter,Pathogenic,1
+TRPS1,Val929Gly,Pathogenic,1
+GAD1,Asn564Ser,Pathogenic,1
+DAW1,Ser364Thr,Pathogenic,1
+POLR3A,Tyr721Ter,Pathogenic,1
+CDKN1C,Glu34Ter,Pathogenic,1
+ATM,Met1Leu,Pathogenic,1
+FBN1,Trp988Ter,Pathogenic,1
+KDM5B,Leu184Ter,Pathogenic,1
+COL1A2,Gly1093Arg,Pathogenic,1
+PCNT,Ser1552Ter,Pathogenic,1
+HNRNPU,Arg484Ter,Pathogenic,1
+BTK,Arg520Gln,Pathogenic,1
+BEST1,Leu294Phe,Pathogenic,1
+PLCG2,Ser707Tyr,Pathogenic,1
+COL3A1,Lys779Asn,Pathogenic,1
+DMD,Gln3427Ter,Pathogenic,1
+ERCC6,Gln19Ter,Pathogenic,1
+STXBP1,Tyr519Ter,Pathogenic,1
+SLC7A9,Cys153Ter,Pathogenic,1
+MLH1,Ser252Ter,Pathogenic,1
+MEN1,Arg275Met,Pathogenic,1
+XRCC4,Asp82Glu,Pathogenic,1
+ADAMTSL2,Trp862Ter,Pathogenic,1
+COL12A1,Gln1428Ter,Pathogenic,1
+KCNQ2,Tyr347Cys,Pathogenic,1
+KARS1,Tyr112Ter,Pathogenic,1
+SLC7A9,Pro482Leu,Pathogenic,1
+SYNGAP1,Glu1271Ter,Pathogenic,1
+L1CAM,Gly370Arg,Pathogenic,1
+GABRB2,Leu277Ser,Pathogenic,1
+LDLR,Cys302Phe,Pathogenic,1
+ARR3,Leu80Pro,Pathogenic,1
+VPS33B,Arg23Ter,Pathogenic,1
+ATM,Glu2236Ter,Pathogenic,1
+NOTCH3,Cys87Arg,Pathogenic,1
+ALOX12B,Gly462Asp,Pathogenic,1
+DPAGT1,Ile69Asn,Pathogenic,1
+CYP1B1,Met1Arg,Pathogenic,1
+DES,Gln364Ter,Pathogenic,1
+PALB2,Tyr512Ter,Pathogenic,1
+APC,Glu2208Ter,Pathogenic,1
+COL3A1,Arg428Ter,Pathogenic,1
+VWF,Cys788Tyr,Pathogenic,1
+NF1,Leu180Ter,Pathogenic,1
+USH2A,Glu1404Ter,Pathogenic,1
+FARS2,Met1Val,Pathogenic,1
+SMARCD1,Arg446Gly,Pathogenic,1
+ADSL,Trp45Ter,Pathogenic,1
+USH2A,Tyr3747Ter,Pathogenic,1
+RYR2,Leu433Pro,Pathogenic,1
+KLHL3,Gln309Arg,Pathogenic,1
+ATM,Glu1353Ter,Pathogenic,1
+HGD,Phe329Cys,Pathogenic,1
+COL2A1,Tyr1391His,Pathogenic,1
+MLH1,Ser211Ter,Pathogenic,1
+SPTB,Cys603Ter,Pathogenic,1
+RASA1,Tyr872Ter,Pathogenic,1
+PTCH1,Leu116Ter,Pathogenic,1
+BRCA1,Leu1089Ter,Pathogenic,1
+CFTR,Lys442Ter,Pathogenic,1
+PTCH1,Cys234Ter,Pathogenic,1
+BRCA2,Lys3115Ter,Pathogenic,1
+EVC,Gln53Ter,Pathogenic,1
+DYNC2H1,Glu1111Lys,Pathogenic,1
+SETD5,Arg1001Ter,Pathogenic,1
+RB1,Glu413Ter,Pathogenic,1
+COL27A1,Trp1791Ter,Pathogenic,1
+LDHA,Ser137Ter,Pathogenic,1
+OCRL,His660Pro,Pathogenic,1
+KRIT1,Gly661Ter,Pathogenic,1
+LMNA,Glu161Ter,Pathogenic,1
+ABCC8,Glu100Ter,Pathogenic,1
+RUNX2,Arg186Gly,Pathogenic,1
+IL10RB,Tyr56Ter,Pathogenic,1
+MAB21L1,Gln233Pro,Pathogenic,1
+RELA,Arg246Ter,Pathogenic,1
+CHD7,Arg1494Ter,Pathogenic,1
+TSC2,Glu929Ter,Pathogenic,1
+CEP164,Gln482Ter,Pathogenic,1
+SLC39A4,Glu216Ter,Pathogenic,1
+PPA2,Met106Ile,Pathogenic,1
+EYS,Leu1777Ter,Pathogenic,1
+DNAH12,Ser2178Ter,Pathogenic,1
+BRCA2,Glu51Ter,Pathogenic,1
+ABCA4,Trp782Ter,Pathogenic,1
+PUS1,Tyr374Ter,Pathogenic,1
+TEX14,Tyr1056Ter,Pathogenic,1
+BEST1,Pro457Arg,Pathogenic,1
+TFR2,Gln690Pro,Pathogenic,1
+PLOD1,Tyr427Ter,Pathogenic,1
+GAA,Tyr292Ter,Pathogenic,1
+SHANK3,Arg611Trp,Pathogenic,1
+OPA3,Tyr13Ter,Pathogenic,1
+MYLK,Gln1508Ter,Pathogenic,1
+NPHS2,Met1Leu,Pathogenic,1
+HYAL1,Gln220Ter,Pathogenic,1
+CHM,Gln405Ter,Pathogenic,1
+DYSF,Gln717Ter,Pathogenic,1
+ZNF644,Ile587Val,Pathogenic,1
+ABCC2,Trp1200Ter,Pathogenic,1
+RSPO4,Arg64Cys,Pathogenic,1
+CNGB1,Tyr832Cys,Pathogenic,1
+LRSAM1,Glu423Ter,Pathogenic,1
+MAGEL2,Pro93Ser,Pathogenic,1
+ITGB4,Trp1240Ter,Pathogenic,1
+NPHP4,Arg229Ter,Pathogenic,1
+ALDOB,Gln180Ter,Pathogenic,1
+ADGRG1,Trp144Ter,Pathogenic,1
+EYS,Trp1837Ter,Pathogenic,1
+SGPL1,Arg222Gln,Pathogenic,1
+USH2A,Arg269Ter,Pathogenic,1
+BRCA1,Ser267Ter,Pathogenic,1
+PRPH2,Glu241Ter,Pathogenic,1
+DLG4,Trp499Ter,Pathogenic,1
+STRC,Arg849Ter,Pathogenic,1
+BRAF,Phe247Leu,Pathogenic,1
+TRPV4,Asp333Gly,Pathogenic,1
+FKRP,Trp231Ter,Pathogenic,1
+PCCB,Tyr314Ter,Pathogenic,1
+D2HGDH,Tyr180Ter,Pathogenic,1
+ATP6V0C,Ala95Pro,Pathogenic,1
+TCF20,Arg719Ter,Pathogenic,1
+ECHS1,Met1Val,Pathogenic,1
+DYM,Tyr16Ter,Pathogenic,1
+ZSCAN10,Gln486Ter,Pathogenic,1
+TSC1,Lys886Ter,Pathogenic,1
+TRAPPC11,Arg568Ter,Pathogenic,1
+PKD2,Gln776Ter,Pathogenic,1
+RDH12,Gln36Ter,Pathogenic,1
+SLC6A5,Trp458Ter,Pathogenic,1
+ALOXE3,Gly281Val,Pathogenic,1
+CTSA,Gln355Ter,Pathogenic,1
+PCDH15,Ser1954Ter,Pathogenic,1
+JAK3,Arg451Ter,Pathogenic,1
+CAPN3,Arg448His,Pathogenic,1
+NEB,Tyr4568Ter,Pathogenic,1
+LAMP2,Gln47Ter,Pathogenic,1
+LRIT3,Cys232Ter,Pathogenic,1
+PAX6,Gly7Ter,Pathogenic,1
+SATB2,Tyr106Ter,Pathogenic,1
+GUCY2D,Tyr922Ter,Pathogenic,1
+EHMT1,Gln856Ter,Pathogenic,1
+ABHD12,Trp159Ter,Pathogenic,1
+COL11A2,Arg110Ter,Pathogenic,1
+BRCA1,Glu1415Ter,Pathogenic,1
+LDLR,Cys377Arg,Pathogenic,1
+KMT2C,Arg199Ter,Pathogenic,1
+SOX9,Glu261Ter,Pathogenic,1
+ANKRD11,Glu918Ter,Pathogenic,1
+ARID1B,Gln1599Ter,Pathogenic,1
+FREM2,Arg1162Ter,Pathogenic,1
+COL1A2,Gly700Arg,Pathogenic,1
+HNF4A,Arg309Cys,Pathogenic,1
+ERCC6,Gln1014Ter,Pathogenic,1
+RB1,Ser565Ter,Pathogenic,1
+BARD1,Ser162Ter,Pathogenic,1
+SPG11,Trp1176Ter,Pathogenic,1
+EVC2,Gln264Ter,Pathogenic,1
+MSH6,Tyr535Ter,Pathogenic,1
+SCN1A,Cys277Arg,Pathogenic,1
+CTC1,Arg224Ter,Pathogenic,1
+HRAS,Gly12Ser,Pathogenic,1
+CCDC39,Lys565Ter,Pathogenic,1
+PCDH15,Leu877Ter,Pathogenic,1
+SRCAP,Gln2622Ter,Pathogenic,1
+DNM1,Arg66Pro,Pathogenic,1
+IL2RB,Gln207Ter,Pathogenic,1
+BRIP1,Gln815Ter,Pathogenic,1
+ABHD12,Arg262Ter,Pathogenic,1
+ADAMTSL2,Arg177Ter,Pathogenic,1
+MYO15A,Gln1749Ter,Pathogenic,1
+ENG,Lys280Ter,Pathogenic,1
+SMN1,Trp102Ter,Pathogenic,1
+GJB1,Trp44Ter,Pathogenic,1
+TOR1AIP1,Arg195Ter,Pathogenic,1
+CRB1,Trp229Ter,Pathogenic,1
+CFTR,Arg851Ter,Pathogenic,1
+SLC2A1,Gln360Ter,Pathogenic,1
+TSC2,Tyr686Ter,Pathogenic,1
+ARSA,Ala77Pro,Pathogenic,1
+DDX3X,Arg534His,Pathogenic,1
+RHO,Gly106Arg,Pathogenic,1
+CSPP1,Tyr98Ter,Pathogenic,1
+GCH1,Arg216Ter,Pathogenic,1
+MTM1,Ser387Tyr,Pathogenic,1
+DUOX2,Lys529Ter,Pathogenic,1
+FGFR3,Thr652Ala,Pathogenic,1
+MUTYH,Trp128Ter,Pathogenic,1
+LAMA2,Arg2630Ter,Pathogenic,1
+SMOC1,Ser161Ter,Pathogenic,1
+IL10RA,Met1Ile,Pathogenic,1
+FANCA,Arg661Ter,Pathogenic,1
+SURF1,Met1Ile,Pathogenic,1
+PCDH19,Tyr243Ter,Pathogenic,1
+ZNF423,His1285Tyr,Pathogenic,1
+SLC26A4,Ala109Pro,Pathogenic,1
+ADGRG1,Glu258Ter,Pathogenic,1
+DCX,Arg89Ter,Pathogenic,1
+CRB1,Gln164Ter,Pathogenic,1
+NEB,Leu4423Ter,Pathogenic,1
+ANK1,Cys951Ter,Pathogenic,1
+TASP1,Arg67Ter,Pathogenic,1
+SPTBN2,Cys627Ter,Pathogenic,1
+RB1,Glu691Ter,Pathogenic,1
+ITGA7,Trp69Ter,Pathogenic,1
+TSC2,Glu450Ter,Pathogenic,1
+SLC19A2,Trp301Ter,Pathogenic,1
+NEB,Gln660Ter,Pathogenic,1
+GCK,Thr60Ile,Pathogenic,1
+ATG7,Trp113Ter,Pathogenic,1
+MED12,Gln2057Ter,Pathogenic,1
+RB1,Gln639Ter,Pathogenic,1
+SLC16A2,Arg297Ser,Pathogenic,1
+TCIRG1,Tyr734Ter,Pathogenic,1
+DCX,Tyr70Ter,Pathogenic,1
+RAD51C,Leu262Ter,Pathogenic,1
+ACTL6B,Gly393Arg,Pathogenic,1
+ADAMTS17,Trp809Ter,Pathogenic,1
+BRCA2,Ser648Ter,Pathogenic,1
+BFSP2,Trp150Ter,Pathogenic,1
+EFTUD2,Arg262Trp,Pathogenic,1
+CHAT,Gln140Ter,Pathogenic,1
+IFT74,Arg402Ter,Pathogenic,1
+SETBP1,Gln593Ter,Pathogenic,1
+CACNA1A,Tyr2228Ter,Pathogenic,1
+SIAH1,Gly174Arg,Pathogenic,1
+ATM,Lys2655Ter,Pathogenic,1
+PTPN11,Lys99Ter,Pathogenic,1
+PHEX,Arg702Ter,Pathogenic,1
+BRCA2,Glu1382Ter,Pathogenic,1
+CFTR,Gly178Arg,Pathogenic,1
+CASR,Asn118Lys,Pathogenic,1
+TRPV4,Arg271Pro,Pathogenic,1
+CFTR,Asn1303His,Pathogenic,1
+MSRB3,Arg19Ter,Pathogenic,1
+CERS3,Trp244Ter,Pathogenic,1
+BAP1,Tyr173Ter,Pathogenic,1
+LAMA2,Gln565Ter,Pathogenic,1
+DSP,Glu1493Ter,Pathogenic,1
+AMHR2,Thr447Ile,Pathogenic,1
+PIGA,Ile206Phe,Pathogenic,1
+ITGA2B,Arg551Gln,Pathogenic,1
+ATM,Gln684Ter,Pathogenic,1
+ALMS1,Gln1907Ter,Pathogenic,1
+ABCA4,Glu89Ter,Pathogenic,1
+AVPR2,Arg137Leu,Pathogenic,1
+LAMP2,Trp98Ter,Pathogenic,1
+RELN,Gln532Ter,Pathogenic,1
+RAD50,Glu1035Ter,Pathogenic,1
+SUCLG1,Gln272Ter,Pathogenic,1
+ATP7B,Tyr719Ter,Pathogenic,1
+KCNT2,Phe240Leu,Pathogenic,1
+ATM,Leu2475Ter,Pathogenic,1
+MSH2,Tyr588Ter,Pathogenic,1
+MYBPC3,Glu728Ter,Pathogenic,1
+TPO,Trp635Ter,Pathogenic,1
+FXN,Met1Ile,Pathogenic,1
+LHCGR,Ile575Leu,Pathogenic,1
+GCSH,His57Arg,Pathogenic,1
+TOR1A,Gln72Ter,Pathogenic,1
+CLPB,Arg387Ter,Pathogenic,1
+GTPBP3,Gln175Ter,Pathogenic,1
+ATP1A2,Glu957Ter,Pathogenic,1
+GLA,Ile407Lys,Pathogenic,1
+NF1,Cys434Ter,Pathogenic,1
+SPAST,Asn319Tyr,Pathogenic,1
+ALDOB,Val222Phe,Pathogenic,1
+NF1,Gln1235Ter,Pathogenic,1
+STAG2,Arg1012Ter,Pathogenic,1
+F9,Gly357Glu,Pathogenic,1
+SLC52A3,Trp98Ter,Pathogenic,1
+NR5A1,Gln299Ter,Pathogenic,1
+MLH1,Ser726Ter,Pathogenic,1
+OTC,Ser60Leu,Pathogenic,1
+PNPLA2,Tyr21Ter,Pathogenic,1
+GABRB2,Val282Ala,Pathogenic,1
+ALG1,Gly21Ter,Pathogenic,1
+TCOF1,Gln753Ter,Pathogenic,1
+HSPG2,Cys1532Tyr,Pathogenic,1
+SMARCA2,Ala1160Gly,Pathogenic,1
+MCCC1,Gln115Ter,Pathogenic,1
+XPA,Lys163Ter,Pathogenic,1
+BRIP1,Glu501Ter,Pathogenic,1
+AP1G1,Arg35Gln,Pathogenic,1
+SMAD4,Gln245Ter,Pathogenic,1
+KCNQ1,Gly245Ter,Pathogenic,1
+PCNT,Trp2907Ter,Pathogenic,1
+FLNC,Gln1315Ter,Pathogenic,1
+PKD1,Trp3928Ter,Pathogenic,1
+CTNS,Gly110Val,Pathogenic,1
+SIX1,Trp122Arg,Pathogenic,1
+APC,Glu1345Ter,Pathogenic,1
+ANKRD11,Glu1584Ter,Pathogenic,1
+WDR35,Gln537Ter,Pathogenic,1
+ATP8B1,Gln1131Ter,Pathogenic,1
+DDX3X,Pro205Leu,Pathogenic,1
+MSH6,Arg338Ter,Pathogenic,1
+MYO7A,Gln591Ter,Pathogenic,1
+USH2A,Gln1425Ter,Pathogenic,1
+GAA,Met519Thr,Pathogenic,1
+PRX,Tyr77Ter,Pathogenic,1
+C1GALT1C1,Ser193Pro,Pathogenic,1
+P3H2,Ser472Ter,Pathogenic,1
+GABRB2,Lys303Arg,Pathogenic,1
+PEX2,Leu166Ter,Pathogenic,1
+LDLR,Val429Leu,Pathogenic,1
+CAMK2D,Leu291Phe,Pathogenic,1
+HTRA1,Ala173Pro,Pathogenic,1
+PALB2,Ser640Ter,Pathogenic,1
+GCDH,Arg294Pro,Pathogenic,1
+FANCI,Gln618Ter,Pathogenic,1
+SNF8,Arg208Leu,Pathogenic,1
+KDM5C,Arg68Ter,Pathogenic,1
+TANGO2,Trp40Ter,Pathogenic,1
+PIEZO1,Arg49Ter,Pathogenic,1
+ASXL3,Arg1560Ter,Pathogenic,1
+TRPV4,Gly270Val,Pathogenic,1
+CRB1,Glu1330Ter,Pathogenic,1
+ATP1A3,Gly706Arg,Pathogenic,1
+DDR2,Leu610Pro,Pathogenic,1
+EIF2B5,Glu81Lys,Pathogenic,1
+BMPR1A,Tyr467Ter,Pathogenic,1
+KMT2D,Arg4960Ter,Pathogenic,1
+KCNH2,Trp410Ter,Pathogenic,1
+COL4A5,Gly1012Asp,Pathogenic,1
+GRN,Gln337Ter,Pathogenic,1
+G6PD,Arg166Cys,Pathogenic,1
+BBS7,Arg504Ter,Pathogenic,1
+BBS5,Arg89Ter,Pathogenic,1
+KCNQ2,Tyr98Ter,Pathogenic,1
+ACAT1,Gln73Ter,Pathogenic,1
+PLCE1,Leu372Ter,Pathogenic,1
+EVC2,Ser35Ter,Pathogenic,1
+CDKL5,Trp195Gly,Pathogenic,1
+NF1,Thr1175Ala,Pathogenic,1
+NF1,Tyr998Ter,Pathogenic,1
+DCC,Pro1375His,Pathogenic,1
+DNAAF3,Trp153Ter,Pathogenic,1
+HPS3,Ser613Ter,Pathogenic,1
+KRIT1,Gln698Ter,Pathogenic,1
+KMT2D,Glu3008Ter,Pathogenic,1
+FAM20A,Arg243Ter,Pathogenic,1
+TGFBR2,Arg495Ter,Pathogenic,1
+USH1C,Glu249Ter,Pathogenic,1
+IL2RG,Trp246Ter,Pathogenic,1
+NF1,Trp267Ter,Pathogenic,1
+CHRNB1,Leu285Met,Pathogenic,1
+GBA1,Phe450Ile,Pathogenic,1
+F9,Cys396Ser,Pathogenic,1
+GCK,Glu40Ter,Pathogenic,1
+CFTR,Ile502Thr,Pathogenic,1
+ZBTB20,Lys618Glu,Pathogenic,1
+VPS13B,Trp1616Ter,Pathogenic,1
+ATM,Glu2423Ter,Pathogenic,1
+FBN1,Cys1491Arg,Pathogenic,1
+CEP290,Glu221Ter,Pathogenic,1
+AAAS,Glu24Ter,Pathogenic,1
+MYPN,Arg377Ter,Pathogenic,1
+AKR1C2,Ile79Val,Pathogenic,1
+KIT,Lys509Ile,Pathogenic,1
+LPL,Arg219Ter,Pathogenic,1
+CLCN7,Arg762Gln,Pathogenic,1
+ITGB4,Gln1338Ter,Pathogenic,1
+NEB,Arg1473Ter,Pathogenic,1
+AMT,Met1Thr,Pathogenic,1
+GLRX5,Lys101Gln,Pathogenic,1
+ADAMTS13,Cys951Gly,Pathogenic,1
+CLN8,Gln76Ter,Pathogenic,1
+NGLY1,Trp535Ter,Pathogenic,1
+CLDN5,Val41Met,Pathogenic,1
+PRPS1,Ala113Ser,Pathogenic,1
+SPG11,Arg2286Ter,Pathogenic,1
+PKD1,Gln3005Ter,Pathogenic,1
+TJP2,Ile875Thr,Pathogenic,1
+ARSB,Arg197Ter,Pathogenic,1
+BRIP1,Leu84Ter,Pathogenic,1
+GLI2,Gln1206Ter,Pathogenic,1
+NOG,Arg204Leu,Pathogenic,1
+RPGR,Glu821Ter,Pathogenic,1
+NDUFS1,Asp252Gly,Pathogenic,1
+POU3F4,Ser177Ter,Pathogenic,1
+UNC13D,Gln251Ter,Pathogenic,1
+PRPF31,Gln177Ter,Pathogenic,1
+BARD1,Gln164Ter,Pathogenic,1
+KCNH2,Leu552Ser,Pathogenic,1
+NIPBL,Gln2443Ter,Pathogenic,1
+BCHE,Gly393Arg,Pathogenic,1
+NAXE,Ala94Asp,Pathogenic,1
+FBN1,Cys1876Ser,Pathogenic,1
+COL17A1,Tyr990Ter,Pathogenic,1
+ANKRD11,Gly2254Ter,Pathogenic,1
+GJB1,Pro58Ser,Pathogenic,1
+BRCA2,Cys1820Ter,Pathogenic,1
+NIPBL,Glu1292Ter,Pathogenic,1
+NFKB1,Trp295Ter,Pathogenic,1
+MIPEP,Gln652Ter,Pathogenic,1
+FAN1,Gln368Ter,Pathogenic,1
+MYH9,Arg1165Leu,Pathogenic,1
+HYAL1,Gln263Ter,Pathogenic,1
+DSP,Trp1155Ter,Pathogenic,1
+FANCL,Leu281Ter,Pathogenic,1
+DLG4,Gln374Ter,Pathogenic,1
+LPIN2,Trp558Ter,Pathogenic,1
+SGMS2,Met64Arg,Pathogenic,1
+SCN2A,Ile1473Met,Pathogenic,1
+NF1,Asn1683Lys,Pathogenic,1
+DNAJC21,Glu225Ter,Pathogenic,1
+FBN1,Cys1687Ser,Pathogenic,1
+RSPH9,Met1Val,Pathogenic,1
+KDM6A,Gly174Arg,Pathogenic,1
+BBIP1,Gln37Ter,Pathogenic,1
+FZD4,Trp222Ter,Pathogenic,1
+COL4A1,Gly1067Arg,Pathogenic,1
+APC,Gln1294Ter,Pathogenic,1
+TPO,Arg175Ter,Pathogenic,1
+ABCA4,Leu1729Pro,Pathogenic,1
+EVC,Gln879Ter,Pathogenic,1
+FANCA,Tyr618Ter,Pathogenic,1
+NF1,Thr1175Ala,Pathogenic,1
+TRPM4,Ile1033Met,Pathogenic,1
+ALPK3,Lys740Ter,Pathogenic,1
+TCF4,Tyr291Ter,Pathogenic,1
+PHF6,Glu139Ter,Pathogenic,1
+LMNA,Arg482Gly,Pathogenic,1
+DNAH5,Lys3143Ter,Pathogenic,1
+KIF5A,Thr88Ile,Pathogenic,1
+ALMS1,Tyr1381Ter,Pathogenic,1
+SMPD1,Glu248Ter,Pathogenic,1
+MSH2,Gln855Ter,Pathogenic,1
+CLCN1,Gly270Val,Pathogenic,1
+COL6A2,Lys318Asn,Pathogenic,1
+PALB2,Gln921Ter,Pathogenic,1
+FBN1,Cys2715Ter,Pathogenic,1
+MPIG6B,Trp163Ter,Pathogenic,1
+COL1A1,Gly1190Asp,Pathogenic,1
+PEX5,Glu328Ter,Pathogenic,1
+MSH3,Gln21Ter,Pathogenic,1
+MLH1,Arg487Ter,Pathogenic,1
+AQP2,Ser261Ter,Pathogenic,1
+MMP2,Glu361Ter,Pathogenic,1
+GFER,Gln125Ter,Pathogenic,1
+FLCN,Glu487Ter,Pathogenic,1
+COL3A1,Gly765Val,Pathogenic,1
+PKD1,Trp646Ter,Pathogenic,1
+COL8A2,Gln455Lys,Pathogenic,1
+LAMB3,Trp302Ter,Pathogenic,1
+SCN1A,Asp1544Gly,Pathogenic,1
+DST,Gln5337Ter,Pathogenic,1
+DYSF,Gln121Ter,Pathogenic,1
+RDX,Trp43Ter,Pathogenic,1
+HROB,Arg451Ter,Pathogenic,1
+LAMB3,Cys818Ter,Pathogenic,1
+DNAH5,Glu4133Ter,Pathogenic,1
+FBN1,Cys67Trp,Pathogenic,1
+DNAH5,Gln1546Ter,Pathogenic,1
+IL2RG,Gly114Asp,Pathogenic,1
+UBE3A,Gln179Ter,Pathogenic,1
+COL4A5,Gly192Trp,Pathogenic,1
+SERPING1,Phe313Leu,Pathogenic,1
+COL1A1,Glu309Ter,Pathogenic,1
+IDS,Cys432Ter,Pathogenic,1
+MBD4,Ser196Ter,Pathogenic,1
+SLC12A6,Arg38Ter,Pathogenic,1
+LOXHD1,Trp658Ter,Pathogenic,1
+TYMP,Val208Gly,Pathogenic,1
+NF1,Tyr1608Ter,Pathogenic,1
+COG4,Glu233Ter,Pathogenic,1
+MBD4,Leu353Ter,Pathogenic,1
+KCNH2,Glu289Ter,Pathogenic,1
+EHMT1,Leu127Ter,Pathogenic,1
+CRB1,Trp229Ter,Pathogenic,1
+NSD2,Pro905Leu,Pathogenic,1
+PEX10,Glu71Ter,Pathogenic,1
+MSH6,Tyr589Ter,Pathogenic,1
+PLEC,Gln2124Ter,Pathogenic,1
+DNAH11,Gln1466Ter,Pathogenic,1
+PKHD1,Cys1692Ser,Pathogenic,1
+ALPK3,Trp1563Ter,Pathogenic,1
+FLCN,Gln354Ter,Pathogenic,1
+LDLR,Gln474Ter,Pathogenic,1
+DMD,Trp2585Ter,Pathogenic,1
+GCDH,Glu31Ter,Pathogenic,1
+ADGRV1,Glu3855Ter,Pathogenic,1
+ARSA,Trp320Ter,Pathogenic,1
+AGA,Gln68Ter,Pathogenic,1
+MPZ,Tyr68Ter,Pathogenic,1
+GABRB2,Leu277Ser,Pathogenic,1
+DMD,Gln1618Ter,Pathogenic,1
+TULP1,Gly63Ter,Pathogenic,1
+CHST14,Glu61Ter,Pathogenic,1
+EYS,Cys1996Ter,Pathogenic,1
+TMPRSS3,Arg109Trp,Pathogenic,1
+NPHS1,Trp247Ter,Pathogenic,1
+NFKB1,Gln595Ter,Pathogenic,1
+MMP2,Tyr263Ter,Pathogenic,1
+UROD,Arg292Gly,Pathogenic,1
+BBS10,Tyr613Ter,Pathogenic,1
+DYNC1H1,Arg3525Cys,Pathogenic,1
+CTC1,Met1Leu,Pathogenic,1
+TK2,Gln110Ter,Pathogenic,1
+PLA2G6,Gln215Ter,Pathogenic,1
+ABCC8,Arg1250Ter,Pathogenic,1
+KRIT1,Lys475Ter,Pathogenic,1
+ARID1B,Gln1543Ter,Pathogenic,1
+PALB2,Gln55Ter,Pathogenic,1
+PTEN,Gly127Ter,Pathogenic,1
+LAMA2,Gln2104Ter,Pathogenic,1
+MED12,Gln2118Ter,Pathogenic,1
+ODAD1,Gln51Ter,Pathogenic,1
+AMHR2,Met1Ile,Pathogenic,1
+FOXL2,Tyr91Ter,Pathogenic,1
+TUBG1,Leu387Pro,Pathogenic,1
+TUBA1A,Ala387Val,Pathogenic,1
+ABCC8,Glu382Lys,Pathogenic,1
+SBF1,Gln93Ter,Pathogenic,1
+COL3A1,Gly276Asp,Pathogenic,1
+BARD1,Gly428Ter,Pathogenic,1
+COL1A1,Gly1166Cys,Pathogenic,1
+GATA3,Cys342Tyr,Pathogenic,1
+USH2A,Gln255Ter,Pathogenic,1
+ALDH6A1,Pro421Ser,Pathogenic,1
+SCN1A,Leu863Trp,Pathogenic,1
+PKD2,Trp189Ter,Pathogenic,1
+BRCA2,Leu2865Ter,Pathogenic,1
+MYH7,Ile736Thr,Pathogenic,1
+CEP250,Leu1990Ter,Pathogenic,1
+RYR1,Tyr3613Ter,Pathogenic,1
+NPRL3,Glu166Ter,Pathogenic,1
+CRLS1,Leu217Phe,Pathogenic,1
+REEP1,Trp75Ter,Pathogenic,1
+KAT6B,Gln1752Ter,Pathogenic,1
+ECHS1,Ala2Val,Pathogenic,1
+CPT2,Pro50His,Pathogenic,1
+GNPTAB,Met1Ile,Pathogenic,1
+DMD,Tyr828Ter,Pathogenic,1
+GREB1L,His1536Arg,Pathogenic,1
+FKTN,Gln358Pro,Pathogenic,1
+MYO15A,Cys789Ter,Pathogenic,1
+CTNND1,Gln568Ter,Pathogenic,1
+ALMS1,Gln3378Ter,Pathogenic,1
+TTN,Lys16557Ter,Pathogenic,1
+CYB5R3,Thr35Pro,Pathogenic,1
+MSH3,Glu732Ter,Pathogenic,1
+ABCA4,Leu980Ter,Pathogenic,1
+KRT10,Asn154His,Pathogenic,1
+FGFR2,Gly384Arg,Pathogenic,1
+PLG,Glu479Ter,Pathogenic,1
+ALDH7A1,Ala199Val,Pathogenic,1
+MAPT,Pro693Ser,Pathogenic,1
+ALG5,Arg208His,Pathogenic,1
+DPYS,Arg465Ter,Pathogenic,1
+DCHS1,Tyr1860Ter,Pathogenic,1
+ACVRL1,Cys36Arg,Pathogenic,1
+DMD,Trp2561Ter,Pathogenic,1
+EXT1,Tyr271Ter,Pathogenic,1
+PHOX2B,Gln74Ter,Pathogenic,1
+ZIC2,Cys258Tyr,Pathogenic,1
+USH2A,Ser2251Ter,Pathogenic,1
+ITGA6,Tyr923Ter,Pathogenic,1
+NEB,Arg7714Ter,Pathogenic,1
+APC,Ser874Ter,Pathogenic,1
+IL7R,Ser221Ile,Pathogenic,1
+SCN5A,Tyr1393Ter,Pathogenic,1
+ATM,Gln2220Ter,Pathogenic,1
+MLH1,Ser726Ter,Pathogenic,1
+AHCY,Thr57Ile,Pathogenic,1
+LMNA,Gln305Ter,Pathogenic,1
+P3H2,Arg603Ter,Pathogenic,1
+GJB2,Trp77Ter,Pathogenic,1
+NDUFAF5,Trp8Ter,Pathogenic,1
+CDKL5,Leu142Ter,Pathogenic,1
+AFF3,Pro231Ser,Pathogenic,1
+PAX3,Asn47His,Pathogenic,1
+PALB2,Gln350Ter,Pathogenic,1
+NPR2,Cys593Ter,Pathogenic,1
+FBN1,Cys1934Ser,Pathogenic,1
+ATM,Gln2358Ter,Pathogenic,1
+APP,Val717Leu,Pathogenic,1
+LMX1B,Arg249Ter,Pathogenic,1
+CAPN15,Gly969Ser,Pathogenic,1
+DSP,Ser843Ter,Pathogenic,1
+MYPN,Gln529Ter,Pathogenic,1
+HNF4A,Leu247Pro,Pathogenic,1
+AGL,Arg1147Gly,Pathogenic,1
+ALG8,Arg41Gln,Pathogenic,1
+COL4A4,Gln1574Ter,Pathogenic,1
+OCA2,Trp204Ter,Pathogenic,1
+MTHFR,Trp583Ter,Pathogenic,1
+ABCC8,Gln211Lys,Pathogenic,1
+STAR,Gln77Ter,Pathogenic,1
+NOD2,Arg307Gln,Pathogenic,1
+SMAD4,Trp101Ter,Pathogenic,1
+PRSS1,Val39Ala,Pathogenic,1
+BRIP1,Gln889Ter,Pathogenic,1
+TMC1,Arg389Ter,Pathogenic,1
+PTCH1,Trp948Ter,Pathogenic,1
+UNC13D,Trp260Ter,Pathogenic,1
+KCNQ2,Gln586Ter,Pathogenic,1
+APOE,Arg246Cys,Pathogenic,1
+SPAST,Tyr51Ter,Pathogenic,1
+USH2A,Glu4784Ter,Pathogenic,1
+EDA,Met1Thr,Pathogenic,1
+ACTA1,Glu197Asp,Pathogenic,1
+LMNA,Leu140Pro,Pathogenic,1
+NOTCH3,Arg141Cys,Pathogenic,1
+F2,Arg5Ter,Pathogenic,1
+CAMK2A,Arg74Ter,Pathogenic,1
+PLEC,Arg1559Ter,Pathogenic,1
+SORD,Leu284Pro,Pathogenic,1
+CIROP,Arg389Ile,Pathogenic,1
+NF1,Trp2369Ter,Pathogenic,1
+DMD,Ser3127Ter,Pathogenic,1
+MSH6,Ser331Ter,Pathogenic,1
+FBN1,Cys2131Arg,Pathogenic,1
+FAS,Ile262Met,Pathogenic,1
+ANKRD11,Glu790Ter,Pathogenic,1
+HEXA,Trp485Ter,Pathogenic,1
+SACS,Ser1454Ter,Pathogenic,1
+DHX9,Arg229Ter,Pathogenic,1
+PRPH2,Cys214Tyr,Pathogenic,1
+NF1,Leu585Ter,Pathogenic,1
+MYH2,Ala236Thr,Pathogenic,1
+FBLN5,Asp329Val,Pathogenic,1
+KDM6A,Gln527Ter,Pathogenic,1
+ATM,Glu1245Ter,Pathogenic,1
+SUPT16H,Arg847Trp,Pathogenic,1
+FOXRED1,Ser131Ter,Pathogenic,1
+MSH2,Lys845Ter,Pathogenic,1
+AHI1,Arg589Ter,Pathogenic,1
+TUBGCP6,Trp1356Ter,Pathogenic,1
+NCKAP1,Tyr496Ter,Pathogenic,1
+CREBBP,Gln200Ter,Pathogenic,1
+DOCK8,Ser1711Ter,Pathogenic,1
+SCN1A,Phe102Ser,Pathogenic,1
+SHOC1,Ala724Thr,Pathogenic,1
+CSNK2B,Asp32His,Pathogenic,1
+MSH2,Arg680Ter,Pathogenic,1
+GALC,Asp56His,Pathogenic,1
+PAH,Ile306Val,Pathogenic,1
+CTNNA1,Lys533Ter,Pathogenic,1
+AIP,Trp168Ter,Pathogenic,1
+BRCA2,Tyr930Ter,Pathogenic,1
+H4C9,His76Arg,Pathogenic,1
+DYSF,Trp1060Ter,Pathogenic,1
+DCX,Met1Thr,Pathogenic,1
+TYR,Pro81Leu,Pathogenic,1
+FANCC,Glu225Ter,Pathogenic,1
+DYNC2H1,Trp2215Ter,Pathogenic,1
+RECQL4,Gln471Ter,Pathogenic,1
+MRPS22,Arg191Ter,Pathogenic,1
+PLOD2,Trp273Ter,Pathogenic,1
+AMT,Gln189Ter,Pathogenic,1
+BTD,Trp366Ter,Pathogenic,1
+FANCA,Val761Glu,Pathogenic,1
+TWNK,Arg406Ter,Pathogenic,1
+CYP24A1,Gln37Ter,Pathogenic,1
+HTRA1,Ser284Arg,Pathogenic,1
+EYS,Gln1977Ter,Pathogenic,1
+HNRNPUL2,Gln183Ter,Pathogenic,1
+SERPINC1,Leu131Phe,Pathogenic,1
+FBN1,Cys2164Arg,Pathogenic,1
+FLNC,Gln2499Ter,Pathogenic,1
+TRRAP,Trp1873Arg,Pathogenic,1
+FLCN,Trp338Ter,Pathogenic,1
+LZTR1,Gln476Ter,Pathogenic,1
+HR,Cys622Gly,Pathogenic,1
+COL1A1,Lys862Ter,Pathogenic,1
+PKD1,Leu3101Ter,Pathogenic,1
+POLE,Gln1067Ter,Pathogenic,1
+APC,Ser943Ter,Pathogenic,1
+MLH1,Ile19Phe,Pathogenic,1
+SPG11,Cys1866Ter,Pathogenic,1
+XYLT1,Arg481Trp,Pathogenic,1
+CDKN1B,Gln57Ter,Pathogenic,1
+KIZ,Gln199Ter,Pathogenic,1
+TSC2,Tyr1540Ter,Pathogenic,1
+CHD2,Trp611Ter,Pathogenic,1
+TMEM237,Arg18Ter,Pathogenic,1
+ENG,Trp390Ter,Pathogenic,1
+VPS16,Tyr442Ter,Pathogenic,1
+TBX5,Tyr311Ter,Pathogenic,1
+FBN1,Cys209Ser,Pathogenic,1
+FLNA,Gln1507Ter,Pathogenic,1
+ATAD3A,Leu77Arg,Pathogenic,1
+ATP6V1B1,Gln27Ter,Pathogenic,1
+PPA2,Gln294Pro,Pathogenic,1
+COL3A1,Gly993Cys,Pathogenic,1
+GCK,Thr228Ala,Pathogenic,1
+COL6A2,Gly295Glu,Pathogenic,1
+ANKRD11,Tyr1715Ter,Pathogenic,1
+HNF1B,Met1Ile,Pathogenic,1
+ALMS1,Gln4042Ter,Pathogenic,1
+COL4A3,Gly1089Asp,Pathogenic,1
+PNLIP,Arg273Ter,Pathogenic,1
+VWF,Arg1374His,Pathogenic,1
+TOGARAM1,Arg1311Cys,Pathogenic,1
+TSC2,Glu366Ter,Pathogenic,1
+GNPTAB,Leu126Ter,Pathogenic,1
+UBIAD1,Asn102Ser,Pathogenic,1
+IFT43,Met1Leu,Pathogenic,1
+PKHD1,Gln3190Ter,Pathogenic,1
+PERP,Trp151Ter,Pathogenic,1
+KCNH1,Leu489Phe,Pathogenic,1
+FREM2,Gln117Ter,Pathogenic,1
+IL2RG,Trp240Ter,Pathogenic,1
+ADAMTS17,Trp930Ter,Pathogenic,1
+SLC25A22,Ser151Ter,Pathogenic,1
+CNGA3,Ser401Pro,Pathogenic,1
+FOXL2,Tyr274Ter,Pathogenic,1
+ZNF469,Gln2149Ter,Pathogenic,1
+CDKL5,Arg178Leu,Pathogenic,1
+FGFR1,Trp666Arg,Pathogenic,1
+MSH2,Gly587Cys,Pathogenic,1
+CDK5RAP2,Leu1284Ter,Pathogenic,1
+SAMHD1,Gln548Ter,Pathogenic,1
+MYBPC3,Gly263Ter,Pathogenic,1
+PAFAH1B1,Ser169Pro,Pathogenic,1
+ARSB,Tyr251Ter,Pathogenic,1
+ELAC2,Arg251Ter,Pathogenic,1
+PALB2,Gly620Ter,Pathogenic,1
+HEPACAM,Lys175Ter,Pathogenic,1
+ACVRL1,Cys344Ter,Pathogenic,1
+EIF2AK4,Gln1082Ter,Pathogenic,1
+SLC35A2,Lys114Ter,Pathogenic,1
+COL4A5,Gly887Ser,Pathogenic,1
+MSH6,Trp777Ter,Pathogenic,1
+PTCH1,Trp236Ter,Pathogenic,1
+TNFAIP3,Leu227Ter,Pathogenic,1
+COL7A1,Lys142Arg,Pathogenic,1
+RYR2,Ala4091Val,Pathogenic,1
+CHRNE,Glu197Ter,Pathogenic,1
+UBR1,Cys112Ter,Pathogenic,1
+FAM161A,Tyr95Ter,Pathogenic,1
+SOX9,Arg254Ter,Pathogenic,1
+USP9X,Val1758Asp,Pathogenic,1
+MMAA,Tyr129Ter,Pathogenic,1
+MYO15A,Gln1644Ter,Pathogenic,1
+CFTR,Glu379Ter,Pathogenic,1
+CEP290,Gln248Ter,Pathogenic,1
+PLAAT3,Cys113Ter,Pathogenic,1
+BRCA1,Gln1537Ter,Pathogenic,1
+DEPDC5,Gln413Ter,Pathogenic,1
+DMD,Ser3435Ter,Pathogenic,1
+SCN9A,Phe1460Val,Pathogenic,1
+MED13L,Glu238Ter,Pathogenic,1
+CCM2,Arg19Ter,Pathogenic,1
+NKX2-5,Tyr191Cys,Pathogenic,1
+MSH2,Gly426Ter,Pathogenic,1
+OCA2,Gln612Ter,Pathogenic,1
+SPG11,Gln198Ter,Pathogenic,1
+MBTPS2,Asn459Ser,Pathogenic,1
+DYRK1A,Ser509Ter,Pathogenic,1
+EVC,Gln677Ter,Pathogenic,1
+ASAH1,Cys143Gly,Pathogenic,1
+ALMS1,Ser1897Ter,Pathogenic,1
+KCNQ2,Pro561Leu,Pathogenic,1
+ABCG5,Gln553Ter,Pathogenic,1
+CBS,Ser466Ter,Pathogenic,1
+USH2A,Ser1457Ter,Pathogenic,1
+MYO15A,Tyr3475Ter,Pathogenic,1
+SLC20A2,Ser408Ter,Pathogenic,1
+LZTR1,Gln10Ter,Pathogenic,1
+GNPTAB,Gln537Ter,Pathogenic,1
+ANO5,Tyr362Ter,Pathogenic,1
+IKZF1,Arg83Ter,Pathogenic,1
+DMD,Trp651Ter,Pathogenic,1
+RNF216,Gln302Ter,Pathogenic,1
+MLH1,Met35Arg,Pathogenic,1
+SERPINC1,Gln286Pro,Pathogenic,1
+NF1,Glu19Ter,Pathogenic,1
+PTEN,Tyr336Ter,Pathogenic,1
+TCTN2,Leu479Ter,Pathogenic,1
+MEN1,Tyr323Ter,Pathogenic,1
+PCARE,Trp253Ter,Pathogenic,1
+ASAH1,Ala120Pro,Pathogenic,1
+KRT5,Asn176Lys,Pathogenic,1
+BRCA2,Arg3128Ter,Pathogenic,1
+RYR1,Gln4004Ter,Pathogenic,1
+HSPB1,Arg140Gly,Pathogenic,1
+POLK,Glu430Gly,Pathogenic,1
+THRA,Pro398Arg,Pathogenic,1
+SDHA,Gly555Glu,Pathogenic,1
+OTC,Gly106Arg,Pathogenic,1
+ALK,Phe1174Leu,Pathogenic,1
+ITPR1,Ser2441Asn,Pathogenic,1
+RAB7A,Leu129Phe,Pathogenic,1
+ANKRD11,Leu2478Pro,Pathogenic,1
+HMGCS2,Tyr239Ter,Pathogenic,1
+IBA57,Tyr96His,Pathogenic,1
+ATR,Trp171Ter,Pathogenic,1
+APOB,Ser3529Ter,Pathogenic,1
+COL2A1,Glu466Ter,Pathogenic,1
+CFTR,Gln376Ter,Pathogenic,1
+LDLR,Trp87Ter,Pathogenic,1
+FBN1,Tyr1996Ter,Pathogenic,1
+DCX,Arg59Leu,Pathogenic,1
+MYO18B,Arg2540Ter,Pathogenic,1
+GLA,Gln107Ter,Pathogenic,1
+ANKRD26,Arg786Ter,Pathogenic,1
+COL1A1,Gly1025Arg,Pathogenic,1
+ACADVL,Arg229Ter,Pathogenic,1
+COL7A1,Gly2428Val,Pathogenic,1
+MECP2,Arg282Ter,Pathogenic,1
+STX1B,Val216Glu,Pathogenic,1
+SHOX,Glu102Ter,Pathogenic,1
+G6PD,Val431Gly,Pathogenic,1
+PKD1,Cys2476Ter,Pathogenic,1
+BBS5,Met1Lys,Pathogenic,1
+DMD,Gln2418Ter,Pathogenic,1
+BRCA2,Arg2520Ter,Pathogenic,1
+GLA,Gly43Arg,Pathogenic,1
+DYSF,Glu421Ter,Pathogenic,1
+SLC2A1,Phe422Leu,Pathogenic,1
+GCH1,Arg88Trp,Pathogenic,1
+PPT1,Gln106Ter,Pathogenic,1
+DCHS1,Glu96Ter,Pathogenic,1
+AHI1,Arg495His,Pathogenic,1
+NF1,Gln2589Ter,Pathogenic,1
+ABCC6,Gly1299Ser,Pathogenic,1
+ASNS,Trp71Ter,Pathogenic,1
+ALPL,Trp186Ter,Pathogenic,1
+GBA1,Pro440Leu,Pathogenic,1
+NF1,Cys2453Ter,Pathogenic,1
+MLH1,Ser211Ter,Pathogenic,1
+DNAAF5,Glu229Ter,Pathogenic,1
+NPC1,Arg978Cys,Pathogenic,1
+KMT2D,Trp1422Ter,Pathogenic,1
+DMD,Gln1411Ter,Pathogenic,1
+RBFOX2,Tyr406Ter,Pathogenic,1
+B3GALT6,Tyr212Ter,Pathogenic,1
+ADA2,Arg312Ter,Pathogenic,1
+ATM,Ser1924Ter,Pathogenic,1
+ACADM,Arg248Gly,Pathogenic,1
+ERBB2,Gly309Arg,Pathogenic,1
+PTEN,Cys124Gly,Pathogenic,1
+SH3TC2,Gln1201Ter,Pathogenic,1
+KCNMA1,Gln967Ter,Pathogenic,1
+DSG1,Arg242Ter,Pathogenic,1
+FUCA1,Trp402Ter,Pathogenic,1
+PTEN,Lys267Asn,Pathogenic,1
+FANCA,Gln1022Ter,Pathogenic,1
+AR,Arg787Ter,Pathogenic,1
+YWHAG,Tyr133Cys,Pathogenic,1
+NPC1,Trp381Ter,Pathogenic,1
+GALNS,Ser341Arg,Pathogenic,1
+RHO,Gln36Ter,Pathogenic,1
+SPAG1,Trp595Ter,Pathogenic,1
+SCN1A,Ala1429Thr,Pathogenic,1
+TET2,Arg1404Ter,Pathogenic,1
+PMS2,Glu10Ter,Pathogenic,1
+CACNA1F,Arg1351Ter,Pathogenic,1
+NSD1,Arg2005Ter,Pathogenic,1
+MFRP,Gln470Ter,Pathogenic,1
+ELFN1,Pro50His,Pathogenic,1
+KCNQ1,Glu261Asp,Pathogenic,1
+ANKH,Leu391Pro,Pathogenic,1
+DNAH9,Trp346Ter,Pathogenic,1
+MYO18B,Cys861Ter,Pathogenic,1
+EPHB4,Arg739Ter,Pathogenic,1
+AGPAT3,Tyr249Ter,Pathogenic,1
+AHI1,Asp659Val,Pathogenic,1
+PKD1,Tyr3614Ter,Pathogenic,1
+CHEK2,Tyr220Ter,Pathogenic,1
+SCN1A,Ser316Ter,Pathogenic,1
+MAK,Gln348Ter,Pathogenic,1
+PHEX,Trp749Arg,Pathogenic,1
+ZEB2,Tyr220Ter,Pathogenic,1
+HCFC1,Ser225Asn,Pathogenic,1
+TTR,Asp38Tyr,Pathogenic,1
+BRCA2,Leu3000Ter,Pathogenic,1
+JAK3,Asp784Asn,Pathogenic,1
+LPL,Tyr338Ter,Pathogenic,1
+MTRR,Gln502Ter,Pathogenic,1
+MAGT1,Trp316Ter,Pathogenic,1
+COL1A2,Gly862Ser,Pathogenic,1
+KMT2D,Cys1474Phe,Pathogenic,1
+MSH6,Lys1014Ter,Pathogenic,1
+CTNNA1,Gln206Ter,Pathogenic,1
+LOC130064475;LTBP4,Glu230Ter,Pathogenic,1
+SLC24A1,Glu801Ter,Pathogenic,1
+HSPD1,Gln461Glu,Pathogenic,1
+PROM1,Leu710Ter,Pathogenic,1
+CUL3,Leu85Pro,Pathogenic,1
+LOC130003092;TMEM203;TPRN,Glu101Ter,Pathogenic,1
+MSH2,Gln885Ter,Pathogenic,1
+TP53,Met133Thr,Pathogenic,1
+HPS1,Trp17Ter,Pathogenic,1
+BRCA1,Trp321Ter,Pathogenic,1
+IFT140,Glu164Ter,Pathogenic,1
+PROS1,Cys288Ter,Pathogenic,1
+BMPR1A,Tyr103Ter,Pathogenic,1
+MLYCD,Glu58Ter,Pathogenic,1
+COL1A2,Cys1195Ser,Pathogenic,1
+MMUT,Gln708Ter,Pathogenic,1
+COL2A1,Lys929Ter,Pathogenic,1
+ETHE1,Glu208Ter,Pathogenic,1
+GAMT,Tyr134Ter,Pathogenic,1
+NPHS2,Leu169Pro,Pathogenic,1
+MARS2,Gln184Ter,Pathogenic,1
+FOXP3,Gln231Lys,Pathogenic,1
+USH2A,Tyr2698Ter,Pathogenic,1
+CYP27A1,Trp260Ter,Pathogenic,1
+PIK3R1,Gly376Arg,Pathogenic,1
+IDS,Phe137Ser,Pathogenic,1
+CASK,Trp657Ter,Pathogenic,1
+DYSF,Trp2007Ter,Pathogenic,1
+PKD2,Trp189Ter,Pathogenic,1
+BTK,Ser14Tyr,Pathogenic,1
+SCN1A,Met379Lys,Pathogenic,1
+CHEK2,Ser356Ter,Pathogenic,1
+CYP11B1,Pro94Leu,Pathogenic,1
+TPO,Leu831Ter,Pathogenic,1
+SATB2,Gln115Ter,Pathogenic,1
+CLDN16,Lys205Ter,Pathogenic,1
+HBB,Leu29Pro,Pathogenic,1
+ADAMTS13,Leu718Ter,Pathogenic,1
+F9,Arg294Gln,Pathogenic,1
+FGFR1,Asn264His,Pathogenic,1
+RPGRIP1L,Gln253Ter,Pathogenic,1
+GALNS,Gln211Ter,Pathogenic,1
+IDS,Gln204Ter,Pathogenic,1
+CLCN1,Tyr393Ter,Pathogenic,1
+CEP290,Glu1908Ter,Pathogenic,1
+CHD2,Asn911Asp,Pathogenic,1
+NEK1,Arg550Ter,Pathogenic,1
+MKS1,Trp434Ter,Pathogenic,1
+BEST1,Ile73Asn,Pathogenic,1
+MSH2,Ser699Ter,Pathogenic,1
+U2AF2,Arg150His,Pathogenic,1
+GCK,Gly318Arg,Pathogenic,1
+GJA1,Leu11Phe,Pathogenic,1
+SACS,Gln2945Ter,Pathogenic,1
+APOB,Trp2553Ter,Pathogenic,1
+TIMP3,Ser179Cys,Pathogenic,1
+CHD7,Tyr75Ter,Pathogenic,1
+IDUA,Gln584Ter,Pathogenic,1
+ALPL,Gly112Ala,Pathogenic,1
+DMD,Glu769Ter,Pathogenic,1
+SCN9A,Trp908Ter,Pathogenic,1
+ARID1B,Trp1195Ter,Pathogenic,1
+SOX10,Gln125Ter,Pathogenic,1
+KDM5B,Trp513Ter,Pathogenic,1
+ABCA4,Cys930Ter,Pathogenic,1
+TBC1D8B,Trp461Ter,Pathogenic,1
+PSEN1,Phe177Ser,Pathogenic,1
+RP1,Lys659Ter,Pathogenic,1
+TAB2,Ser84Ter,Pathogenic,1
+FGD4,Gln866Ter,Pathogenic,1
+GRHL2,Ile482Lys,Pathogenic,1
+APOB,Lys1188Ter,Pathogenic,1
+SLX4,Glu7Ter,Pathogenic,1
+FANCA,Tyr843Ter,Pathogenic,1
+COL4A5,Gly1113Arg,Pathogenic,1
+SCN2A,Tyr1202Ter,Pathogenic,1
+FBN1,Gln2467Ter,Pathogenic,1
+FBN1,Tyr665Ter,Pathogenic,1
+ELP2,Arg462Leu,Pathogenic,1
+MED13,Gln1276Ter,Pathogenic,1
+LMNA,Arg41Cys,Pathogenic,1
+SGCE,Glu79Ter,Pathogenic,1
+MSH2,Ser676Ter,Pathogenic,1
+EDAR,Cys301Ter,Pathogenic,1
+PTPN11,Asp61Asn,Pathogenic,1
+COL2A1,Cys89Ter,Pathogenic,1
+FBN1,Arg38Ter,Pathogenic,1
+RAD54L,Gly325Arg,Pathogenic,1
+PHEX,Pro534Thr,Pathogenic,1
+OCLN,Arg36Ter,Pathogenic,1
+TBX5,Ser282Phe,Pathogenic,1
+COL4A5,Gly331Ser,Pathogenic,1
+COL3A1,Gly183Ala,Pathogenic,1
+AIP,Glu249Ter,Pathogenic,1
+RASA1,Gln408Ter,Pathogenic,1
+DMD,Glu1374Ter,Pathogenic,1
+ADAMTS2,Glu857Ter,Pathogenic,1
+COL5A1,Tyr1747Ter,Pathogenic,1
+LETM1,Ile293Asn,Pathogenic,1
+CPAP,Glu501Ter,Pathogenic,1
+PLCE1,Arg1057Ter,Pathogenic,1
+COL2A1,Gly1014Glu,Pathogenic,1
+LBR,Arg15Ter,Pathogenic,1
+ZBTB20,Lys618Glu,Pathogenic,1
+DHCR7,Glu288Ter,Pathogenic,1
+SLC26A4,Leu117Phe,Pathogenic,1
+CTNNA1,Tyr177Ter,Pathogenic,1
+KMT2D,Arg1757Ter,Pathogenic,1
+ADGRV1,Gln3524Ter,Pathogenic,1
+DCX,Tyr259Ter,Pathogenic,1
+AHI1,Trp870Ter,Pathogenic,1
+RLBP1,Gln169Ter,Pathogenic,1
+ATP2A2,Trp551Ter,Pathogenic,1
+LCA5,Gln204Ter,Pathogenic,1
+POLR2A,Tyr763Ter,Pathogenic,1
+PIGN,Trp506Ter,Pathogenic,1
+GATA2,Glu44Ter,Pathogenic,1
+BRCA2,Ser1720Ter,Pathogenic,1
+COL17A1,Gly636Arg,Pathogenic,1
+COX20,Ser33Leu,Pathogenic,1
+CFTR,Lys442Ter,Pathogenic,1
+FLNA,Gln989Ter,Pathogenic,1
+RPGR,Glu950Ter,Pathogenic,1
+SH2D1A,Cys42Ter,Pathogenic,1
+KCNH2,Gln664Ter,Pathogenic,1
+PSEN1,Leu271Val,Pathogenic,1
+PEX19,Ser54Leu,Pathogenic,1
+ANKRD11,Gln147Ter,Pathogenic,1
+SPG11,Gln1875Ter,Pathogenic,1
+SCN2A,Ala1333Thr,Pathogenic,1
+CLN3,Ser69Ter,Pathogenic,1
+UNC13D,Gln951Ter,Pathogenic,1
+CDKL5,Gln389Ter,Pathogenic,1
+SCN1A,Tyr1507Ter,Pathogenic,1
+FCHO1,Trp809Ter,Pathogenic,1
+CLIC5,Cys32Ter,Pathogenic,1
+DNAH9,Lys4244Ter,Pathogenic,1
+DSP,Trp867Ter,Pathogenic,1
+MVK,Gln358Ter,Pathogenic,1
+TP63,Ile597Thr,Pathogenic,1
+KCNC2,Val471Leu,Pathogenic,1
+FBN1,Tyr665Ter,Pathogenic,1
+PKD1,Gln1922Ter,Pathogenic,1
+INSR,His236Arg,Pathogenic,1
+FZD4,Trp226Ter,Pathogenic,1
+JAG1,Cys312Ter,Pathogenic,1
+GUCY2D,Glu779Ter,Pathogenic,1
+MTMR2,Glu574Ter,Pathogenic,1
+BRCA2,Leu809Ter,Pathogenic,1
+HGD,Trp268Ter,Pathogenic,1
+ABCC2,Trp442Ter,Pathogenic,1
+SGCE,Gly299Ter,Pathogenic,1
+LDLR,Cys289Ter,Pathogenic,1
+COL1A2,Gly1084Asp,Pathogenic,1
+GCK,Thr168Ala,Pathogenic,1
+HLCS,Gln680Ter,Pathogenic,1
+GCDH,Tyr413Ter,Pathogenic,1
+ZFYVE26,Lys321Ter,Pathogenic,1
+WNK1,Lys1026Ter,Pathogenic,1
+FANCA,Glu1029Ter,Pathogenic,1
+KCNQ2,Gly290Val,Pathogenic,1
+PROS1,Lys274Ter,Pathogenic,1
+CFTR,Leu671Ter,Pathogenic,1
+COL4A1,Gly1136Cys,Pathogenic,1
+FGFR2,Cys278Trp,Pathogenic,1
+F5,Ser52Ter,Pathogenic,1
+RECQL4,Tyr706Ter,Pathogenic,1
+MAP4K4,Arg1329Ter,Pathogenic,1
+STRC,Glu1275Ter,Pathogenic,1
+SERPINC1,Cys127Ter,Pathogenic,1
+PALB2,Gln179Ter,Pathogenic,1
+ABCA4,Arg290Gln,Pathogenic,1
+COL7A1,Gln2249Ter,Pathogenic,1
+DMD,Gln242Ter,Pathogenic,1
+CLDN16,Met1Arg,Pathogenic,1
+TCF4,Tyr185Ter,Pathogenic,1
+TYR,Tyr451Ter,Pathogenic,1
+ATP1A2,Asp999His,Pathogenic,1
+ZFYVE26,Gln1666Ter,Pathogenic,1
+PAH,Tyr277Cys,Pathogenic,1
+F8,Val115Ala,Pathogenic,1
+SLC9A6,Gly396Ter,Pathogenic,1
+CHD2,Arg1137Ter,Pathogenic,1
+SDHD,Gln109Ter,Pathogenic,1
+ACBD5,Glu223Ter,Pathogenic,1
+FUCA1,Trp188Ter,Pathogenic,1
+POMGNT1,Gly502Ala,Pathogenic,1
+FBN1,Cys2528Gly,Pathogenic,1
+KRT86,Asn114Asp,Pathogenic,1
+TSC2,Glu1602Ter,Pathogenic,1
+NEK8,Thr87Ala,Pathogenic,1
+PRF1,Tyr167Ter,Pathogenic,1
+SOX5,Arg547Ter,Pathogenic,1
+RYR1,Asn4858Asp,Pathogenic,1
+SACS,Lys63Ter,Pathogenic,1
+F8,Gly1769Arg,Pathogenic,1
+BRIP1,Gln64Ter,Pathogenic,1
+GLA,Thr246Ile,Pathogenic,1
+FANCD2,Gln1035Ter,Pathogenic,1
+NF1,Gln2673Ter,Pathogenic,1
+CCM2,Tyr118Ter,Pathogenic,1
+MYH2,Lys1253Ter,Pathogenic,1
+ESRRB,Cys166Ter,Pathogenic,1
+EXT1,Trp529Ter,Pathogenic,1
+DNAH1,Arg1702Ter,Pathogenic,1
+TRIP12,Gln1056Ter,Pathogenic,1
+F9,Trp356Ter,Pathogenic,1
+TSC1,Gln701Ter,Pathogenic,1
+ITPR3,Val615Met,Pathogenic,1
+COQ4,Gly124Ser,Pathogenic,1
+ZFYVE26,Ser12Ter,Pathogenic,1
+PAH,Ala313Val,Pathogenic,1
+ACO2,Gln12Ter,Pathogenic,1
+F10,Glu72Gln,Pathogenic,1
+CFTR,Arg560Lys,Pathogenic,1
+APC,Tyr158Ter,Pathogenic,1
+PIK3CA,Gln546Arg,Pathogenic,1
+PKD1L1,Arg1347Ter,Pathogenic,1
+NSD1,Asn1913Ser,Pathogenic,1
+IQSEC2,Gln1084Ter,Pathogenic,1
+KCNH2,Asn629Ser,Pathogenic,1
+GLA,Trp44Ter,Pathogenic,1
+TUBA1A,Arg79Pro,Pathogenic,1
+MAGT1,Cys303Ter,Pathogenic,1
+MYO18B,Arg1799Ter,Pathogenic,1
+NR5A1,Met78Ile,Pathogenic,1
+FLNA,Trp41Ter,Pathogenic,1
+AUTS2,Gln301Ter,Pathogenic,1
+ADGRV1,Gln4777Ter,Pathogenic,1
+POMT1,Gly65Arg,Pathogenic,1
+GJB2,Val84Leu,Pathogenic,1
+FLNB,Tyr2260Ter,Pathogenic,1
+FIG4,Arg265Ter,Pathogenic,1
+KCNQ2,Ala306Pro,Pathogenic,1
+ETFDH,Arg175Leu,Pathogenic,1
+CNGB3,Gln415Ter,Pathogenic,1
+TBC1D24,Arg65Leu,Pathogenic,1
+KIF11,Arg387Ter,Pathogenic,1
+BEST1,Thr91Ile,Pathogenic,1
+BMPR2,Cys60Gly,Pathogenic,1
+SLC5A2,Trp440Ter,Pathogenic,1
+COL3A1,Glu979Ter,Pathogenic,1
+PKP2,Tyr572Ter,Pathogenic,1
+NBEA,Arg1299Ter,Pathogenic,1
+POPDC3,Leu155His,Pathogenic,1
+PMPCB,Val177Gly,Pathogenic,1
+CFTR,Gln781Ter,Pathogenic,1
+CFTR,Gly550Ter,Pathogenic,1
+COL7A1,Trp796Ter,Pathogenic,1
+COL7A1,Gly2242Glu,Pathogenic,1
+MED13,Gln842Ter,Pathogenic,1
+ZEB2,Gln1056Ter,Pathogenic,1
+TNFAIP3,Trp113Ter,Pathogenic,1
+EVC2,Gln1089Ter,Pathogenic,1
+AARS1,Glu444Ter,Pathogenic,1
+SAMHD1,Ser283Ter,Pathogenic,1
+KDM5C,Ser1250Ter,Pathogenic,1
+PALB2,Glu13Ter,Pathogenic,1
+COL3A1,Gly639Glu,Pathogenic,1
+NF1,Tyr2102Ter,Pathogenic,1
+LINS1,Glu366Ter,Pathogenic,1
+TSPEAR,Gln60Ter,Pathogenic,1
+MKS1,Glu173Ter,Pathogenic,1
+HBB,Val135Glu,Pathogenic,1
+ATM,Cys1286Ter,Pathogenic,1
+ADAMTSL4,Cys374Ter,Pathogenic,1
+KRT6A,Asn171Asp,Pathogenic,1
+GABRB3,Met308Arg,Pathogenic,1
+NAGLU,Gly82Asp,Pathogenic,1
+KCNQ2,Phe305Leu,Pathogenic,1
+TSC1,Glu485Ter,Pathogenic,1
+GNB2,Lys89Thr,Pathogenic,1
+BRCA2,Leu459Ter,Pathogenic,1
+PTPRQ,Tyr1623Ter,Pathogenic,1
+AASS,Ser642Ter,Pathogenic,1
+GALNS,Glu410Ter,Pathogenic,1
+BAP1,Gly45Ter,Pathogenic,1
+ODAD2,Ser428Ter,Pathogenic,1
+PLS3,Arg256Ter,Pathogenic,1
+EIF2B1,Cys57Ter,Pathogenic,1
+ITGB2,Met1Lys,Pathogenic,1
+PEX12,Trp114Ter,Pathogenic,1
+VPS13A,Gly2281Ter,Pathogenic,1
+TMPRSS3,Asp103Gly,Pathogenic,1
+NDUFAF5,Trp58Ter,Pathogenic,1
+ATM,Glu2676Ter,Pathogenic,1
+CDH1,Lys173Ter,Pathogenic,1
+SCP2,Gln161Ter,Pathogenic,1
+MSH2,Gly162Arg,Pathogenic,1
+BMP15,Gln211Ter,Pathogenic,1
+EP300,Gln829Ter,Pathogenic,1
+GFAP,Ile363Val,Pathogenic,1
+ASL,Arg113Trp,Pathogenic,1
+COL1A2,Gly907Asp,Pathogenic,1
+AIP,Gln184Ter,Pathogenic,1
+EIF2AK4,Ser1589Ter,Pathogenic,1
+BRCA1,Gln1447Ter,Pathogenic,1
+CIITA,Gln827Ter,Pathogenic,1
+GLA,Val269Ala,Pathogenic,1
+PKHD1,Trp656Ter,Pathogenic,1
+GRIN2A,Trp606Ter,Pathogenic,1
+KCNH2,Gln702Ter,Pathogenic,1
+CEP290,Gln561Ter,Pathogenic,1
+COL4A5,Gly313Arg,Pathogenic,1
+COL7A1,Gly913Arg,Pathogenic,1
+MSH6,Leu634Ter,Pathogenic,1
+LTBP2,Tyr43Ter,Pathogenic,1
+WHRN,Gln608Ter,Pathogenic,1
+RORB,Tyr141Ter,Pathogenic,1
+OTC,Tyr167Ter,Pathogenic,1
+ATP6AP1,Leu74Pro,Pathogenic,1
+KMT2D,Arg4484Ter,Pathogenic,1
+ANK1,Cys1366Ter,Pathogenic,1
+MPZ,Asp61Asn,Pathogenic,1
+ALPK3,Arg1412Ter,Pathogenic,1
+APC,Glu1530Ter,Pathogenic,1
+NF1,Gln1595Ter,Pathogenic,1
+PTPN23,Pro532Leu,Pathogenic,1
+NSD1,Arg1072Ter,Pathogenic,1
+BRCA1,Trp1718Ter,Pathogenic,1
+CYBB,Trp516Arg,Pathogenic,1
+BRCA1,Ser868Ter,Pathogenic,1
+EDA,Gly291Glu,Pathogenic,1
+KCNQ2,Tyr363Ter,Pathogenic,1
+AMER1,Lys1076Ter,Pathogenic,1
+JAG1,Gly737Ter,Pathogenic,1
+SAMHD1,Lys523Ter,Pathogenic,1
+PRKN,Trp453Ter,Pathogenic,1
+HGD,Pro359Ser,Pathogenic,1
+HNF1B,Glu78Ter,Pathogenic,1
+TNNI3,Arg170Pro,Pathogenic,1
+SCO1,Gly132Ser,Pathogenic,1
+PTEN,Tyr65Ter,Pathogenic,1
+BMPR2,Lys204Ter,Pathogenic,1
+FGFR3,Tyr373Cys,Pathogenic,1
+TP53,Cys275Ter,Pathogenic,1
+SCYL1,Arg151Ter,Pathogenic,1
+CWC27,Arg119Ter,Pathogenic,1
+TSC1,Gln743Ter,Pathogenic,1
+APC,Gly1466Ter,Pathogenic,1
+RUNX2,Ter522Ser,Pathogenic,1
+NF1,Gln2324Ter,Pathogenic,1
+LRRK2,Gln1657Ter,Pathogenic,1
+GLDC,Arg641Ter,Pathogenic,1
+SCN5A,Lys1232Ter,Pathogenic,1
+GLA,Tyr216Asp,Pathogenic,1
+AGXT,Asp374His,Pathogenic,1
+ADGRV1,Arg5772Ter,Pathogenic,1
+TBCD,Tyr760Ter,Pathogenic,1
+ALDH18A1,Arg138Leu,Pathogenic,1
+CARD9,Gln289Ter,Pathogenic,1
+ZEB2,Tyr923Ter,Pathogenic,1
+INSR,Trp439Ser,Pathogenic,1
+ZNF142,Arg836Ter,Pathogenic,1
+CD46,Cys256Ter,Pathogenic,1
+TK2,Thr108Met,Pathogenic,1
+MYO18B,Glu1758Ter,Pathogenic,1
+KCNQ2,Leu243Phe,Pathogenic,1
+PKHD1,Gly162Ter,Pathogenic,1
+MYCBP2,Arg4557Cys,Pathogenic,1
+ALPL,Trp270Ter,Pathogenic,1
+SPTA1,Arg1735Ter,Pathogenic,1
+HPS3,Gln290Ter,Pathogenic,1
+SHANK3,Gln446Ter,Pathogenic,1
+COL27A1,Gln1372Ter,Pathogenic,1
+ALMS1,Glu183Ter,Pathogenic,1
+HELLS,Arg507Ter,Pathogenic,1
+AGK,Arg9Ter,Pathogenic,1
+CACNA1C,Ala582Asp,Pathogenic,1
+CYB5R3,Gln4Ter,Pathogenic,1
+COL11A1,Lys903Ter,Pathogenic,1
+ETFDH,Lys53Ter,Pathogenic,1
+PRPH2,Trp246Ter,Pathogenic,1
+COL4A5,Gly869Val,Pathogenic,1
+PTPN11,Asn308Asp,Pathogenic,1
+GAA,Gln827Ter,Pathogenic,1
+STK11,Leu263Ter,Pathogenic,1
+CRB1,Cys250Ter,Pathogenic,1
+GATAD2B,Gln473Ter,Pathogenic,1
+NF1,Tyr1625Ter,Pathogenic,1
+GLA,Trp236Leu,Pathogenic,1
+CYP27A1,Ser251Ter,Pathogenic,1
+CTNND1,Arg700Ter,Pathogenic,1
+PAX6,Arg217Ter,Pathogenic,1
+COL6A2,Gly292Val,Pathogenic,1
+FMO3,Ser57Ter,Pathogenic,1
+CYP26B1,Arg363Leu,Pathogenic,1
+ARID1B,Ser1369Ter,Pathogenic,1
+TG,Gln875Ter,Pathogenic,1
+COL4A5,Gly681Ser,Pathogenic,1
+KMT2D,Gln4315Ter,Pathogenic,1
+SMC1A,Gln716Ter,Pathogenic,1
+ABCD1,Ser606Leu,Pathogenic,1
+LAMA2,Trp739Ter,Pathogenic,1
+FBN1,Cys617Gly,Pathogenic,1
+PMS2,Met1Thr,Pathogenic,1
+HSPG2,Gln601Ter,Pathogenic,1
+IMPG2,Glu933Ter,Pathogenic,1
+TUBB8,Arg262Gln,Pathogenic,1
+CLDN16,Lys205Ter,Pathogenic,1
+PORCN,Arg90Ter,Pathogenic,1
+COL3A1,Gly963Val,Pathogenic,1
+STXBP1,Tyr531Ter,Pathogenic,1
+COL3A1,Gly852Cys,Pathogenic,1
+MMAA,Gln248Ter,Pathogenic,1
+DMD,Gln1099Ter,Pathogenic,1
+RAD51C,Glu303Ter,Pathogenic,1
+FANCI,Tyr393Ter,Pathogenic,1
+TP53,Ser94Ter,Pathogenic,1
+APC,Gln789Ter,Pathogenic,1
+COL7A1,Gln1004Ter,Pathogenic,1
+PPOX,Arg47Ter,Pathogenic,1
+AGXT,Ala368Thr,Pathogenic,1
+ACO2,Lys736Asn,Pathogenic,1
+SLC2A1,Gly130Ser,Pathogenic,1
+VPS13B,Gln446Ter,Pathogenic,1
+APOA1,Glu160Ter,Pathogenic,1
+JAG1,Arg235Ter,Pathogenic,1
+SCN1A,Ser1773Tyr,Pathogenic,1
+EMC1,Gln835Ter,Pathogenic,1
+HGD,Pro158Arg,Pathogenic,1
+PHKA1,Gln895Ter,Pathogenic,1
+LRP2,Tyr799Ter,Pathogenic,1
+TRPV4,Glu797Lys,Pathogenic,1
+ZBTB20,His652Arg,Pathogenic,1
+DNAH5,Arg2639Ter,Pathogenic,1
+VPS13D,Arg3141Ter,Pathogenic,1
+CLIP1,Arg144Ter,Pathogenic,1
+RAI1,Gln604Ter,Pathogenic,1
+SPTA1,Arg1844Ter,Pathogenic,1
+BRCA2,Ser2052Ter,Pathogenic,1
+PHEX,Gly102Arg,Pathogenic,1
+CEP290,Glu1713Ter,Pathogenic,1
+POLH,Trp340Ter,Pathogenic,1
+IL10RA,Gln257Ter,Pathogenic,1
+DMD,Gln2350Ter,Pathogenic,1
+GLA,Gly373Asp,Pathogenic,1
+HNRNPU,Gln171Ter,Pathogenic,1
+CHD7,Gln387Ter,Pathogenic,1
+MYO7A,Asn207Ser,Pathogenic,1
+MSH6,Cys88Ter,Pathogenic,1
+PALS1,Glu430Gly,Pathogenic,1
+COL3A1,Gly879Val,Pathogenic,1
+NUP107,Cys442Tyr,Pathogenic,1
+COL1A1,Cys70Ter,Pathogenic,1
+MPL,Tyr316Ter,Pathogenic,1
+GBA2,Trp731Ter,Pathogenic,1
+RPS19,Met1Ile,Pathogenic,1
+COG6,Lys38Ter,Pathogenic,1
+PCARE,Trp720Ter,Pathogenic,1
+PKD1,Glu3918Ter,Pathogenic,1
+DYNC1H1,Asp338His,Pathogenic,1
+UBE3B,Arg157Ter,Pathogenic,1
+WRN,Glu675Ter,Pathogenic,1
+HADHA,Tyr736Ter,Pathogenic,1
+PAH,Leu41Phe,Pathogenic,1
+GLMN,Trp440Ter,Pathogenic,1
+SCN5A,Gln1490Ter,Pathogenic,1
+ITPR1,Glu2109Gly,Pathogenic,1
+CTNND1,Trp363Ter,Pathogenic,1
+RB1,Leu174Ter,Pathogenic,1
+SMARCA4,Gln1554Ter,Pathogenic,1
+F13A1,Asn61Lys,Pathogenic,1
+FLNC,Ser1893Ter,Pathogenic,1
+BRCA2,Cys1159Ter,Pathogenic,1
+FBN1,Cys1928Phe,Pathogenic,1
+CDH23,Asp2045Asn,Pathogenic,1
+OPA1,Arg367Ter,Pathogenic,1
+PLVAP,Arg358Ter,Pathogenic,1
+ALPL,His171Tyr,Pathogenic,1
+PRKCG,Phe643Leu,Pathogenic,1
+TRAPPC11,Arg1065Ter,Pathogenic,1
+CTNNB1,Lys345Ter,Pathogenic,1
+PEX5,Arg427Ter,Pathogenic,1
+DONSON,Arg162Ter,Pathogenic,1
+CNGB3,Glu336Ter,Pathogenic,1
+MYT1L,Ser1029Ter,Pathogenic,1
+BRCA1,Arg1495Met,Pathogenic,1
+CPT1A,Gln691Ter,Pathogenic,1
+DHRS3,Val171Met,Pathogenic,1
+YARS2,Ser435Gly,Pathogenic,1
+CFTR,Leu467Pro,Pathogenic,1
+XPC,Glu15Ter,Pathogenic,1
+LARS1,Lys243Ter,Pathogenic,1
+GATA3,Tyr283Ter,Pathogenic,1
+BAG5,Arg197Ter,Pathogenic,1
+LYST,Arg2741Ter,Pathogenic,1
+HSPD1,Gln461Glu,Pathogenic,1
+DCX,Arg19Ter,Pathogenic,1
+FHL1,Val280Met,Pathogenic,1
+ARSA,Glu309Lys,Pathogenic,1
+NPC1,Ser473Ter,Pathogenic,1
+ANKRD11,Tyr1114Ter,Pathogenic,1
+CDKL5,Gly207Val,Pathogenic,1
+SLC37A4,Cys183Arg,Pathogenic,1
+DYSF,Trp1857Ter,Pathogenic,1
+TMEM67,Leu416Ter,Pathogenic,1
+SHANK3,Glu777Ter,Pathogenic,1
+ALMS1,Arg2927Ter,Pathogenic,1
+JAG1,Gln254Ter,Pathogenic,1
+RAD50,Glu869Ter,Pathogenic,1
+RPGR,Gly874Ter,Pathogenic,1
+BRCA1,Ser573Ter,Pathogenic,1
+USH2A,Leu2485Ter,Pathogenic,1
+RGS9,Trp109Ter,Pathogenic,1
+TNFAIP3,Gln362Ter,Pathogenic,1
+LDLR,Cys318Ter,Pathogenic,1
+RTN2,Cys389Ter,Pathogenic,1
+ZMYND10,Trp244Ter,Pathogenic,1
+BRCA2,Gln2858Ter,Pathogenic,1
+FAT1,Gln2850Ter,Pathogenic,1
+SDHB,Arg46Gly,Pathogenic,1
+NPHS1,Cys160Ser,Pathogenic,1
+AMT,Gln311Ter,Pathogenic,1
+ACTG2,Arg63Gly,Pathogenic,1
+FGFR2,Phe276Val,Pathogenic,1
+DLG4,Trp471Ter,Pathogenic,1
+DYSF,Leu480Pro,Pathogenic,1
+APC,Gln1627Ter,Pathogenic,1
+SYNE1,Tyr5743Ter,Pathogenic,1
+ARID1B,Arg2076Pro,Pathogenic,1
+HNF4A,Arg141Ter,Pathogenic,1
+APOA1,Gln108Ter,Pathogenic,1
+ENPP1,Asn792Ser,Pathogenic,1
+TCTN3,Gly314Arg,Pathogenic,1
+CDKN2A,Gln57Ter,Pathogenic,1
+SALL1,Leu419Ter,Pathogenic,1
+TRIOBP,Gln581Ter,Pathogenic,1
+COL1A1,Cys81Ter,Pathogenic,1
+DNMT3A,Gly298Arg,Pathogenic,1
+GAA,Gln743Ter,Pathogenic,1
+GLA,Ser235Phe,Pathogenic,1
+ATM,Leu822Ter,Pathogenic,1
+CLRN1,Cys20Ter,Pathogenic,1
+MECP2,Tyr153Ter,Pathogenic,1
+COL1A1,Gly1052Ala,Pathogenic,1
+DMD,Glu1182Ter,Pathogenic,1
+COL2A1,Gly699Cys,Pathogenic,1
+COL4A5,Gly1196Glu,Pathogenic,1
+GJB2,Thr86Arg,Pathogenic,1
+UBE3A,Arg276Ter,Pathogenic,1
+RECQL4,Gln161Ter,Pathogenic,1
+CYBB,Ala156Thr,Pathogenic,1
+ANKRD11,Glu487Ter,Pathogenic,1
+NPRL3,Gln32Ter,Pathogenic,1
+ARF1,Phe51Leu,Pathogenic,1
+AIP,Gln87Ter,Pathogenic,1
+ZFPM2,Ser402Arg,Pathogenic,1
+USH2A,Ser4593Ter,Pathogenic,1
+MSH6,Lys504Ter,Pathogenic,1
+IFIH1,Ala452Thr,Pathogenic,1
+NAGLU,Trp147Ter,Pathogenic,1
+TCF20,Gln471Ter,Pathogenic,1
+ADAMTS13,His96Asp,Pathogenic,1
+CLCN1,Arg626Ter,Pathogenic,1
+SCN9A,Glu930Ter,Pathogenic,1
+DNAJB6,Phe91Leu,Pathogenic,1
+ADAR,Arg328Ter,Pathogenic,1
+CLN6,Trp56Ter,Pathogenic,1
+RPGR,His201Leu,Pathogenic,1
+GAMT,Trp102Ter,Pathogenic,1
+FLNC,Glu2268Ter,Pathogenic,1
+DLG4,Trp499Ter,Pathogenic,1
+TYK2,Trp798Ter,Pathogenic,1
+AAAS,Gln15Lys,Pathogenic,1
+USH2A,Glu3806Ter,Pathogenic,1
+STXBP1,Glu530Ter,Pathogenic,1
+ATM,Ser1878Ter,Pathogenic,1
+PLCE1,Gln1328Ter,Pathogenic,1
+POU3F4,Arg167Ter,Pathogenic,1
+ABCB4,Ser1203Ter,Pathogenic,1
+NF2,Tyr221Ter,Pathogenic,1
+NR0B1,Gln222Ter,Pathogenic,1
+BMPR2,Asp485Gly,Pathogenic,1
+HGD,Tyr234Ter,Pathogenic,1
+TYMP,Gly387Ser,Pathogenic,1
+ANK1,Ser1507Ter,Pathogenic,1
+MMAB,Glu112Ter,Pathogenic,1
+RPGR,Trp164Ter,Pathogenic,1
+ADAMTS10,Gln1052Ter,Pathogenic,1
+SOS2,Met267Thr,Pathogenic,1
+AGXT,Arg122Ter,Pathogenic,1
+CDKN1C,Gln55Ter,Pathogenic,1
+MSH6,Trp456Ter,Pathogenic,1
+SERPINI1,Gly392Arg,Pathogenic,1
+CLTC,Arg63Ter,Pathogenic,1
+APC,Lys1030Ter,Pathogenic,1
+CACNA1S,Trp1016Ter,Pathogenic,1
+ABCG5,Tyr75Ter,Pathogenic,1
+PTCH1,Glu1095Ter,Pathogenic,1
+RSPH4A,Gln564Ter,Pathogenic,1
+HCN1,Val390Ala,Pathogenic,1
+ALOX12B,Arg679Ser,Pathogenic,1
+CFTR,Gly103Ter,Pathogenic,1
+IFIH1,Ile583Val,Pathogenic,1
+TNNT2,Phe120Ile,Pathogenic,1
+SMC1A,Gln183Ter,Pathogenic,1
+SLX4,Trp900Ter,Pathogenic,1
+APC,Ser1201Ter,Pathogenic,1
+GRIN2B,Ala717Val,Pathogenic,1
+DSP,Cys646Ter,Pathogenic,1
+RTEL1,Gln1042Ter,Pathogenic,1
+KCNV2,Trp67Ter,Pathogenic,1
+NEB,Glu7549Ter,Pathogenic,1
+FBN1,Cys150Phe,Pathogenic,1
+CASQ1,Asn56Tyr,Pathogenic,1
+NDUFAF6,Ser76Pro,Pathogenic,1
+GUSB,Glu109Ter,Pathogenic,1
+VPS13A,Glu2360Ter,Pathogenic,1
+PTEN,Tyr88Ter,Pathogenic,1
+TMEM216,Gln110Ter,Pathogenic,1
+CTC1,Tyr165Ter,Pathogenic,1
+FOXG1,Gln226Glu,Pathogenic,1
+CYP17A1,Trp406Arg,Pathogenic,1
+ALMS1,Glu71Ter,Pathogenic,1
+ADGRV1,Gln2601Ter,Pathogenic,1
+CTNNB1;LOC126806659,Gln538Ter,Pathogenic,1
+USH2A,Ser5030Ter,Pathogenic,1
+CDH1,Gly808Ter,Pathogenic,1
+SLC19A2,Trp301Ter,Pathogenic,1
+LMNA,Glu159Ter,Pathogenic,1
+FH,Leu218Pro,Pathogenic,1
+RS1,Asn179Asp,Pathogenic,1
+COL1A2,Gly694Asp,Pathogenic,1
+SYNJ1,Arg219Gln,Pathogenic,1
+OTOF,Cys1592Ter,Pathogenic,1
+PROM1,Gln675Ter,Pathogenic,1
+CFTR,Glu822Ter,Pathogenic,1
+PCNT,Gln615Ter,Pathogenic,1
+COL1A1,Gly704Cys,Pathogenic,1
+ACVRL1,Asp330Glu,Pathogenic,1
+PCDH19,Ser671Ter,Pathogenic,1
+CNGA3,Arg436Trp,Pathogenic,1
+HPGD,Met1Leu,Pathogenic,1
+MEIS2,Arg331Gly,Pathogenic,1
+JAG1,Gln915Ter,Pathogenic,1
+PCDH15,Cys1306Ter,Pathogenic,1
+CDH23,Tyr2949Ter,Pathogenic,1
+SLC22A5,Trp132Ter,Pathogenic,1
+C6,Gln115Ter,Pathogenic,1
+ATM,Gly327Ter,Pathogenic,1
+KDF1,Phe251Leu,Pathogenic,1
+AR,Tyr365Ter,Pathogenic,1
+MOCS2,Val7Phe,Pathogenic,1
+BRCA1,Cys47Ser,Pathogenic,1
+SMCHD1,Gln1487Ter,Pathogenic,1
+BRAF,Gln257Arg,Pathogenic,1
+ABCA4,Cys205Phe,Pathogenic,1
+ABCA4,Tyr1453Ter,Pathogenic,1
+DYSF,Glu1805Lys,Pathogenic,1
+POLE,Ser1401Ter,Pathogenic,1
+COL2A1,Gly414Val,Pathogenic,1
+SACS,Gln658Ter,Pathogenic,1
+GP9,Asn61Ser,Pathogenic,1
+RB1,Tyr606Ter,Pathogenic,1
+SACS,Arg321Ter,Pathogenic,1
+COL1A2,Gly112Val,Pathogenic,1
+CAD,Arg839Ter,Pathogenic,1
+DCLRE1C,Trp267Ter,Pathogenic,1
+CHEK2,Leu384Ter,Pathogenic,1
+EMD,Leu140Ter,Pathogenic,1
+AMH,Arg191Ter,Pathogenic,1
+ABCG8,Gln302Ter,Pathogenic,1
+PLEC,Glu2360Ter,Pathogenic,1
+MSH6,Trp105Ter,Pathogenic,1
+KMT2D,Gln3993Ter,Pathogenic,1
+TBX4,Gln312Ter,Pathogenic,1
+PNPLA2,Gln369Ter,Pathogenic,1
+BRCA1,Gln538Ter,Pathogenic,1
+PUS1,Lys136Ter,Pathogenic,1
+RB1,Glu545Ter,Pathogenic,1
+RPE65,Tyr423Ter,Pathogenic,1
+APC,Ser932Ter,Pathogenic,1
+FBN1,Cys1159Tyr,Pathogenic,1
+ABCA4,Gly1862Arg,Pathogenic,1
+COL7A1,Tyr311Ter,Pathogenic,1
+GBA1,Arg170Cys,Pathogenic,1
+SRD5A2,Ala69Ser,Pathogenic,1
+TK2,Lys195Ter,Pathogenic,1
+CNGB1,Cys632Ter,Pathogenic,1
+HUWE1,Leu4227Ser,Pathogenic,1
+DMD,Gln365Ter,Pathogenic,1
+TSC1,Gln655Ter,Pathogenic,1
+ACTN2,Glu628Gly,Pathogenic,1
+PEX1,Lys619Ter,Pathogenic,1
+DYNC2H1,Leu2890Ter,Pathogenic,1
+DOCK7,Arg895Ter,Pathogenic,1
+TBL1XR1,Tyr446Cys,Pathogenic,1
+ATM,Lys66Ter,Pathogenic,1
+GALC,Gly323Arg,Pathogenic,1
+PKD1,Cys4087Ter,Pathogenic,1
+APC,Ser770Ter,Pathogenic,1
+DICER1,Tyr1223Ter,Pathogenic,1
+HNF4A,Arg63Trp,Pathogenic,1
+MSH2,Lys334Ter,Pathogenic,1
+ALDH7A1,Glu443Ter,Pathogenic,1
+NF1,Ser1896Ter,Pathogenic,1
+LAMA5,Arg2720Ter,Pathogenic,1
+PLEC,Leu292Pro,Pathogenic,1
+MYH7,Leu387Phe,Pathogenic,1
+USH2A,Gln4473Ter,Pathogenic,1
+ATL1,Arg239Leu,Pathogenic,1
+ANKRD11,Cys2530Ter,Pathogenic,1
+TRAF3,Trp344Ter,Pathogenic,1
+COL6A3,Gly2140Ter,Pathogenic,1
+KANSL1,Arg462Ter,Pathogenic,1
+ACVRL1,Cys344Ter,Pathogenic,1
+PHF21A,Lys392Ter,Pathogenic,1
+SLC4A1,His834Pro,Pathogenic,1
+CRTAP,Tyr66Ter,Pathogenic,1
+GAD1,Gln289Ter,Pathogenic,1
+PCDH19,Glu31Ter,Pathogenic,1
+PTS,Pro87Ser,Pathogenic,1
+LAMC3,Ser421Ter,Pathogenic,1
+HTRA1,Ser205Cys,Pathogenic,1
+TNNC2,Asp34Tyr,Pathogenic,1
+PSMB10,Asp56His,Pathogenic,1
+KCNQ1,Gly345Arg,Pathogenic,1
+EBF3,Arg163Leu,Pathogenic,1
+SFRP4,Glu25Ter,Pathogenic,1
+SGCB,Tyr44Ter,Pathogenic,1
+ATL1,Lys330Ter,Pathogenic,1
+PCDH19,Glu313Ter,Pathogenic,1
+NPR2,Gln781Ter,Pathogenic,1
+KMT2D,Gln2876Ter,Pathogenic,1
+SPTB,Gln442Ter,Pathogenic,1
+CASP2,Arg44Ter,Pathogenic,1
+GNAS,Gln267Ter,Pathogenic,1
+HFE,Gln190Ter,Pathogenic,1
+SUMF1,Lys151Ter,Pathogenic,1
+RPL13,Ala185Pro,Pathogenic,1
+MED13L,Gln2111Ter,Pathogenic,1
+TMEM67,Thr244Ala,Pathogenic,1
+ALMS1,Tyr2913Ter,Pathogenic,1
+COL4A5,Gly1339Ser,Pathogenic,1
+COL3A1,Gly621Trp,Pathogenic,1
+CLN6,Arg6Thr,Pathogenic,1
+GCH1,Arg178Ter,Pathogenic,1
+MYBPC3,Gln366Ter,Pathogenic,1
+EYS,Tyr210Ter,Pathogenic,1
+CLN8,Trp104Ter,Pathogenic,1
+FGFR1,Asp623Glu,Pathogenic,1
+RAD51D,Tyr134Ter,Pathogenic,1
+FKRP,Tyr182Cys,Pathogenic,1
+NALCN,Gln670Ter,Pathogenic,1
+COL7A1,Gly2070Ala,Pathogenic,1
+ABCA4,His566Gln,Pathogenic,1
+CERKL,Arg338Ter,Pathogenic,1
+PCDH19,Asp121Ala,Pathogenic,1
+FLNC,Trp148Ter,Pathogenic,1
+DDX3X,Val206Met,Pathogenic,1
+ACAN,Leu1606Ter,Pathogenic,1
+SETBP1,Arg589Ter,Pathogenic,1
+PAH,Asp338Val,Pathogenic,1
+PTCH1,Tyr452Ter,Pathogenic,1
+SLC6A1,Gly124Ser,Pathogenic,1
+GNAS,Lys293Thr,Pathogenic,1
+MRPL44,Leu267Ter,Pathogenic,1
+GPATCH11,Arg152Ter,Pathogenic,1
+CRB1,Glu1058Ter,Pathogenic,1
+ABHD5,Arg234Ter,Pathogenic,1
+CARMIL2,Arg290Ter,Pathogenic,1
+AR,Ser741Cys,Pathogenic,1
+MLH1,Ala281Val,Pathogenic,1
+BBS5,Leu142Ter,Pathogenic,1
+MYBPC3,Tyr333Ter,Pathogenic,1
+USH2A,Gln675Ter,Pathogenic,1
+EMC1,Gln466Ter,Pathogenic,1
+LYST,Glu3668Ter,Pathogenic,1
+COL3A1,Glu1009Ter,Pathogenic,1
+SKIC3,Gln751Ter,Pathogenic,1
+SLC9A3,Asp405Gly,Pathogenic,1
+PMS2,Arg747Ter,Pathogenic,1
+MEN1,Trp198Ter,Pathogenic,1
+LAMA1,Trp1294Ter,Pathogenic,1
+BAG3,Trp255Ter,Pathogenic,1
+MYO7A,Tyr142Ter,Pathogenic,1
+LAMB2,Cys374Ter,Pathogenic,1
+P3H2,Gln186Ter,Pathogenic,1
+BAP1,Tyr241Ter,Pathogenic,1
+SCN5A,Trp697Ter,Pathogenic,1
+CPLANE1,Gln3033Ter,Pathogenic,1
+MITF,Glu320Gly,Pathogenic,1
+BRCA2,Leu1356Ter,Pathogenic,1
+SZT2,Arg3076Ter,Pathogenic,1
+SLC25A19,Pro152Thr,Pathogenic,1
+AP1B1,Tyr421Ter,Pathogenic,1
+SCN2A,Ala215Thr,Pathogenic,1
+SLC2A1,Cys133Arg,Pathogenic,1
+DNAH5,Glu4069Ter,Pathogenic,1
+CP,Lys211Ter,Pathogenic,1
+NF1,Leu1095Ter,Pathogenic,1
+GAA,Gln803Ter,Pathogenic,1
+ZFPM2,Ser402Arg,Pathogenic,1
+BRPF1,Cys389Arg,Pathogenic,1
+NF1,Tyr1044Ter,Pathogenic,1
+PHIP,Tyr1149Ter,Pathogenic,1
+RASA1,Ile401Val,Pathogenic,1
+PEX2,Trp223Ter,Pathogenic,1
+BRCA2,Ser2103Ter,Pathogenic,1
+MAD1L1,Tyr649Ter,Pathogenic,1
+FKTN,Tyr314Ter,Pathogenic,1
+ACVRL1,Trp274Ter,Pathogenic,1
+BAP1,Arg385Ter,Pathogenic,1
+L1CAM,Pro333Leu,Pathogenic,1
+SAMHD1,Gln271Ter,Pathogenic,1
+TMPRSS15,Trp796Ter,Pathogenic,1
+KIF11,Leu959Ter,Pathogenic,1
+EXT2,Trp580Ter,Pathogenic,1
+GP1BA,Trp540Ter,Pathogenic,1
+BRCA2,Ser273Ter,Pathogenic,1
+SOD1,Leu107Phe,Pathogenic,1
+CPAP,Asp1196Asn,Pathogenic,1
+SLC22A12,Gly361Val,Pathogenic,1
+SMOC1,Gln92Ter,Pathogenic,1
+GLA,Ala377Asp,Pathogenic,1
+LARGE1,Glu112Ter,Pathogenic,1
+SPG7,Ala572Val,Pathogenic,1
+MSH3,Lys100Ter,Pathogenic,1
+TCF20,Tyr1729Ter,Pathogenic,1
+TPI1,Ile171Val,Pathogenic,1
+ABCA4,Arg1843Gly,Pathogenic,1
+C9,Leu163Ter,Pathogenic,1
+GCDH,Trp299Ter,Pathogenic,1
+RAB23,Val161Leu,Pathogenic,1
+CYP27B1,Arg335Pro,Pathogenic,1
+TUBA1A,Ile219Thr,Pathogenic,1
+SETBP1,Arg530Ter,Pathogenic,1
+GJA1,Val216Leu,Pathogenic,1
+ABCD1,Glu380Ter,Pathogenic,1
+MYO5A,Arg155Ter,Pathogenic,1
+ACVRL1,Trp274Ter,Pathogenic,1
+BTD,Tyr196Ter,Pathogenic,1
+LOX,Gln67Ter,Pathogenic,1
+ENPP1,Lys171Ter,Pathogenic,1
+ABCA3,Leu101Pro,Pathogenic,1
+NSD1,Gly1656Cys,Pathogenic,1
+ECHS1,Ala188Val,Pathogenic,1
+POMGNT1,Ser105Ter,Pathogenic,1
+MECP2,Asp168Glu,Pathogenic,1
+CYP17A1,Thr390Arg,Pathogenic,1
+ANO6,Tyr99Ter,Pathogenic,1
+BBS7,Glu555Ter,Pathogenic,1
+COL1A1,Leu1464Pro,Pathogenic,1
+DCLRE1C,Trp489Ter,Pathogenic,1
+MTM1,Tyr397Ter,Pathogenic,1
+RGS9,Arg128Ter,Pathogenic,1
+KMT2D,Ser146Ter,Pathogenic,1
+CACNA1A,Asp714Glu,Pathogenic,1
+GSR,Trp331Ter,Pathogenic,1
+PTEN,Glu242Ter,Pathogenic,1
+HNF4A,Gln404Ter,Pathogenic,1
+LOXHD1,Trp1278Ter,Pathogenic,1
+SETX,Gln2108Ter,Pathogenic,1
+CHAT,Cys149Ter,Pathogenic,1
+RORB,Met1Ile,Pathogenic,1
+SPAST,Ser436Pro,Pathogenic,1
+WRN,Leu718Ter,Pathogenic,1
+MTO1,Leu531Ter,Pathogenic,1
+DCAF17,Trp51Ter,Pathogenic,1
+ADAMTSL4,Tyr595Ter,Pathogenic,1
+PKD1,Gly2443Ter,Pathogenic,1
+CYP11B1,Gln265Ter,Pathogenic,1
+IDUA,Tyr343Ter,Pathogenic,1
+MSH2,Glu452Ter,Pathogenic,1
+FGFR2,Trp290Arg,Pathogenic,1
+SH3TC2,Gln695Ter,Pathogenic,1
+COL1A2,Gly166Val,Pathogenic,1
+CDH23,Asn1845Lys,Pathogenic,1
+MTFMT,Met1Leu,Pathogenic,1
+DRAM2,His121Leu,Pathogenic,1
+FBXO7,Ser174Ter,Pathogenic,1
+ALDH5A1,Leu138Phe,Pathogenic,1
+BPGM,Arg62Gln,Pathogenic,1
+FKTN,Gln136Ter,Pathogenic,1
+VPS13B,Trp3832Ter,Pathogenic,1
+RSPH9,Gln18Ter,Pathogenic,1
+AMT,Gln189Ter,Pathogenic,1
+ABCB11,Glu283Ter,Pathogenic,1
+HTT,Gln904Ter,Pathogenic,1
+PKD1,Tyr2336Ter,Pathogenic,1
+DEPDC5,Gln519Ter,Pathogenic,1
+EPM2A,Tyr86Asp,Pathogenic,1
+ABCC6,Trp436Ter,Pathogenic,1
+TRPS1,Gln881Ter,Pathogenic,1
+APC,Glu1576Ter,Pathogenic,1
+RP1,Trp1746Ter,Pathogenic,1
+KCNMA1,Asp434Gly,Pathogenic,1
+SLC41A1,Gly233Val,Pathogenic,1
+GDAP1,Thr157Pro,Pathogenic,1
+ZFYVE26,Gln522Ter,Pathogenic,1
+OTC,Ser340Pro,Pathogenic,1
+ACVRL1,Glu224Lys,Pathogenic,1
+NF1,Ser2137Ter,Pathogenic,1
+DMD,Arg1763Ter,Pathogenic,1
+SERPINC1,Ala416Pro,Pathogenic,1
+IPO8,Trp259Ter,Pathogenic,1
+FBN1,Trp71Ser,Pathogenic,1
+CHD7,Gly2561Ter,Pathogenic,1
+PURA,Lys239Ter,Pathogenic,1
+ADAMTSL4,Trp727Ter,Pathogenic,1
+MID1,Arg368Ter,Pathogenic,1
+NF1,Gln1987Ter,Pathogenic,1
+VHL,Leu158Pro,Pathogenic,1
+CTNNA1,Gln67Ter,Pathogenic,1
+SLC2A2,Cys453Ter,Pathogenic,1
+NSD2,Gln265Ter,Pathogenic,1
+MYH7,Asp778Gly,Pathogenic,1
+ZEB2,Gln168Ter,Pathogenic,1
+MSH6,Tyr1038Ter,Pathogenic,1
+TRIO,Arg1078Gly,Pathogenic,1
+F9,Asn48Tyr,Pathogenic,1
+GRIN2A,Ile654Ser,Pathogenic,1
+SCN1A,Glu1099Ter,Pathogenic,1
+ANOS1,Gln586Ter,Pathogenic,1
+MYH7,Leu1533Pro,Pathogenic,1
+VARS2,Tyr920His,Pathogenic,1
+GPI,Ala337Val,Pathogenic,1
+FAM83H,Gln444Ter,Pathogenic,1
+CPOX,His295Asp,Pathogenic,1
+CD40LG,Ala141Pro,Pathogenic,1
+DNAH5,Tyr4165Ter,Pathogenic,1
+VWF,Tyr1542Ter,Pathogenic,1
+PMS2,Glu661Ter,Pathogenic,1
+KCNQ1,Gln367Ter,Pathogenic,1
+ATP2C1,Gln733Ter,Pathogenic,1
+PEX7,Trp119Ter,Pathogenic,1
+CEP290,Gln1878Ter,Pathogenic,1
+KIF11,Tyr311Ter,Pathogenic,1
+EXOSC9,Gln95Ter,Pathogenic,1
+GABRB3,Gln249Lys,Pathogenic,1
+WDR19,Tyr541Ter,Pathogenic,1
+KIF24,Asn522Ser,Pathogenic,1
+CRB1,Ser539Arg,Pathogenic,1
+TBX22,Gly118Cys,Pathogenic,1
+BTD,Thr224Ile,Pathogenic,1
+F8,Gly1779Arg,Pathogenic,1
+SURF1,Glu270Ter,Pathogenic,1
+ODAD2,Arg790Ter,Pathogenic,1
+COMP,Asp349Asn,Pathogenic,1
+PLP1,Asp203His,Pathogenic,1
+PEX6,Gln236Ter,Pathogenic,1
+PTCH1,Cys98Ter,Pathogenic,1
+KCNA1,Val368Leu,Pathogenic,1
+EFEMP2,Arg326Gly,Pathogenic,1
+GRIN2B,Ser526Pro,Pathogenic,1
+NF1,Trp1048Ter,Pathogenic,1
+SPAST,Ile406Val,Pathogenic,1
+DYSF,Glu523Ter,Pathogenic,1
+BMPR2,Glu31Ter,Pathogenic,1
+DCX,Val210Phe,Pathogenic,1
+CHMP4B,Glu161Lys,Pathogenic,1
+CYP21A2,Arg484Trp,Pathogenic,1
+AGL,Leu163Ter,Pathogenic,1
+CNTNAP2,Gln684Ter,Pathogenic,1
+NSD1,Ser965Ter,Pathogenic,1
+SUPT16H,Asn571Ser,Pathogenic,1
+PEX10,Gln243Ter,Pathogenic,1
+NGLY1,Arg542Ter,Pathogenic,1
+ATP2A2,Gln477Ter,Pathogenic,1
+APC,Gln1781Ter,Pathogenic,1
+NOTCH3,Cys82Arg,Pathogenic,1
+SCN2A,Leu1650Ile,Pathogenic,1
+DICER1,Leu1301Ter,Pathogenic,1
+KCNA1,Phe184Cys,Pathogenic,1
+ARID1B,Arg1747Ter,Pathogenic,1
+MERTK,Ala740Val,Pathogenic,1
+EYA4,Gln23Ter,Pathogenic,1
+DNAH5,Trp3503Ter,Pathogenic,1
+MED13L,Ser454Ter,Pathogenic,1
+XPC,Glu32Ter,Pathogenic,1
+LMNA,Lys144Thr,Pathogenic,1
+GATA4,Gly297Arg,Pathogenic,1
+COL17A1,Gln950Ter,Pathogenic,1
+CNGB3,Trp189Ter,Pathogenic,1
+CDH1,Tyr754Ter,Pathogenic,1
+GLA,Gln416Ter,Pathogenic,1
+GNB1,Arg96Leu,Pathogenic,1
+FGFR3,Lys650Thr,Pathogenic,1
+LTBP4,Arg1069Ter,Pathogenic,1
+TNRC6B,Gln1323Ter,Pathogenic,1
+ANO10,Leu69Ter,Pathogenic,1
+MSH6,Arg379Ter,Pathogenic,1
+OTC,Arg23Ter,Pathogenic,1
+COL4A5,Gly301Ser,Pathogenic,1
+NCAPD3,Glu1153Ala,Pathogenic,1
+VPS13B,Leu960Ter,Pathogenic,1
+SLC25A13,Arg355Gln,Pathogenic,1
+PTCH1,Tyr676Ter,Pathogenic,1
+DNAH11,Tyr1039Ter,Pathogenic,1
+CARD14,Met119Arg,Pathogenic,1
+AP3B2,Glu185Ter,Pathogenic,1
+KCNQ2,Asp563Tyr,Pathogenic,1
+NLGN4X,Arg101Ter,Pathogenic,1
+MAT1A,Arg264His,Pathogenic,1
+MCPH1,Tyr56Ter,Pathogenic,1
+DLG4,Arg516Ter,Pathogenic,1
+ARID1B,Arg1225Ter,Pathogenic,1
+ASCC1,Arg110Ter,Pathogenic,1
+HELLS,Arg606Ter,Pathogenic,1
+ACAN,Trp2439Ter,Pathogenic,1
+COL4A5,Gly612Arg,Pathogenic,1
+CACNA1A,Ala1391Val,Pathogenic,1
+GALC,Trp4Ter,Pathogenic,1
+CEP57,Arg81Ter,Pathogenic,1
+COL1A2,Cys1195Ser,Pathogenic,1
+CDKL5,Gln605Ter,Pathogenic,1
+ABCA3,Met760Arg,Pathogenic,1
+MITF,Arg400Ter,Pathogenic,1
+AFG2A,Arg84Ter,Pathogenic,1
+BPTF,Arg2208Ter,Pathogenic,1
+DNAH5,Gly4205Val,Pathogenic,1
+SPTB,Trp1771Ter,Pathogenic,1
+VPS13C,Gln3257Ter,Pathogenic,1
+PRPH2,Asn244His,Pathogenic,1
+GRIN2B,Tyr585Ter,Pathogenic,1
+AIRE,Gln290Ter,Pathogenic,1
+ARSB,Trp57Ter,Pathogenic,1
+KANSL1,Trp451Ter,Pathogenic,1
+BRCA1,Gln1826Ter,Pathogenic,1
+TCIRG1,Tyr303Ter,Pathogenic,1
+KMT2D,Ser4669Ter,Pathogenic,1
+LAMB3,Gln633Ter,Pathogenic,1
+IDS,Asp148His,Pathogenic,1
+SMARCA2,Lys755Arg,Pathogenic,1
+NF1,Leu1152Ter,Pathogenic,1
+CHAMP1,Gln657Ter,Pathogenic,1
+COQ4,Leu52Ser,Pathogenic,1
+POR,Arg108Ter,Pathogenic,1
+BFSP1,Gln300Ter,Pathogenic,1
+TSC1,Gln765Ter,Pathogenic,1
+PCDH19,Gln818Ter,Pathogenic,1
+RPL5,Met1Arg,Pathogenic,1
+HBB,Glu91Asp,Pathogenic,1
+NGLY1,Tyr333Ter,Pathogenic,1
+CHD7,Gln505Ter,Pathogenic,1
+BRCA1,Cys1697Arg,Pathogenic,1
+GRM6,Tyr395Ter,Pathogenic,1
+MLH1,Gln562Ter,Pathogenic,1
+ATM,Ser575Ter,Pathogenic,1
+MYBPC3,Gln404Ter,Pathogenic,1
+GLA,Cys142Ter,Pathogenic,1
+BTD,His45Arg,Pathogenic,1
+MIP,Arg233Lys,Pathogenic,1
+ACO2,Gly503Ter,Pathogenic,1
+BRCA2,Met1Ile,Pathogenic,1
+RLBP1,Arg151Gln,Pathogenic,1
+AASS,Leu419Arg,Pathogenic,1
+ASL,Trp74Ter,Pathogenic,1
+ECHS1,Met1Ile,Pathogenic,1
+NOTCH3,Cys311Gly,Pathogenic,1
+KCNV2,Gln374Ter,Pathogenic,1
+DNM1,Gly43Asp,Pathogenic,1
+ARSB,Gln456Ter,Pathogenic,1
+G6PC1,His119Asp,Pathogenic,1
+SMOC1,Gln92Ter,Pathogenic,1
+CASR,Gln476Ter,Pathogenic,1
+PHEX,Lys154Ter,Pathogenic,1
+ADPRS,Asp34Asn,Pathogenic,1
+ADGRV1,Trp4074Ter,Pathogenic,1
+COL2A1,Gly246Val,Pathogenic,1
+CTNNB1,Arg535Ter,Pathogenic,1
+MEN1,Ser572Ter,Pathogenic,1
+GALNS,Trp325Ter,Pathogenic,1
+ZNF341,Arg302Ter,Pathogenic,1
+LZTR1,Glu431Ter,Pathogenic,1
+MED17,Lys352Ter,Pathogenic,1
+IDS,Arg96Ter,Pathogenic,1
+IDS,Arg468Gly,Pathogenic,1
+MSH2,Gly753Ter,Pathogenic,1
+ZP1,Val570Met,Pathogenic,1
+PTEN,Thr277Ala,Pathogenic,1
+ATM,Glu2052Ter,Pathogenic,1
+SOX11,Lys50Gln,Pathogenic,1
+STK4,Glu322Ter,Pathogenic,1
+GATAD2B,Gln477Ter,Pathogenic,1
+MYBPC3,Trp1007Ter,Pathogenic,1
+PALB2,Glu19Ter,Pathogenic,1
+BRCA2,Glu826Ter,Pathogenic,1
+FBN1,Asp1238Asn,Pathogenic,1
+ARID1B,Ser1647Ter,Pathogenic,1
+SCN1A,Leu111Ter,Pathogenic,1
+KCNQ1,Arg243Pro,Pathogenic,1
+AHI1,Arg435Ter,Pathogenic,1
+KRAS,Gly13Arg,Pathogenic,1
+SDHA,Tyr211Ter,Pathogenic,1
+RPS10,Met1Val,Pathogenic,1
+HLA-B,Trp241Ter,Pathogenic,1
+KCNJ2,Asp71Val,Pathogenic,1
+CDKN2A,Glu27Ter,Pathogenic,1
+GP1BA,Cys225Ser,Pathogenic,1
+NF1,Arg1533Ter,Pathogenic,1
+FUCA1,Leu186Ter,Pathogenic,1
+TTC8,Gln38Ter,Pathogenic,1
+LMNA,Glu31Lys,Pathogenic,1
+RELN,Arg2192Ter,Pathogenic,1
+KCNQ2,Thr276Ile,Pathogenic,1
+RS1,Trp92Ter,Pathogenic,1
+KMT2A,Glu879Ter,Pathogenic,1
+TSC1,Gly389Ter,Pathogenic,1
+PIK3CA,Glu365Lys,Pathogenic,1
+COG1,Gln896Ter,Pathogenic,1
+PKHD1,Gln3407Ter,Pathogenic,1
+TRRAP,Leu805Phe,Pathogenic,1
+ADA,Met1Arg,Pathogenic,1
+STK11,Tyr261Ter,Pathogenic,1
+KIT,Asp816His,Pathogenic,1
+OTX2,Tyr197Ter,Pathogenic,1
+ITGA2B,Leu343Pro,Pathogenic,1
+TBC1D24,Gln20Ter,Pathogenic,1
+IFT172,Arg1303Ter,Pathogenic,1
+GDF1,Trp209Ter,Pathogenic,1
+FBN1,Cys2528Ter,Pathogenic,1
+LAMP2,Cys232Ter,Pathogenic,1
+PSEN1,Cys92Ser,Pathogenic,1
+GCK,Ala387Thr,Pathogenic,1
+EPM2A,Tyr112Ter,Pathogenic,1
+BRCA1,Gly535Ter,Pathogenic,1
+LPL,Lys307Ter,Pathogenic,1
+HPS1,Arg173Ter,Pathogenic,1
+PAPPA2,Glu886Ter,Pathogenic,1
+DSC2,Ser526Ter,Pathogenic,1
+NDUFB8,Pro76Gln,Pathogenic,1
+EVC,Lys9Ter,Pathogenic,1
+GNPTG,Gln229Ter,Pathogenic,1
+TUBB,Tyr222Phe,Pathogenic,1
+SCN9A,Thr1475Ile,Pathogenic,1
+POP1,Glu764Ter,Pathogenic,1
+DYRK1A,Gln311Ter,Pathogenic,1
+ABCD1,Trp601Ter,Pathogenic,1
+HSD17B3,Glu118Ter,Pathogenic,1
+PCDH15,Glu158Ter,Pathogenic,1
+SPAST,Glu172Ter,Pathogenic,1
+PDHX,Arg284Ter,Pathogenic,1
+FLNB,Arg818Ter,Pathogenic,1
+PMS2,Tyr191Ter,Pathogenic,1
+SERPINC1,Pro73Leu,Pathogenic,1
+FBN1,Ser1188Ter,Pathogenic,1
+AGK,Glu130Ter,Pathogenic,1
+KRIT1,Leu677Ter,Pathogenic,1
+TDP1,His493Arg,Pathogenic,1
+CFH,Arg53His,Likely pathogenic,0
+DLG3,Pro594Leu,Benign,0
+F8,Ser308Trp,Likely pathogenic,0
+TMEM225,Thr71Met,Likely benign,0
+TPR,Ile660Thr,Benign,0
+TNXB,Ile2042Val,Likely benign,0
+GC,Lys444Ter,Likely pathogenic,0
+CHD4,Ala1900Val,Likely benign,0
+ABCA12,Leu644Ter,Likely pathogenic,0
+RELN,Leu2041Val,Likely benign,0
+HELQ,Val1047Ile,Likely benign,0
+PRSS57,Arg126Gln,Likely benign,0
+FAM170B,Glu273Lys,Likely benign,0
+OR10H5,Leu27Phe,Likely benign,0
+DKC1,Thr352Ala,Likely pathogenic,0
+RNF212,Gly214Arg,Likely benign,0
+STARD9,Ala3470Val,Likely benign,0
+PNPT1,Ala507Gly,Likely pathogenic,0
+RP1,Glu661Ter,Likely pathogenic,0
+DNAH5,Trp1625Ter,Likely pathogenic,0
+NOTCH1,Ser2303Gly,Likely benign,0
+BBS7,Ser311Ter,Likely pathogenic,0
+ATRX,Lys1045Glu,Likely benign,0
+L1CAM,Gly1060Arg,Benign,0
+NUTM2F,Arg566Cys,Likely benign,0
+ADGRV1,Ser4966Arg,Likely benign,0
+SON,Arg1575Cys,Benign,0
+PKD1,Trp1414Ser,Likely pathogenic,0
+UBE4B,Gln1075His,Benign,0
+TH,Gln212Pro,Likely pathogenic,0
+POLQ,Arg1261Ser,Likely benign,0
+USP7,Asp295Gly,Likely pathogenic,0
+MUC17,Tyr3780Asp,Likely benign,0
+RPAP1,Ser1064Leu,Likely benign,0
+SMYD4,Pro277Leu,Likely benign,0
+RAB23,Lys132Ter,Likely pathogenic,0
+EPAS1,Ala566Thr,Likely benign,0
+KMT2E,Ser435Gly,Benign,0
+RPGRIP1L,Asp16Asn,Likely pathogenic,0
+SLC2A1,Ser294Phe,Likely pathogenic,0
+AVP,Val111Met,Likely benign,0
+BICRA,Pro858Leu,Likely benign,0
+EDA,His54Leu,Likely pathogenic,0
+ALPK1,Arg1084Gln,Benign,0
+DNAH5,Met555Thr,Likely benign,0
+OBSCN,Arg2910His,Likely benign,0
+PXDNL,Arg391Trp,Likely benign,0
+EHMT1,Leu679Val,Likely benign,0
+AGGF1,Met706Leu,Benign,0
+KRTAP1-3,Thr132Ser,Likely benign,0
+LRTOMT,Asp85Asn,Benign,0
+KREMEN1,Arg406His,Likely benign,0
+RET,Thr130Ile,Likely benign,0
+NSD1,Ser2342Pro,Likely benign,0
+SF3B2,Arg134His,Likely benign,0
+APOA5,Arg223Cys,Likely pathogenic,0
+MSH2,Gln510Pro,Likely benign,0
+MED17,Trp291Ter,Likely pathogenic,0
+BPI,Ala23Thr,Likely benign,0
+PTCH1,Ala1251Asp,Likely benign,0
+SALL3,Glu35Asp,Likely benign,0
+RS1,Cys223Phe,Likely pathogenic,0
+CACNA1H,Leu262Pro,Likely benign,0
+PIEZO1,Arg560Gln,Likely benign,0
+MECP2,Lys443Gln,Benign,0
+WWOX,Pro98Leu,Benign,0
+PCDHGB3,Ser179Phe,Likely benign,0
+FAM111A,Pro527Thr,Likely pathogenic,0
+ZNF772,Ser218Phe,Likely benign,0
+MYOM2,Val489Ile,Likely benign,0
+VWA8,Ala1201Val,Benign,0
+TRAM2,Ile56Val,Likely benign,0
+TTN,Ser14552Ter,Likely pathogenic,0
+PITRM1,Ile105Val,Likely benign,0
+IGSF10,Ser843Cys,Likely benign,0
+DES,Gln466Ter,Likely pathogenic,0
+DNAH11,Glu788Asp,Likely benign,0
+ADGRV1,Glu5295Lys,Likely benign,0
+ATF6B,Ser72Pro,Likely benign,0
+CACNA1C,Lys263Met,Likely pathogenic,0
+TTN,Lys23424Ter,Likely pathogenic,0
+LCT,Ala1249Val,Likely benign,0
+ZC3H12D,Pro141Ser,Likely benign,0
+CARMIL2,Thr818Ile,Likely benign,0
+UNKL,Ala521Ser,Likely benign,0
+CRB1,Cys201Ser,Likely pathogenic,0
+SFTPA2,Arg85His,Benign,0
+MFSD9,Ala376Thr,Benign,0
+ANKMY1,Gly775Arg,Likely benign,0
+SGSH,Phe101Leu,Likely pathogenic,0
+DCLRE1A,Asn642Asp,Likely benign,0
+NICN1,Arg164Cys,Likely benign,0
+CCN6,Cys223Arg,Likely pathogenic,0
+GLE1,Gln354Ter,Likely pathogenic,0
+PTDSS2,Leu202Ile,Likely benign,0
+ABCD1,Ile450Val,Likely benign,0
+ATP1A3,Cys927Tyr,Likely pathogenic,0
+EPHB4,Ser106Phe,Likely benign,0
+CSTA,Thr96Met,Benign,0
+OR2W3,Leu32Arg,Benign,0
+BRCA1,Phe1734Ile,Likely pathogenic,0
+CMBL,Gln192Ter,Benign,0
+CTRC,Asp35Asn,Likely benign,0
+NPHS1,Ser1016Asn,Likely benign,0
+SCN1A,Leu405Ser,Likely pathogenic,0
+SCAF4,Pro250Leu,Likely benign,0
+CREBBP,Val1157Leu,Benign,0
+LMNA,Asn39Asp,Likely pathogenic,0
+COL4A1,Gly1308Arg,Likely pathogenic,0
+BRCA1,Asn1236Lys,Benign,0
+EXPH5,Lys1498Glu,Likely benign,0
+CUX2,Ala536Val,Likely benign,0
+SLC16A7,Leu185Phe,Likely benign,0
+ODC1,Arg449Cys,Likely benign,0
+COMP,Asp397Val,Likely pathogenic,0
+CYP21A2,Arg133Cys,Likely pathogenic,0
+DNAH5,Lys2778Arg,Likely benign,0
+CEP89,Val398Ala,Benign,0
+ZDHHC11,Gly6Arg,Likely benign,0
+OIP5,Cys12Tyr,Likely benign,0
+KIF1A,Met1265Thr,Likely benign,0
+PKHD1,Gly1180Glu,Likely pathogenic,0
+CTDP1,Ala106Val,Benign,0
+ATP1A3,Gly270Ser,Likely benign,0
+EGLN3,Arg71Gln,Benign,0
+ADAT3,Lys51Gln,Likely benign,0
+PMS2,Lys581Thr,Likely benign,0
+USH2A,Ala4778Asp,Benign,0
+PCDHA9,Ser458Pro,Likely benign,0
+CLCN5,Trp192Arg,Likely pathogenic,0
+TBC1D1,Arg125Trp,Benign,0
+NUP37,Val58Ile,Likely benign,0
+HMCN1,Val1992Met,Likely benign,0
+ASH1L,Asp2577Asn,Likely benign,0
+KCNQ2,Gly271Asp,Likely pathogenic,0
+RERE,Pro1022Thr,Likely benign,0
+BEST2,Leu128Phe,Likely benign,0
+TTN,Gln34614Ter,Likely pathogenic,0
+RPGR,Arg413Ter,Likely pathogenic,0
+CACNA1E,Ala10Ser,Benign,0
+KANK2,Arg446Gln,Likely benign,0
+CEMP1,Ala58Val,Likely benign,0
+SOS2,Ala1174Val,Likely benign,0
+HEATR4,Glu625Gly,Likely benign,0
+MECOM,Gln965Glu,Likely pathogenic,0
+PIDD1,Gly217Ser,Likely benign,0
+PDZD2,Ile2603Val,Likely benign,0
+TUT7,Met1421Val,Likely benign,0
+DNAH11,Ala3598Val,Likely benign,0
+COL11A1,Gly1516Asp,Likely pathogenic,0
+ZNF735,Ala66Thr,Likely benign,0
+TCF7L2,Pro512Arg,Likely benign,0
+CIB2,Phe91Ser,Likely pathogenic,0
+OR5B2,Val195Ala,Likely benign,0
+DRC1,Ser533Phe,Likely benign,0
+FKRP,Trp341Ter,Likely pathogenic,0
+MGA,Met501Val,Likely benign,0
+HGSNAT,Ala459Thr,Likely benign,0
+CCDC174,Phe41Leu,Likely benign,0
+APRT,Gln147Ter,Likely pathogenic,0
+FAM234A,Gly221Ser,Likely benign,0
+SPRR3,Thr147Arg,Benign,0
+ROPN1,Cys147Ser,Likely benign,0
+STS,Arg449His,Likely pathogenic,0
+KANK1,Arg138Gln,Likely benign,0
+AR,Leu702Phe,Likely pathogenic,0
+CPA1,Trp367Ter,Likely benign,0
+ITGA7,Gln609Ter,Likely pathogenic,0
+ABCC8,Arg306His,Likely pathogenic,0
+IFI16,Arg612Gln,Likely benign,0
+CBLL2,Ile276Met,Likely benign,0
+TXNDC2,Pro167Thr,Likely benign,0
+SLC26A3,Asp468Val,Likely pathogenic,0
+TP53,Gly293Trp,Likely benign,0
+PPRC1,Lys465Arg,Likely benign,0
+FH,Tyr67Cys,Likely pathogenic,0
+PTK7,Thr675Met,Likely benign,0
+DZIP1L,Gln360Arg,Likely benign,0
+NBN,Lys404Ter,Likely pathogenic,0
+MAPT,Ser522Pro,Benign,0
+LDLR,Gly565Cys,Likely pathogenic,0
+HAP1,Cys9Gly,Likely benign,0
+SPRED1,Lys322Ter,Likely pathogenic,0
+CFAP184,Gln303Glu,Likely benign,0
+CDKL5,Ile41Phe,Likely pathogenic,0
+OR11G2,Arg132Gln,Likely benign,0
+FRAS1,Arg3533Gln,Benign,0
+MTM1,Tyr192Cys,Likely pathogenic,0
+ST7L,Gly571Asp,Benign,0
+SKI,Lys162Asn,Likely benign,0
+MYO7A,Arg811Leu,Likely benign,0
+PDE4D,Ser190Phe,Likely pathogenic,0
+SFTPC,Tyr106His,Likely pathogenic,0
+PRSS12,Glu506Lys,Likely benign,0
+GLIS2,Thr492Ala,Benign,0
+APOBR,Gln150Arg,Likely benign,0
+GAA,Ser601Trp,Likely pathogenic,0
+ADAMTS16,Met906Thr,Likely benign,0
+CPS1,Thr924Ser,Likely benign,0
+ZNG1A,Leu359Phe,Likely benign,0
+CRB1,Cys696Ser,Likely pathogenic,0
+RAVER2,Val149Leu,Likely benign,0
+ZNF101,Glu311Lys,Likely benign,0
+PACS2,His328Tyr,Likely benign,0
+STAG1,Lys333Glu,Likely pathogenic,0
+DNAH5,Lys3254Arg,Likely benign,0
+TBR1,Asp541Asn,Likely benign,0
+MS4A12,Ile70Thr,Likely benign,0
+SCN9A,Gly236Trp,Likely pathogenic,0
+TUBA1A,Asn249Ser,Likely pathogenic,0
+TMPRSS2,Thr75Ile,Benign,0
+OPLAH,Pro908Ser,Benign,0
+NUP98,Ala1428Val,Likely benign,0
+SH2D3C,Arg387Gly,Likely benign,0
+SETD2,Pro1226Leu,Likely benign,0
+PLCB1,Gly1180Ser,Likely benign,0
+COL4A5,Gly561Val,Likely pathogenic,0
+ACADVL,Met334Thr,Likely pathogenic,0
+PBOV1,Ile130Thr,Likely benign,0
+DZIP1L,Ser617Phe,Likely benign,0
+GPRASP1,Thr1029Arg,Likely benign,0
+SYNGAP1,Arg1265Thr,Likely pathogenic,0
+COL6A3,Ser1330Thr,Likely benign,0
+ZNF780B,Arg764His,Likely benign,0
+KMT2C,Gly917Glu,Likely benign,0
+MYH3,Thr236Pro,Likely pathogenic,0
+MCTP2,Arg47His,Likely benign,0
+HIVEP2,Lys1697Arg,Likely benign,0
+USP17L27,Arg260Lys,Likely benign,0
+DNAH11,Arg685His,Benign,0
+DOK2,Gly103Ser,Likely benign,0
+FRMD1,Gly150Arg,Benign,0
+AHNAK2,Met2357Val,Likely benign,0
+CHD3,Pro539Arg,Likely benign,0
+SAMD11,Arg220Gln,Benign,0
+CHD2,Val939Gly,Likely pathogenic,0
+FLG,Arg2727Gln,Likely benign,0
+HLA-DRB1,Ser66Phe,Benign,0
+RAG2,Arg300His,Likely benign,0
+NF1,Lys480Asn,Likely benign,0
+CTSZ,Gln234His,Likely benign,0
+APOB,Ile4448Asn,Benign,0
+BRCA2,Gly2596Glu,Likely pathogenic,0
+MYO5C,Ile137Val,Likely benign,0
+VPS13A,Glu2137Gly,Benign,0
+SPG11,Arg2034Gly,Benign,0
+PYROXD2,Arg371Gln,Likely benign,0
+DYRK1A,Thr393Ser,Likely benign,0
+SERPINA1,His286Tyr,Likely benign,0
+SLC20A2,Gly498Arg,Likely pathogenic,0
+HIP1,Arg259Trp,Likely benign,0
+ADAMTSL3,Gly713Arg,Benign,0
+ABCD1,Leu220Arg,Likely pathogenic,0
+ARID2,Gln740Arg,Likely benign,0
+EPHA3,Glu298Gln,Likely benign,0
+COL16A1,Lys398Arg,Likely benign,0
+MOCOS,Pro591Ser,Likely pathogenic,0
+SETX,Thr66Ile,Likely benign,0
+COL4A4,Gly149Arg,Likely pathogenic,0
+CFAP300,Ile30Val,Likely benign,0
+HEPHL1,Arg122Ter,Likely pathogenic,0
+KMT2D,Pro691Ser,Benign,0
+PLXND1,Gln504Arg,Benign,0
+TDP2,Ile307Val,Benign,0
+SCN1A,Asn985Lys,Likely pathogenic,0
+TACC2,Gly1760Asp,Likely benign,0
+TBX15,Thr56Arg,Likely benign,0
+LDLR,Gly20Arg,Benign,0
+KDM6A,Arg611His,Likely benign,0
+ANKRD44,Ala662Val,Likely benign,0
+MMAB,Glu193Ter,Likely pathogenic,0
+TTN,Val3053Ala,Likely benign,0
+TSHZ3,Glu469Gly,Likely benign,0
+DNAH5,Ile1173Leu,Likely benign,0
+PPP2R5D,Phe131Val,Likely pathogenic,0
+SHH,His270Tyr,Likely pathogenic,0
+LRRK1,Ala1350Thr,Likely benign,0
+UBN1,Leu290Val,Benign,0
+DHX58,Gln158Ter,Likely benign,0
+CACNA1E,Glu1001Lys,Benign,0
+FSIP2,Met4968Val,Benign,0
+VPS13C,Glu3161Ter,Likely pathogenic,0
+PCDHA9,Gln612Lys,Likely benign,0
+GLA,Gly35Arg,Likely pathogenic,0
+ST18,Ala945Glu,Benign,0
+DMD,Asp2378Asn,Likely benign,0
+PKD1,Glu3872Val,Likely pathogenic,0
+ATP1A2,Arg202Trp,Likely pathogenic,0
+LRRCC1,Arg179Gln,Benign,0
+NBPF11,Asp625Ala,Likely benign,0
+RAB1A,Asn189Ser,Benign,0
+FAM20C,Arg8Gln,Likely benign,0
+C6,Ile283Ser,Likely benign,0
+FAT2,Val1235Ile,Likely benign,0
+IFT57,Ala3Thr,Benign,0
+SOD1,Cys7Gly,Likely pathogenic,0
+WDR72,Thr747Ser,Likely benign,0
+MOB3A,Lys154Gln,Likely benign,0
+LTF,Ser540Asn,Likely benign,0
+ALG13,Ser996Asn,Benign,0
+MYH3,Lys571Arg,Likely benign,0
+COL9A1,Met767Val,Benign,0
+MYO9B,Gly283Val,Likely pathogenic,0
+ROBO1,Ile1314Phe,Likely benign,0
+ZFPM2,Cys64Tyr,Benign,0
+STAG1,His1148Gln,Likely benign,0
+RAG1,Glu669Gly,Likely pathogenic,0
+MYSM1,Arg766Cys,Likely benign,0
+SUN1,Gly76Cys,Benign,0
+CTU1,Ala341Thr,Likely benign,0
+KRTAP12-4,Tyr101Cys,Likely benign,0
+PPP1R3A,Asn1015Ser,Benign,0
+TASOR2,Ala1687Val,Likely benign,0
+COL3A1,Gly774Asp,Likely pathogenic,0
+GP1BA,Pro315Ser,Likely benign,0
+OTC,Asp196Glu,Likely pathogenic,0
+RYR2,Cys47Arg,Likely pathogenic,0
+COL11A1,Gly1123Ala,Likely benign,0
+GRIN2B,Ala5Val,Benign,0
+PPP1R3F,Arg607His,Likely benign,0
+PLEKHM1,Gln32Ter,Likely pathogenic,0
+OBSCN,Arg8869Leu,Likely benign,0
+SPTBN5,Pro3624Arg,Benign,0
+ASXL3,Met1708Val,Benign,0
+PKHD1L1,Glu1942Asp,Likely benign,0
+KRAS,Gln22Leu,Likely pathogenic,0
+ZSCAN4,Gln193Glu,Likely benign,0
+TK2,Arg134Ser,Likely pathogenic,0
+MLLT1,Asn185Ser,Likely benign,0
+CTNND1,Gln563Ter,Likely pathogenic,0
+WDR87,Thr874Ile,Likely benign,0
+KAT6A,Gly351Cys,Likely benign,0
+CACNA1I,Tyr1235Ser,Likely pathogenic,0
+B4GALNT2,Val24Ala,Likely benign,0
+IQCK,Arg110His,Likely benign,0
+RHO,Ala299Ser,Benign,0
+NACC1,Ala321Thr,Likely benign,0
+MIB2,Val364Ile,Likely benign,0
+QTRT1,Gln190Arg,Likely benign,0
+TTN,Ile32141Val,Likely benign,0
+CTR9,Glu15Gly,Likely pathogenic,0
+FGD3,Pro57Leu,Likely benign,0
+EFNB1,Trp8Ter,Likely pathogenic,0
+NECAP1,Val237Leu,Likely benign,0
+IL22,Ser158Gly,Benign,0
+NFIB,Val257Leu,Likely benign,0
+KDM1A,Asp399Gly,Likely pathogenic,0
+HEATR5B,Asn1566Ser,Likely benign,0
+GALK1,Arg312Cys,Benign,0
+ADAMTS17,Ile752Val,Likely pathogenic,0
+DNHD1,His2861Tyr,Benign,0
+COMP,Cys410Gly,Likely pathogenic,0
+PIM3,Pro313Ser,Benign,0
+ALG13,Pro1127Ser,Likely benign,0
+GTF3C1,Ala1825Thr,Likely benign,0
+SV2B,Val184Ile,Likely benign,0
+DCST2,Arg157Gln,Likely benign,0
+PCLO,Pro511Ser,Likely benign,0
+RPGRIP1,Ala101Thr,Likely benign,0
+HIVEP2,Pro2172Ser,Likely benign,0
+TGM7,Gly484Asp,Likely benign,0
+GAA,Ser654Ter,Likely pathogenic,0
+DDX54,Arg659Gln,Likely benign,0
+COL11A2,Pro488Ser,Likely benign,0
+SLC1A2,Arg31Trp,Likely benign,0
+SH3PXD2B,Ile569Phe,Benign,0
+CREBBP,Pro686Thr,Likely benign,0
+TMF1,Ile966Val,Likely benign,0
+SLC35A2,Met1Lys,Likely pathogenic,0
+RNF135,His71Gln,Benign,0
+FARP2,Pro453Thr,Likely benign,0
+ERF,Tyr313Ter,Likely pathogenic,0
+ADGRV1,Glu4397Lys,Likely benign,0
+GABRG2,Asp48Gly,Likely benign,0
+IMPG2,Trp809Ter,Likely pathogenic,0
+FYB1,Gln328Lys,Benign,0
+PDSS1,Gly30Val,Benign,0
+KITLG,Thr34Asn,Likely pathogenic,0
+IDS,Asn350Lys,Likely pathogenic,0
+NAA10,Val171Met,Likely benign,0
+MSH2,Met67Leu,Benign,0
+IFNGR2,Ile232Thr,Likely benign,0
+MESP2,Ser319Leu,Likely benign,0
+ALPK2,Asn916Lys,Benign,0
+FLG,Gly3557Ala,Likely benign,0
+ALMS1,Lys1977Ter,Likely pathogenic,0
+ECHS1,Ala226Thr,Likely pathogenic,0
+SRMS,Ala99Thr,Likely benign,0
+TET3,Gln3Ter,Likely pathogenic,0
+CDHR5,Gly757Ser,Likely benign,0
+NCAPD2,Arg1241His,Likely benign,0
+CFI,His118Arg,Likely pathogenic,0
+TMEM94,Arg92His,Likely benign,0
+CUL7,Ala871Val,Benign,0
+KIF19,Ser762Leu,Likely benign,0
+CBX2,Ala375Thr,Likely benign,0
+CMYA5,Ala1147Thr,Likely benign,0
+TSC2,Ser1130Cys,Benign,0
+PCDHGA11,Ala154Pro,Likely benign,0
+NEB,Trp3603Cys,Benign,0
+MBD6,Arg967Cys,Likely benign,0
+COL2A1,Gly549Asp,Likely pathogenic,0
+WDR45,Thr235Ala,Benign,0
+FLT4,Gly914Glu,Likely pathogenic,0
+PCDHA13,Ser683Leu,Likely benign,0
+TARBP1,Asp513Gly,Benign,0
+ADGRV1,Phe6014Ser,Likely benign,0
+TCF20,Pro1051Ser,Likely benign,0
+ATRX,Val1366Asp,Benign,0
+COL2A1,Gly210Arg,Likely pathogenic,0
+DNMBP,Asn914Lys,Benign,0
+PLS3,Ala206Val,Likely pathogenic,0
+ATAD3C,Ala91Val,Benign,0
+GNB1L,Ala153Thr,Likely benign,0
+RSPH6A,Arg81Gln,Likely benign,0
+TBC1D5,Val564Ile,Likely benign,0
+PCDH12,Ser640Asn,Benign,0
+INKA2,Thr89Ala,Likely benign,0
+DNAH11,Leu3494Pro,Likely benign,0
+NSD2,Arg1359Trp,Likely benign,0
+TXNDC2,Ile60Asn,Likely benign,0
+GRIN1,Arg52Pro,Likely benign,0
+USP49,Gly334Ser,Likely benign,0
+AMER1,Gly48Ser,Likely benign,0
+INF2,Glu851Lys,Likely benign,0
+TRDN,Ser287Asn,Likely benign,0
+ITCH,Met1Ile,Likely pathogenic,0
+ARMC5,Gln86Leu,Likely benign,0
+PTPRO,Met376Ile,Likely benign,0
+SRCAP,Glu530Gly,Likely benign,0
+ULK2,Met286Val,Likely benign,0
+ZSWIM7,Ser59Leu,Likely pathogenic,0
+GEMIN5,Arg66Lys,Likely benign,0
+RYR3,Pro4384Leu,Benign,0
+FOXO1,Thr542Ala,Likely benign,0
+MUTYH,Val458Ile,Benign,0
+NACC1,Ser151Leu,Benign,0
+RP1L1,Ala1319Val,Benign,0
+SERTAD2,Met85Ile,Likely benign,0
+HK1,Phe137Ile,Likely pathogenic,0
+NOTCH3,Cys493Ser,Likely pathogenic,0
+CDK13,His1086Gln,Likely benign,0
+RP1L1,Arg839Trp,Likely benign,0
+INSYN2A,Val340Ala,Likely benign,0
+COQ6,Arg4Trp,Likely pathogenic,0
+ASTN2,Val1149Ile,Benign,0
+ENDOD1,Val405Met,Likely benign,0
+ACE,Gln63Ter,Likely pathogenic,0
+SULF1,Glu563Asp,Likely benign,0
+GRIN2B,Arg540Cys,Likely pathogenic,0
+MAP3K1,Asn538Ser,Likely benign,0
+RPS6KC1,Pro561Arg,Benign,0
+SRRM2,Arg2063Gln,Likely benign,0
+GP2,Val183Ala,Likely benign,0
+PSRC1,Met313Thr,Likely benign,0
+LEMD3,Ala87Val,Likely benign,0
+VPS13D,Lys177Asn,Benign,0
+TET2,His1817Asn,Benign,0
+BEST1,Trp24Arg,Likely pathogenic,0
+TWNK,Met455Val,Likely pathogenic,0
+POLE,Asp1948Tyr,Likely benign,0
+FSHR,Thr228Ile,Likely pathogenic,0
+CLCNKB,Gly246Arg,Likely pathogenic,0
+COL4A5,Gly120Asp,Likely pathogenic,0
+KAT6A,Thr1402Ala,Likely benign,0
+TPM1,Glu138Lys,Likely pathogenic,0
+KMT2D,Ala1145Val,Likely benign,0
+MICAL1,Thr899Ile,Likely benign,0
+MED18,Arg74Cys,Likely benign,0
+MYH9,Asp1424Gly,Likely pathogenic,0
+RAB11FIP5,Glu347Lys,Likely benign,0
+RALGAPA2,Ile198Val,Likely benign,0
+DMD,His524Gln,Likely benign,0
+GLI2,Arg1531Ter,Likely pathogenic,0
+TTN,Gln14545Ter,Likely pathogenic,0
+NLRP12,Arg146Gly,Likely benign,0
+ABCG4,Ala334Thr,Likely benign,0
+TTN,Pro866Thr,Likely benign,0
+FOSL2,Gln207Ter,Likely pathogenic,0
+AGER,Arg314His,Benign,0
+SON,Ala1244Gly,Likely benign,0
+SLC6A8,Trp169Ter,Likely pathogenic,0
+ACADM,Tyr397Cys,Likely pathogenic,0
+SOX9,Gln378Ter,Likely pathogenic,0
+DYSF,Glu1005Ter,Likely pathogenic,0
+NEB,Thr7372Pro,Likely benign,0
+TUBB8,Glu198Asp,Likely pathogenic,0
+KMT2C,Pro3555Thr,Likely benign,0
+GRM6,Ala807Val,Benign,0
+SATB2,Ala50Ser,Benign,0
+SMC3,Val1100Leu,Likely pathogenic,0
+LARP7,Arg58Ter,Likely pathogenic,0
+PALB2,Ile676Thr,Benign,0
+TEDC1,Pro491Leu,Likely benign,0
+ANK3,His3776Gln,Likely benign,0
+SEC63,Pro637Ser,Likely benign,0
+PTGR1,Gly228Ser,Likely benign,0
+DVL1,Arg619His,Likely benign,0
+TYW3,Val104Ile,Likely benign,0
+ABCA12,Arg1546Cys,Likely benign,0
+ITIH6,Arg1264Lys,Benign,0
+MACF1,Gln5329Arg,Likely benign,0
+OCRL,His375Arg,Likely pathogenic,0
+CXCL16,Ala221Val,Likely benign,0
+ANK1,Cys1260Ter,Likely pathogenic,0
+LXN,Val136Ile,Benign,0
+PLCE1,Met599Val,Likely benign,0
+CWC25,Val231Ile,Likely benign,0
+SMPD1,Pro430Ser,Likely pathogenic,0
+TECPR2,Gln177Ter,Likely pathogenic,0
+ARSL,Val398Met,Likely benign,0
+CLK2,Ala480Thr,Likely benign,0
+IQSEC3,Gly216Ser,Likely benign,0
+CAPN3,Glu672Ter,Likely pathogenic,0
+ANKLE2,Glu680Lys,Benign,0
+MSR1,Phe23Cys,Likely pathogenic,0
+DRC1,Glu611Lys,Likely benign,0
+TNR,Arg1243Lys,Likely benign,0
+IVD,His30Tyr,Benign,0
+OBSL1,Asp1734Glu,Benign,0
+RIF1,His483Arg,Likely benign,0
+AKAP12,Pro254Leu,Benign,0
+LILRB1,Arg325Thr,Likely benign,0
+CCDC141,Pro1128Leu,Likely benign,0
+DNAH5,Pro787Leu,Likely benign,0
+SACS,Ser457Gly,Likely benign,0
+ZFYVE19,Gln254Lys,Likely benign,0
+CHD2,Gln531Ter,Likely pathogenic,0
+MPL,Trp253Ter,Likely pathogenic,0
+SOS2,Ser669Gly,Likely benign,0
+AHSA1,Val133Ala,Likely benign,0
+CDH15,Pro684Leu,Likely benign,0
+MOCOS,His225Arg,Benign,0
+ENDOU,Arg175Gly,Likely benign,0
+FOXP1,Ala601Thr,Likely benign,0
+ADAMTS10,Arg62Gln,Benign,0
+IFT43,Arg57Cys,Benign,0
+SON,Thr666Ala,Likely benign,0
+KANK4,Val840Ala,Benign,0
+CENPF,Arg2729Gln,Benign,0
+RP1L1,Arg1467Ser,Benign,0
+SCN3A,Pro672Thr,Likely benign,0
+COL5A1,Ala1262Thr,Benign,0
+ZNF839,Arg631Gln,Likely benign,0
+SPAST,Glu442Val,Likely pathogenic,0
+OBSCN,Cys5285Tyr,Likely benign,0
+NEU3,Val151Met,Likely benign,0
+MEGF8,Arg315Gly,Likely benign,0
+CARS1,Val618Met,Likely benign,0
+ZNF292,Ile2368Val,Likely benign,0
+MFHAS1,Thr774Ala,Likely benign,0
+SLCO2B1,Ser420Leu,Likely benign,0
+DNAAF5,His509Arg,Likely benign,0
+NEB,Tyr8010Cys,Likely benign,0
+GOLGB1,Ile497Val,Likely benign,0
+NSD1,Tyr1870Cys,Likely pathogenic,0
+TSPEAR,His18Arg,Likely benign,0
+ABCA4,Glu2233Val,Likely pathogenic,0
+DBR1,Arg25Trp,Likely benign,0
+WDR12,Val17Ile,Likely benign,0
+COLEC10,Gly104Val,Likely pathogenic,0
+KIT,Leu667Arg,Likely pathogenic,0
+NCAPD2,Cys767Ser,Likely benign,0
+NUP214,Thr1384Ala,Likely benign,0
+KRT5,Ser232Gly,Likely benign,0
+FTL,His174Tyr,Likely benign,0
+CCR5,Ala335Val,Benign,0
+HNF1B,Pro159Leu,Likely pathogenic,0
+SPACA4,Ser101Gly,Likely benign,0
+NPC1,Ser865Thr,Likely pathogenic,0
+CEP78,Ala675Val,Likely benign,0
+SERPINB4,Asn306Asp,Likely benign,0
+PTPN11,Leu585Met,Likely benign,0
+ZNF804A,Phe952Leu,Likely benign,0
+EP300,Thr564Ala,Likely benign,0
+COL4A6,Val904Ile,Likely benign,0
+CDH1,Ala735Val,Likely benign,0
+CDH23,Ser170Cys,Likely benign,0
+TTI1,Asp921Asn,Likely pathogenic,0
+IGSF10,Val1995Ile,Likely benign,0
+KLHL26,Ser8Gly,Likely benign,0
+MPDZ,Cys119Ser,Likely benign,0
+CELSR1,Arg1022His,Likely benign,0
+FSIP2,Thr3740Asn,Benign,0
+GPR151,Ser366Gly,Likely benign,0
+SH3D19,Ile800Val,Likely benign,0
+CPAMD8,Gly1003Val,Likely pathogenic,0
+SSH3,Gly218Ser,Likely benign,0
+XAGE3,Gly30Ser,Likely benign,0
+KCNT1,Asp1055Asn,Likely benign,0
+KMT2D,Ser2281Thr,Likely benign,0
+NRG2,Arg568Gln,Likely benign,0
+LMNA,Lys378Gln,Likely pathogenic,0
+PRRG1,Ile14Val,Likely benign,0
+CST2,Arg69Trp,Benign,0
+SACS,Ser832Pro,Likely benign,0
+ICE1,Arg1349Cys,Benign,0
+ERAP1,Pro184Arg,Benign,0
+CLN8,Arg204Gly,Likely pathogenic,0
+PLET1,Met170Val,Likely benign,0
+CACNA1S,Leu458His,Benign,0
+ABCA2,Arg1298His,Likely benign,0
+PCCA,Gln713Ter,Likely pathogenic,0
+LRP5,Arg450Cys,Likely pathogenic,0
+GALNS,Glu298Lys,Likely benign,0
+HELZ2,Ala1975Val,Likely benign,0
+IARS1,Lys1182Glu,Benign,0
+ALOX12B,Gln56Ter,Likely pathogenic,0
+XIRP2,Gly154Glu,Likely benign,0
+ICE1,Thr1839Ala,Likely benign,0
+POLR3A,Arg561Gly,Likely pathogenic,0
+WDR6,Glu842Asp,Likely benign,0
+SHOC2,Thr205Ala,Likely benign,0
+TACC2,Met1187Thr,Likely benign,0
+OR5M1,Val77Ile,Likely benign,0
+COL12A1,Asp1951Asn,Likely benign,0
+NOC2L,Ala203Val,Likely benign,0
+USH2A,Asn4913Lys,Likely pathogenic,0
+APOB,Glu3553Lys,Benign,0
+IL5RA,Arg145His,Likely benign,0
+LOXL4,Arg365Gln,Likely benign,0
+MCM3AP,Arg906His,Benign,0
+LARS2,Glu730Ala,Likely benign,0
+WDR62,Leu1390Phe,Benign,0
+ZNF805,Gly110Glu,Likely benign,0
+SOS2,Pro1288Gln,Likely benign,0
+HMCN1,Thr4857Ala,Likely benign,0
+AMHR2,Arg548Gln,Likely benign,0
+ITIH5,Val798Ile,Likely benign,0
+KIZ,Arg659Cys,Likely benign,0
+CXCL2,Ser29Gly,Likely benign,0
+GLI3,Gly829Val,Likely benign,0
+RFTN1,Pro261Leu,Likely benign,0
+ZNF638,Arg1590His,Likely benign,0
+SLX9,Arg133Gln,Likely benign,0
+GBP6,Gly618Val,Likely benign,0
+CCL25,Arg44Trp,Benign,0
+TG,Phe2526Leu,Benign,0
+FABP9,Val2Ala,Benign,0
+SBNO2,Lys1123Arg,Likely benign,0
+CHAF1B,Lys506Gln,Benign,0
+PLEKHG4B,Arg1015Gln,Likely benign,0
+GRHPR,Tyr102Ter,Likely pathogenic,0
+DLG4,Thr57Ile,Likely benign,0
+SHMT2,Arg121Cys,Likely benign,0
+SIRT5,Thr295Met,Likely benign,0
+H3-3A,Arg9Gly,Likely pathogenic,0
+CHSY3,Pro66Leu,Likely benign,0
+ZBTB20,Asp210Ala,Benign,0
+ALMS1,Glu3920Gly,Likely benign,0
+SATB1,Glu713Ter,Likely pathogenic,0
+SGCE,Phe164Ser,Likely pathogenic,0
+KMT2A,Val484Ala,Likely benign,0
+IDS,Ser117Tyr,Likely pathogenic,0
+TBL1XR1,Gly243Asp,Likely pathogenic,0
+MAMDC4,Gly910Ser,Likely benign,0
+ZNF133,Ala571Val,Likely benign,0
+PRMT7,Ala655Val,Likely benign,0
+NAPB,Lys22Arg,Benign,0
+H1-1,Ile87Leu,Likely benign,0
+PYROXD1,Gln28Lys,Likely benign,0
+FUT8,Arg318Ter,Likely pathogenic,0
+PFKP,Val198Ile,Likely benign,0
+EZR,Pro471Leu,Likely benign,0
+MAGEL2,Val1047Ala,Likely benign,0
+RERE,Arg1315Ter,Likely pathogenic,0
+CSMD2,Val1867Met,Likely benign,0
+KCNQ2,Phe304Cys,Likely pathogenic,0
+DNAJC6,Ala700Thr,Likely benign,0
+COL11A2,Lys1263Arg,Likely benign,0
+SERPINA1,Lys355Arg,Likely benign,0
+TRPS1,Ser514Ile,Likely benign,0
+PTCH1,Phe376Leu,Benign,0
+TBX2,His76Gln,Likely benign,0
+MRAP,Ser109Arg,Likely benign,0
+CEP68,His318Gln,Likely benign,0
+CEP162,Met1201Val,Likely benign,0
+BCOR,Lys1087Asn,Likely benign,0
+HNF1B,Trp299Arg,Likely pathogenic,0
+TLR2,Leu81Pro,Likely benign,0
+FBN1,Gly1838Cys,Likely pathogenic,0
+PDHA1,Arg226His,Likely pathogenic,0
+MFSD12,Gly395Ser,Likely benign,0
+GRIN2B,Pro553Leu,Likely pathogenic,0
+TBC1D3F;TBC1D3G,Ser484Tyr,Likely benign,0
+WDR49,Arg999His,Likely benign,0
+AR,Gln825Lys,Likely pathogenic,0
+TPBGL,Ser288Gly,Likely benign,0
+FYCO1,Gln1071Arg,Benign,0
+LAMA2,Cys937Ter,Likely pathogenic,0
+PKLR,Gly358Glu,Likely pathogenic,0
+RFX7,Met900Ile,Likely benign,0
+TANC2,Ala62Thr,Likely benign,0
+IGHMBP2,Leu201Ser,Benign,0
+SLC6A1,Asn310Thr,Likely pathogenic,0
+LCAT,Arg423Cys,Likely pathogenic,0
+TYRP1,His224Tyr,Likely pathogenic,0
+CTU2,Val397Ile,Likely benign,0
+EDEM3,Asp133Asn,Likely benign,0
+EHMT1,Tyr461Cys,Likely benign,0
+ABCD1,Arg401Leu,Likely pathogenic,0
+IFNL2,Thr10Met,Benign,0
+ATN1,Ala292Gly,Likely benign,0
+CREBBP,Asn984Ser,Benign,0
+ZMYM2,Arg208Ter,Likely pathogenic,0
+CACNA1H,Pro640Leu,Benign,0
+LSS,Ala354Thr,Likely benign,0
+TYR,Met332Val,Likely pathogenic,0
+TRAPPC6B,Glu13Ter,Likely pathogenic,0
+ARSB,Asp486Glu,Likely pathogenic,0
+TTN,Tyr29769Ter,Likely pathogenic,0
+MTOR,Glu59Lys,Benign,0
+PLIN4,Ile748Val,Benign,0
+GLMP,Gly292Arg,Likely benign,0
+SETBP1,Ser148Gly,Likely benign,0
+FBN1,Gln2830Ter,Likely pathogenic,0
+GRAMD1C,Arg410Gln,Likely benign,0
+ANKRD26,Ile425Val,Benign,0
+MYH1,Leu1659Ile,Likely benign,0
+MYF6,Ala98Ser,Benign,0
+HIRA,Arg196His,Likely benign,0
+ADAM20,Arg427Gln,Likely benign,0
+DNAH11,Gln3395Lys,Likely benign,0
+ZFYVE16,Ser951Pro,Likely benign,0
+TCEANC,Ala141Thr,Likely benign,0
+SMARCAL1,Ala468Pro,Likely pathogenic,0
+GARIN4,Ser489Pro,Likely benign,0
+IPO8,Cys749Arg,Likely pathogenic,0
+CHD7,Thr1416Arg,Likely pathogenic,0
+PANK2,Asp342Val,Likely pathogenic,0
+SPATA13,Val1247Ile,Likely benign,0
+TTN,Glu24476Ter,Likely pathogenic,0
+COL2A1,Gly684Ser,Likely pathogenic,0
+PHIP,Phe17Ser,Likely pathogenic,0
+THEMIS2,Arg176Gln,Likely benign,0
+SGSM3,Trp20Arg,Benign,0
+SCN1A,Ile538Thr,Likely benign,0
+FOS,Pro233Ala,Likely benign,0
+TP73,Met452Ile,Likely benign,0
+PPP2CA,Arg254Gln,Benign,0
+ZFHX4,Ala1639Val,Benign,0
+STAT1,Pro329Arg,Likely pathogenic,0
+COL1A1,Gly449Glu,Likely pathogenic,0
+QRSL1,Asn263Ser,Benign,0
+FBXO11,Ala526Thr,Likely pathogenic,0
+OR4S1,Leu249Phe,Likely benign,0
+CUL2,Met335Ile,Likely benign,0
+CELSR2,Thr2387Ala,Benign,0
+CCDC57,Ala584Gly,Likely benign,0
+DDX3X,Arg351Gln,Likely pathogenic,0
+HDHD5,Arg416His,Likely benign,0
+MUC5B,Trp2076Arg,Likely benign,0
+MSH2,Ile857Leu,Likely benign,0
+TMTC3,Leu113Val,Likely benign,0
+LRRC4B,Ser640Gly,Likely benign,0
+MAP1S,Ser7Pro,Likely benign,0
+ENPP1,Trp356Arg,Likely pathogenic,0
+PUM1,Arg1139Trp,Likely pathogenic,0
+TIMMDC1,Val217Ile,Benign,0
+TCOF1,Thr750Ala,Likely benign,0
+SPTA1,Arg701His,Benign,0
+RPGRIP1L,Asp16Asn,Likely pathogenic,0
+HOGA1,Pro45Ala,Likely pathogenic,0
+DNMT3A,Thr44Met,Likely benign,0
+CD151,Arg87Leu,Likely benign,0
+MAP3K10,Arg906Gln,Likely benign,0
+LDLR,Gln660Pro,Likely pathogenic,0
+COL5A1,Asp1458Asn,Likely benign,0
+SEMA7A,Val306Ile,Likely benign,0
+CIC,Glu1223Ter,Likely pathogenic,0
+OCA2,Pro15Leu,Likely benign,0
+ITPR1,Asp34Asn,Likely pathogenic,0
+LVRN,Val936Ile,Benign,0
+TRMT1,Arg323Cys,Likely pathogenic,0
+CLCN2,Cys69Ter,Likely pathogenic,0
+PEX12,Met1Val,Likely pathogenic,0
+SOX11,Arg121Trp,Likely pathogenic,0
+SLC7A8,Asn284Ser,Likely pathogenic,0
+SHROOM3,Arg305His,Likely benign,0
+ALPL,Asp239Gly,Likely pathogenic,0
+FLRT2,Ser392Gly,Likely benign,0
+TRIO,Lys2481Met,Likely benign,0
+KRT74,Ser381Gly,Benign,0
+DNHD1,Val2756Ala,Benign,0
+F11,Asp526Gly,Likely benign,0
+CABIN1,Thr317Ala,Likely benign,0
+MSLN,Pro608Leu,Likely benign,0
+DNAH5,Met1912Thr,Likely benign,0
+UBAP1L,Thr93Ala,Likely benign,0
+DNAH1,Arg3651His,Likely benign,0
+PARS2,Gln296Ter,Likely pathogenic,0
+AMMECR1,Gln74Glu,Likely benign,0
+KAT6A,Thr332Ser,Benign,0
+OXCT2,Thr446Ile,Likely benign,0
+LRMDA,Gly204Glu,Benign,0
+AATK,Pro776Leu,Likely benign,0
+NSD1,Gln2030Pro,Likely pathogenic,0
+CHD2,Glu345Asp,Likely benign,0
+CKAP2,Pro127Leu,Likely benign,0
+RTKN2,Ser70Leu,Likely benign,0
+HUWE1,Ser661Cys,Likely pathogenic,0
+RAD21,Pro278Leu,Likely benign,0
+RPE65,Pro308Leu,Likely pathogenic,0
+RYR1,Leu4556Pro,Likely pathogenic,0
+AMH,Val477Ala,Likely pathogenic,0
+IDS,Trp12Arg,Likely benign,0
+EXPH5,Met1147Thr,Benign,0
+C7,Thr833Ala,Likely benign,0
+CHD7,Arg1632His,Benign,0
+MPPE1,Ala45Val,Likely benign,0
+ETV3,Ala235Thr,Likely benign,0
+FLG,Arg3009Gln,Likely benign,0
+CIC,Asp2255Gly,Likely pathogenic,0
+FLNA,Cys1645Ter,Likely pathogenic,0
+TRABD,His10Gln,Likely benign,0
+SPTAN1,Gly106Arg,Likely pathogenic,0
+SCN1A,Ile99Val,Likely pathogenic,0
+PEX6,Leu112Pro,Likely benign,0
+C2CD3,Phe781Val,Likely benign,0
+HPGD,Ile219Phe,Likely benign,0
+KRT74,Arg48Gln,Likely benign,0
+MED16,Arg833His,Likely benign,0
+GCK,Asp363Asn,Likely pathogenic,0
+TTN,Tyr34510Ter,Likely pathogenic,0
+ATF6,Lys87Met,Likely benign,0
+PACS1,Val900Met,Benign,0
+ASPSCR1,Gly132Ser,Likely benign,0
+CDIN1,Ser62Leu,Likely benign,0
+MCCC2,Val481Leu,Likely pathogenic,0
+BCKDK,Tyr151Ter,Likely pathogenic,0
+NEB,Asp2485Asn,Likely benign,0
+CYP2B6,Gln21Leu,Likely benign,0
+NUS1,Arg147Ter,Likely pathogenic,0
+FRMD7,Arg678His,Likely benign,0
+ADAMTS18,Tyr191His,Benign,0
+SETD5,Thr579Asn,Likely benign,0
+CSGALNACT1,Leu106Pro,Benign,0
+CCDC88C,Arg1541Cys,Benign,0
+TULP1,Pro521Ser,Likely pathogenic,0
+PPRC1,Lys538Glu,Likely benign,0
+PKD1,Ala747Thr,Likely benign,0
+UNC5B,Val939Met,Likely benign,0
+UMOD,Asp25Gly,Likely benign,0
+NFKBIZ,Pro314Ser,Likely benign,0
+ABCA4,His1118Gln,Likely pathogenic,0
+PLXNB1,Arg285Gly,Benign,0
+PPRC1,Arg1150His,Likely benign,0
+KCNT2,Cys305Ser,Likely pathogenic,0
+CLCN1,Gly495Glu,Likely pathogenic,0
+TBCD,Glu1097Gly,Benign,0
+NBEA,Val1666Ile,Likely benign,0
+LDLR,Ile585Asn,Likely pathogenic,0
+MMP14,Gly100Ala,Likely benign,0
+SGSH,Gln83Ter,Likely pathogenic,0
+DEFA4,Arg18Gln,Likely benign,0
+KCNH5,Thr748Ser,Benign,0
+CEP89,Arg691Trp,Benign,0
+MORC2,Cys270Trp,Likely pathogenic,0
+MAST1,Pro1526Leu,Likely benign,0
+MLH1,Thr347Asn,Benign,0
+GLDC,His760Leu,Likely pathogenic,0
+DNAH5,Asp3239Asn,Benign,0
+F11,Asp526Gly,Likely benign,0
+GZF1,Thr75Ser,Likely benign,0
+DOK1,Thr435Ala,Likely benign,0
+SOX2,Gln182Ter,Likely pathogenic,0
+FOXC2,Tyr329Ter,Likely pathogenic,0
+BRCA2,Pro1819Ser,Benign,0
+SCN1A,Leu93Ser,Likely pathogenic,0
+KCNA1,Ser322Arg,Likely pathogenic,0
+UBA5,Arg94Gly,Likely pathogenic,0
+FLG,Arg2086His,Likely benign,0
+LCN15,Gly79Arg,Likely benign,0
+ATP6V1G2,Glu45Asp,Likely benign,0
+NIPBL,Arg1120His,Likely benign,0
+NKX1-2,Ala241Pro,Likely benign,0
+FCRL5,Ser892Leu,Likely benign,0
+HNF4A,Gly60Asp,Likely pathogenic,0
+MBD5,Cys1236Phe,Likely benign,0
+COL7A1,Val285Ala,Likely benign,0
+BCL2L13,Thr407Met,Likely benign,0
+AHNAK,Ala3588Val,Likely benign,0
+GARIN5B,Arg741His,Likely benign,0
+SOX11,Glu6Lys,Likely benign,0
+RNF213,Arg707Trp,Benign,0
+LGALS12,His216Asp,Likely benign,0
+CACNA1H,Arg212Ser,Likely benign,0
+MUTYH,Asp208Asn,Likely pathogenic,0
+CTC1,Cys1198Ter,Likely pathogenic,0
+ACSL5,Thr486Ala,Benign,0
+PAFAH1B1,Arg113Gln,Benign,0
+LDLR,Asp168Gly,Likely pathogenic,0
+ATM,Tyr1203Ter,Likely pathogenic,0
+EBF3,Val234Ala,Likely pathogenic,0
+SACS,Ile3498Met,Likely benign,0
+KITLG,Thr54Ala,Benign,0
+TUBA1A,Arg402Ser,Likely pathogenic,0
+NPTX2,Ala10Val,Likely benign,0
+MID1,Thr44Ala,Likely benign,0
+RARRES1,Ile93Val,Likely benign,0
+KMT2B,His722Gln,Benign,0
+PODXL,Ser286Gly,Benign,0
+COL1A1,Gly683Ser,Likely pathogenic,0
+L1CAM,Arg617Trp,Benign,0
+SERPING1,Cys205Trp,Likely pathogenic,0
+CLCN2,Arg652His,Likely benign,0
+PTPRQ,Ala1078Pro,Benign,0
+CD79B,Gly72Ser,Likely benign,0
+VCX3A,Met180Val,Likely benign,0
+PTPRZ1,Ala557Val,Likely benign,0
+COL4A3,Pro454Gln,Likely benign,0
+KMT2C,Ser1947Phe,Likely benign,0
+GFY,Ala511Thr,Likely benign,0
+IDS,Asp334Tyr,Likely pathogenic,0
+PPP1R13B,Gly844Glu,Benign,0
+SETX,Thr2511Ile,Benign,0
+FBN1,Cys2085Ser,Likely pathogenic,0
+CACNA1G,Pro2029Leu,Likely benign,0
+KCNQ3,Ile317Met,Likely pathogenic,0
+RGPD4,Ala1517Thr,Likely benign,0
+OR4F6,Val107Ala,Likely benign,0
+ZSCAN5B,Trp165Arg,Likely benign,0
+DYSF,Gly910Glu,Likely benign,0
+ANKRD17,Ser42Gly,Likely benign,0
+ATRX,Asn424Lys,Likely benign,0
+NEB,Tyr6838Ter,Likely pathogenic,0
+CPT2,Tyr290Ter,Likely pathogenic,0
+PKD1,Trp4140Ter,Likely pathogenic,0
+SCN1A,Trp1812Leu,Likely pathogenic,0
+CES3,Arg430Gln,Likely benign,0
+MROH9,Ser132Asn,Likely benign,0
+AATK,Gly846Ser,Likely benign,0
+XRCC1,Arg7Leu,Likely benign,0
+MSL3,Met240Thr,Likely benign,0
+DENND2A,Gly102Glu,Likely benign,0
+USP53,Met977Val,Likely benign,0
+SHANK1,Gly1897Val,Likely benign,0
+OBSCN,Glu8461Gln,Likely benign,0
+RNF213,Thr808Met,Benign,0
+CACNA1H,Pro2173Ser,Benign,0
+KLF13,Val151Gly,Likely benign,0
+HJURP,Arg423Gln,Likely benign,0
+CHRM5,Ala292Thr,Likely benign,0
+WBP2,Asn33Ser,Likely benign,0
+PCK1,Val15Phe,Benign,0
+AARS1,Gln398Glu,Likely benign,0
+KIF1A,Ala1651Val,Benign,0
+CCNO,Ser328Gly,Likely benign,0
+CHD3,Glu1376Gly,Likely pathogenic,0
+LRRC19,Lys46Asn,Likely benign,0
+KIF5C,Ala910Ser,Likely benign,0
+SCN10A,Ile136Val,Likely benign,0
+ABCB4,Thr593Met,Likely pathogenic,0
+CDK13,Pro386Leu,Likely benign,0
+MEP1A,Ala537Val,Likely benign,0
+KCNQ1,Ser253Phe,Likely pathogenic,0
+FBXO11,His508Arg,Likely pathogenic,0
+SSMEM1,Val49Ile,Likely benign,0
+KAT6A,Met1976Val,Benign,0
+KRT74,Thr513Ser,Likely benign,0
+SLC44A2,Glu552Gln,Likely benign,0
+SPTBN5,Arg2229Trp,Benign,0
+CASP1,Lys37Gln,Benign,0
+AMT,Arg331Trp,Likely pathogenic,0
+TTN,Cys1139Ter,Likely pathogenic,0
+MYO7B,Lys1385Arg,Likely benign,0
+ZNF414,Val123Ile,Likely benign,0
+ABCD1,Gly277Ala,Likely pathogenic,0
+ARID2,Gln725His,Likely benign,0
+POT1,Asp42Glu,Likely pathogenic,0
+SH2B3,Pro363Ser,Likely pathogenic,0
+SCN1A,Thr793Met,Likely benign,0
+SETD1A,Gln16Ter,Likely pathogenic,0
+PRKCH,Val374Ile,Benign,0
+MBD5,Val769Phe,Likely benign,0
+GFI1B,Leu60Ile,Benign,0
+MUC16,Ser3230Thr,Benign,0
+MECP2,Val497Leu,Likely benign,0
+OR11H6,Ile292Val,Likely benign,0
+INTS9,Asn51Ser,Likely benign,0
+KMT2D,Phe165Val,Likely benign,0
+CELSR2,Thr2387Ala,Benign,0
+IDUA,Trp152Arg,Likely pathogenic,0
+CCDC13,Ile666Val,Likely benign,0
+CTR9,Cys85Tyr,Likely pathogenic,0
+ATP7A,His287Arg,Likely benign,0
+NKX6-2,Gln197Ter,Likely pathogenic,0
+GABRD,Val193Ile,Likely benign,0
+ARID1B,Met601Val,Likely benign,0
+SETX,Ile270Val,Benign,0
+FADS3,Val248Ile,Likely benign,0
+LOXL3,Arg306His,Benign,0
+ZNF418,Gln68Ter,Likely benign,0
+ZMYM3,Pro816Ser,Likely benign,0
+TBCD,Pro1016Leu,Likely benign,0
+COL4A5,Gly1385Val,Likely pathogenic,0
+OR1D2,Gly9Val,Likely benign,0
+TCF4,Thr606Pro,Likely pathogenic,0
+IGHMBP2,Gln845Ter,Likely pathogenic,0
+ABCA1,Ser1255Arg,Likely benign,0
+CKAP2L,Ile74Thr,Likely benign,0
+LDLRAP1,Ser202Pro,Benign,0
+PRKDC,Gly1314Val,Benign,0
+ZNF780A,Tyr145Cys,Likely benign,0
+MECP2,Leu348Val,Benign,0
+TTN,Glu16096Ter,Likely pathogenic,0
+CELF4,Leu73Ile,Likely benign,0
+NUTM2G,Ser535Cys,Likely benign,0
+MDM1,Tyr183Cys,Likely benign,0
+POLRMT,Glu1023Asp,Likely benign,0
+TTN,Tyr19613Asp,Likely benign,0
+PREX1,Arg902Gly,Likely benign,0
+CACNA1A,Gly2236Ser,Likely benign,0
+FDFT1,Thr87Ser,Likely benign,0
+MCM8,Arg47His,Likely benign,0
+DEAF1,Ala29Val,Likely benign,0
+EPB41,Glu177Lys,Likely benign,0
+COL4A3,Gly421Ser,Likely pathogenic,0
+GP1BA,Leu145Pro,Likely pathogenic,0
+COL6A1,Asp615Asn,Likely benign,0
+PLVAP,Met397Ile,Likely benign,0
+DYNC1H1,Thr2428Met,Likely benign,0
+PKP4,Pro502Ser,Likely benign,0
+CYP26C1,His415Asp,Likely benign,0
+CATSPER3,Thr21Ala,Likely benign,0
+PTPN23,Pro784Ser,Benign,0
+KIF1A,Val988Ile,Likely benign,0
+TWIST1,Leu149Phe,Likely pathogenic,0
+SATB2,Thr390Ile,Likely pathogenic,0
+SCN5A,Gln1474Leu,Likely pathogenic,0
+TFG,Arg113Ter,Likely pathogenic,0
+NCOA4,Gly513Ser,Likely benign,0
+TOPAZ1,Arg1042His,Likely benign,0
+EDA2R,Gly275Arg,Likely benign,0
+OBSCN,Asp63Asn,Benign,0
+INPP5E,Tyr588His,Likely pathogenic,0
+ZMYND11,Glu254Ter,Likely pathogenic,0
+ATAD5,Gly910Val,Likely benign,0
+TGFBR2,Gly130Asp,Likely benign,0
+TOP3B,Arg369Gln,Likely benign,0
+CBLC,Ile208Val,Likely benign,0
+ASH1L,Arg2306Gln,Likely benign,0
+SMARCA1,Lys55Asn,Likely benign,0
+HBA1,Met33Ile,Likely pathogenic,0
+SMARCA2,Pro254Leu,Likely benign,0
+ZNF544,Glu323Gly,Likely benign,0
+AHNAK2,Asp1196Glu,Likely benign,0
+SUN1,Gln93Pro,Benign,0
+VHL,Gly30Glu,Likely benign,0
+DDIAS,Asp208Glu,Likely benign,0
+PPP1R15B,Glu144Lys,Benign,0
+SERPINF2,Val191Met,Likely benign,0
+MYH7,Trp816Cys,Likely pathogenic,0
+EGFLAM,Trp229Arg,Benign,0
+POTEM,Val352Ile,Likely benign,0
+SPZ1,Ala2Thr,Likely benign,0
+USP7,Tyr331Cys,Likely pathogenic,0
+HTR1A,Asp285Glu,Likely benign,0
+SH3TC2,Arg529Cys,Likely pathogenic,0
+RIN2,His92Gln,Likely benign,0
+POLA1,Met274Val,Benign,0
+NDUFV2,Val29Ala,Benign,0
+BRCA2,Asp559Asn,Likely benign,0
+PRF1,Trp428Ter,Likely pathogenic,0
+SKIC2,Arg1063Pro,Likely pathogenic,0
+ICE1,Thr375Ala,Likely benign,0
+TTN,Tyr15591Ter,Likely pathogenic,0
+SBF2,Gln1216Glu,Benign,0
+MBD5,Glu13Val,Likely benign,0
+AARS1,Lys81Thr,Likely pathogenic,0
+ZNF311,His234Tyr,Likely benign,0
+COL4A6,Gly1090Ala,Likely benign,0
+PCDH19,Tyr204Ter,Likely pathogenic,0
+ABCC11,Ala924Ser,Likely benign,0
+CACNG7,Ile262Val,Likely pathogenic,0
+GRXCR1,Gly64Ser,Benign,0
+ZNF233,Gly373Asp,Likely benign,0
+APAF1,Glu625Ala,Benign,0
+TBX18,Asn368His,Likely benign,0
+FGD1,Glu345Lys,Likely benign,0
+SPTBN5,Arg1809His,Likely benign,0
+DEAF1,Val294Leu,Likely pathogenic,0
+NOS3,Arg128Gln,Benign,0
+RANBP17,Pro169Arg,Likely benign,0
+VNN2,Gly259Arg,Likely benign,0
+CEACAM3,Ser77Arg,Benign,0
+SAMD9L,Asp143Asn,Likely benign,0
+CT47B1,Ala144Glu,Likely benign,0
+NDUFS8,Met147Ile,Likely pathogenic,0
+OR2W3,Cys88Arg,Benign,0
+KIF13B,Tyr1719Cys,Benign,0
+MMP8,Gln450Ter,Likely benign,0
+PABPC4L,His370Tyr,Likely benign,0
+CELSR2,Arg2550Gln,Likely benign,0
+MSTO1,Leu450Phe,Likely pathogenic,0
+TTN,Lys18628Glu,Likely benign,0
+H1-4,Ala178Val,Likely benign,0
+EHHADH,Val90Met,Likely benign,0
+KNDC1,Asn1298Ser,Likely benign,0
+NOTCH1,Cys456Tyr,Likely pathogenic,0
+LMNA,Arg133Gly,Likely pathogenic,0
+EP300,Leu1563Val,Benign,0
+ASXL3,Thr569Asn,Likely benign,0
+COL1A2,Gly853Ala,Likely pathogenic,0
+NEB,Glu7350Ter,Likely pathogenic,0
+ALMS1,Gln896Arg,Likely benign,0
+CD1E,Gln363His,Likely benign,0
+FOXH1,Glu165Gln,Likely pathogenic,0
+KITLG,Ala157Val,Likely benign,0
+HDAC4,Met121Thr,Likely benign,0
+ZFYVE16,Val63Ile,Likely benign,0
+SPG11,Cys79Ter,Likely pathogenic,0
+CCDC144A,Asp1104Asn,Likely benign,0
+DLX5,Glu126Ter,Likely pathogenic,0
+KCNT1,Arg565His,Likely benign,0
+SCAF1,Arg114His,Likely benign,0
+PAH,Gly148Arg,Likely pathogenic,0
+MYO7A,Ser617Pro,Likely pathogenic,0
+TNC,Ala39Thr,Likely benign,0
+SMPD1,Tyr500Ter,Likely pathogenic,0
+ATRX,Lys858Asn,Likely benign,0
+RTN2,Gly27Arg,Likely benign,0
+PLP1,Tyr207Asn,Likely pathogenic,0
+GALC,Met1Ile,Likely pathogenic,0
+ABCA5,Ser118Phe,Likely benign,0
+FLNA,Lys1294Thr,Benign,0
+RP1L1,Asp1873Gly,Benign,0
+SON,Met326Ile,Likely benign,0
+KMT2D,Gln1029Arg,Likely benign,0
+OR1E1,Met2Thr,Likely benign,0
+KIF13A,Val1094Leu,Benign,0
+COL4A1,Gly861Arg,Likely pathogenic,0
+DNAH9,Tyr4298Phe,Likely benign,0
+MED13L,Tyr150Ter,Likely pathogenic,0
+COL6A3,Ile1437Met,Likely benign,0
+KMT2D,Ala1130Val,Likely benign,0
+ZNF417,Gly337Ser,Likely benign,0
+CCDC40,Asp764Asn,Likely benign,0
+ARSL,Leu347Phe,Benign,0
+TRIM45,Arg184Gln,Likely benign,0
+CYP4Z1,Arg281His,Benign,0
+BUB1,Asn354Lys,Likely benign,0
+BRCA2,Leu2999Val,Likely benign,0
+PLCZ1,Arg316His,Likely benign,0
+LRBA,Gln648Lys,Likely benign,0
+CSPP1,Ser113Pro,Likely benign,0
+SPTBN5,Thr3533Ala,Likely benign,0
+SLC39A5,Arg532Gln,Likely benign,0
+AKAP9,Met2271Val,Likely benign,0
+SFI1,Ser649Arg,Likely benign,0
+CPT1C,Ala407Val,Benign,0
+TCF4,Asn49Ser,Likely benign,0
+CAPN15,Thr303Met,Likely benign,0
+USHBP1,Arg270His,Likely benign,0
+POT1,Gly404Val,Benign,0
+LINS1,Ile29Val,Benign,0
+SMAD3,Val331Phe,Likely pathogenic,0
+MAST1,Val108Ile,Likely benign,0
+METTL25,Arg495Gln,Likely benign,0
+BRCA2,Lys2674Met,Likely benign,0
+MYO3A,Arg515Ter,Likely pathogenic,0
+MYO15A,Arg1129Gln,Likely benign,0
+USH2A,Val4523Ala,Likely benign,0
+USP49,Thr308Ala,Likely benign,0
+NOX1,Thr65Met,Likely benign,0
+CCDC73,Ile416Val,Likely benign,0
+RUNX1,Ser424Ter,Likely pathogenic,0
+CHD7,Arg1593Cys,Likely benign,0
+USP39,Gly3Ser,Likely benign,0
+CDH1,Gln677Ter,Likely pathogenic,0
+EEF1AKMT3,Ile176Thr,Likely benign,0
+TTN,Tyr34548Ter,Likely pathogenic,0
+SLC5A2,Cys610Ter,Likely pathogenic,0
+MSH6,Glu181Ala,Likely benign,0
+NEB,Gly1446Val,Likely pathogenic,0
+EHMT1,Asp35Gly,Likely benign,0
+BRCA2,Gln2943Glu,Benign,0
+RNF135,His202Tyr,Likely benign,0
+EPB42,His350Tyr,Likely benign,0
+VWF,Thr2081Met,Likely benign,0
+PER3,Arg743Lys,Likely benign,0
+AMH,Asn104Thr,Likely benign,0
+SLC38A8,Ser248Cys,Benign,0
+DYRK1A,Arg674His,Likely benign,0
+ROR2,Val819Ile,Benign,0
+BBS2,Leu101Ter,Likely pathogenic,0
+ITGA7,Glu155Ter,Likely pathogenic,0
+FLG,Ala2263Thr,Benign,0
+PRUNE2,Asp1113Asn,Likely benign,0
+ZNF462,Glu1377Lys,Likely benign,0
+DNAH11,Ser2058Phe,Benign,0
+PRKCE,Ala654Thr,Benign,0
+DSPP,Glu511Ter,Likely pathogenic,0
+CSF1R,Thr507Met,Likely benign,0
+NOL11,Ser16Gly,Likely benign,0
+KMT2C,Pro2281Arg,Likely benign,0
+RGS12,Arg1399Gln,Likely benign,0
+SLC22A25,Ser404Asn,Likely benign,0
+RAI1,Ile1575Val,Likely benign,0
+GEMIN4,His556Arg,Benign,0
+CELSR3,Ala2792Val,Likely benign,0
+OSCAR,Ala71Thr,Likely benign,0
+COL1A2,Gly727Cys,Likely pathogenic,0
+XIRP1,Arg678Trp,Benign,0
+COL7A1,Gly2701Arg,Likely pathogenic,0
+ALPP,Lys253Arg,Likely benign,0
+TRIOBP,Ser1415Asn,Likely benign,0
+BRCA2,Thr630Ile,Benign,0
+FAM170A,Arg77Gln,Likely benign,0
+MUC4,Ala3321Ser,Likely benign,0
+FARP2,Gln93Glu,Likely benign,0
+ZNF292,Leu1935Val,Likely benign,0
+FLNA,Arg1633Cys,Likely benign,0
+CRB2,Thr1110Met,Benign,0
+CLDN9,Ser53Tyr,Likely benign,0
+LMO7,Ala884Thr,Benign,0
+CHD7,Ile420Met,Likely benign,0
+PRPH2,Gly38Ter,Likely pathogenic,0
+VPS13C,Ser2913Asn,Benign,0
+PRPH2,Gln10Ter,Likely pathogenic,0
+ADAMTSL3,Pro1430Leu,Likely benign,0
+DSTYK,Cys641Arg,Benign,0
+HCFC1,Thr1381Ile,Benign,0
+ALDH3A2,Arg311Cys,Likely benign,0
+DNAH11,Asp1331Asn,Benign,0
+VEGFC,Glu47Val,Benign,0
+EYS,Asn2635Asp,Likely benign,0
+CAMTA1,Gly472Ser,Likely benign,0
+RRAS,Ala205Thr,Likely benign,0
+IKZF1,Cys150Ter,Likely pathogenic,0
+CANX,Arg282Gln,Likely benign,0
+ATP4B,Ala115Thr,Likely benign,0
+FAM136A,Trp119Ser,Benign,0
+C10orf90,Arg687Trp,Benign,0
+IQCE,Ser234Arg,Likely benign,0
+ZBTB18,His493Arg,Likely pathogenic,0
+PTDSS1,Thr141Ala,Likely pathogenic,0
+PRR35,Met178Val,Likely benign,0
+TNRC6B,Gly1002Arg,Likely benign,0
+DHX30,Arg1147Cys,Likely benign,0
+SOS2,Asn589Ser,Likely benign,0
+KIF5A,Ala747Asp,Likely benign,0
+PCDHB5,Arg498Pro,Likely benign,0
+ARID1A,Met651Leu,Benign,0
+RANBP17,Thr764Ile,Benign,0
+FARP2,Arg653His,Likely benign,0
+CKAP2L,Ile74Thr,Likely benign,0
+SLC22A5,Leu263Arg,Likely pathogenic,0
+SPEF2,Gln196Ter,Likely pathogenic,0
+ARG1,Arg308Trp,Likely pathogenic,0
+MAGEC1,Ser840Leu,Likely benign,0
+FLNB,Asp598Asn,Likely benign,0
+FHOD3,Ala1507Thr,Likely benign,0
+CYBB,Arg559Gln,Likely benign,0
+GABRA1,Arg2Lys,Likely pathogenic,0
+COL4A5,Gly1394Arg,Likely pathogenic,0
+NR2F2,Arg246His,Likely pathogenic,0
+KLKB1,Ser269Cys,Likely benign,0
+CPT1A,Pro510Leu,Benign,0
+NCAPH,Ile99Val,Benign,0
+ARHGEF19,Arg204Trp,Likely benign,0
+LIME1,Val170Ile,Likely benign,0
+DBT,Ile413Thr,Likely pathogenic,0
+IMPG1,Glu709Gly,Likely benign,0
+OTOF,Glu766Ter,Likely pathogenic,0
+PLEKHA7,Leu132Val,Likely benign,0
+CX3CR1,Asp25Gly,Likely benign,0
+DNAJC13,Asn1952Thr,Benign,0
+SON,Leu453Phe,Likely benign,0
+NSD1,Ala801Thr,Likely benign,0
+EPHA7,Arg371Gln,Benign,0
+TTC22,Arg244His,Likely benign,0
+LDLR,Val127Asp,Likely pathogenic,0
+EDC4,Arg1366His,Likely benign,0
+ZNF462,Asn1397His,Likely benign,0
+TRIM68,Arg306His,Likely benign,0
+GARS1,Asn262Asp,Likely benign,0
+TTN,Gly32446Ter,Likely pathogenic,0
+DIO1,Met130Leu,Likely benign,0
+CRACD,Gly417Val,Likely benign,0
+LIPK,Gln239Lys,Likely benign,0
+MYO15A,Leu172Phe,Likely benign,0
+REM2,Arg25Gln,Likely benign,0
+SEMA4D,Ala72Thr,Benign,0
+HTRA4,Gly193Ser,Likely benign,0
+RPGR,Gln66Ter,Likely pathogenic,0
+DPYSL5,Ala112Thr,Likely benign,0
+PROC,Gly433Asp,Likely pathogenic,0
+PKHD1L1,Arg1549Gly,Likely benign,0
+PRPF8,Asp1007Asn,Likely pathogenic,0
+LAMA5,Glu1691Ter,Likely pathogenic,0
+TTN,Val13186Ile,Likely benign,0
+KIF20A,Pro839Leu,Benign,0
+ABCA2,Trp568Ter,Likely pathogenic,0
+SOD3,Glu105Gln,Likely benign,0
+HIVEP2,Glu748Lys,Likely benign,0
+ZNF142,Arg1421Ter,Likely pathogenic,0
+PHEX,Asn732Lys,Likely benign,0
+HDAC8,Arg356Cys,Likely benign,0
+SEMA6B,Val304Met,Likely benign,0
+SALL2,Ser487Gly,Benign,0
+LSS,Arg116Cys,Likely benign,0
+TLN2,Ser1143Leu,Likely benign,0
+ZNF41,Ser770Thr,Likely benign,0
+CAPN15,Glu138Lys,Likely benign,0
+DNAH2,Cys1829Gly,Benign,0
+IL13,Pro3Leu,Likely benign,0
+KCNQ5,Ser778Cys,Benign,0
+ABCD1,Ala396Glu,Likely pathogenic,0
+MYH7,Ala1603Pro,Likely pathogenic,0
+SETBP1,Pro537Gln,Likely benign,0
+DNAAF4,Val91Ile,Benign,0
+LRP5,Gln285Ter,Likely pathogenic,0
+LRRK2,Thr2524Ile,Likely benign,0
+MUTYH,Gly188Trp,Likely pathogenic,0
+IQSEC3,Gly216Ser,Likely benign,0
+CEP290,Trp1912Ter,Likely pathogenic,0
+PRKDC,Gly594Glu,Likely benign,0
+ERMAP,Arg73Cys,Benign,0
+CCDC88C,Tyr1545Cys,Likely benign,0
+DNAH17,Arg2084Gln,Benign,0
+PDE4D,Phe337Cys,Likely pathogenic,0
+BMP1,Arg727Gln,Likely benign,0
+NTSR1,Gln275His,Benign,0
+FBN1,Glu835Val,Likely pathogenic,0
+KCNK9,Arg131His,Likely pathogenic,0
+TMEM132E,Ser645Arg,Benign,0
+ANO5,Gly518Glu,Likely pathogenic,0
+USH2A,Asp798Val,Likely benign,0
+AHNAK2,Val2054Met,Likely benign,0
+AMER1,Gly48Ser,Likely benign,0
+TTN,Gly27002Ser,Likely benign,0
+CPAMD8,Pro936Leu,Likely benign,0
+CHD4,Asp1147Glu,Likely pathogenic,0
+C7,Thr45Ile,Likely benign,0
+ATM,Asp860Glu,Likely benign,0
+TTN,Arg15832Gln,Likely benign,0
+KCNS1,Pro263Ala,Likely benign,0
+OBSCN,Arg3676Gln,Likely benign,0
+ARSH,Ser214Asn,Benign,0
+ZNF783,Arg287Gln,Likely benign,0
+MAGEB18,Ile74Thr,Likely benign,0
+SMPD1,Asp280Glu,Likely pathogenic,0
+PKD2,Gln636Lys,Likely pathogenic,0
+ALG6,Leu316Ter,Likely pathogenic,0
+FBXW8,Arg477Gly,Likely benign,0
+SLFN5,Arg326Lys,Likely benign,0
+SYNE4,Arg267Gln,Likely benign,0
+THRB,Phe459Leu,Likely pathogenic,0
+SETBP1,Gln1575Ter,Likely benign,0
+MACF1,Arg959His,Likely benign,0
+CENPP,Arg130Ser,Likely benign,0
+TLN2,Thr1691Met,Benign,0
+COL11A1,Glu1741Ala,Likely benign,0
+USH2A,Thr4337Arg,Likely pathogenic,0
+MECP2,Pro397Thr,Likely benign,0
+BDP1,Ile1355Met,Likely benign,0
+KCNQ3,Tyr658Cys,Likely benign,0
+APC,Arg945Met,Likely benign,0
+SIPA1L3,Ala35Thr,Likely benign,0
+ABCA12,Thr50Ala,Likely benign,0
+DMRTC2,Asp5Glu,Likely benign,0
+CATSPER2,Ile74Val,Likely benign,0
+FBXO38,Leu311Ile,Likely benign,0
+EPAS1,Asn77Ser,Likely benign,0
+AFF2,Met566Thr,Likely benign,0
+TEX15,Lys2729Glu,Likely benign,0
+TTN,Trp17883Ter,Likely pathogenic,0
+SBF1,Leu983Pro,Likely pathogenic,0
+TPGS1,Ala31Thr,Likely benign,0
+ALPL,Pro466Arg,Likely pathogenic,0
+PHIP,Ile1318Phe,Benign,0
+ATRN,Ile451Met,Likely benign,0
+KDM6B,Ala609Thr,Likely benign,0
+FOXG1,Gly153Trp,Benign,0
+LRPPRC,Tyr586Ter,Likely pathogenic,0
+RAD54L,Arg380Gln,Likely benign,0
+KMT2D,Ala2491Pro,Benign,0
+GRIN2C,His1111Gln,Likely benign,0
+AKNA,Thr1330Ala,Likely benign,0
+RBM23,Asn47Ser,Likely benign,0
+PLD1,Pro514Leu,Benign,0
+CASQ1,Met1Lys,Likely benign,0
+DNAH17,Trp3931Ter,Likely pathogenic,0
+ARFGEF3,Ile1748Val,Likely benign,0
+COL11A2,Pro947His,Likely benign,0
+ANKRD13A,His452Gln,Likely benign,0
+NOTCH3,His981Tyr,Likely benign,0
+CHD2,Gly1130Arg,Likely pathogenic,0
+COQ5,Gln45Ter,Likely pathogenic,0
+CNTRL,Glu1322Asp,Benign,0
+GPR179,Arg242Gln,Likely benign,0
+BICDL2,Arg129Gln,Likely benign,0
+ANKRD17,Asn1829His,Likely benign,0
+SHROOM3,Glu564Ala,Likely benign,0
+WAPL,Thr127Ser,Likely benign,0
+MYBPHL,Asp269Asn,Benign,0
+SGSH,Tyr439Ter,Likely pathogenic,0
+NSD1,Ala1837Asp,Likely pathogenic,0
+SLC25A47,Arg256Trp,Likely benign,0
+AHNAK2,Leu1387Val,Likely benign,0
+SMPD1,Arg364Lys,Likely pathogenic,0
+AVPR2,Arg104Cys,Likely pathogenic,0
+RC3H1,Pro706Ser,Likely benign,0
+PRRC2C,Ile800Val,Likely benign,0
+SHOX,Arg153Leu,Likely pathogenic,0
+RGS12,Phe102Leu,Likely benign,0
+NEB,Lys7273Ter,Likely pathogenic,0
+TMEM175,Ser38Asn,Likely benign,0
+USH2A,Arg1486Lys,Benign,0
+CEP57,Ser329Gly,Likely benign,0
+UVSSA,Met219Val,Likely benign,0
+RNASE11,Val157Met,Likely benign,0
+ENAM,Asp921His,Likely benign,0
+ERBIN,Lys746Glu,Benign,0
+ICAM5,Pro624Ser,Likely benign,0
+SON,Met721Ile,Likely benign,0
+ALCAM,Ala183Val,Likely benign,0
+MYH4,Lys1795Thr,Benign,0
+RTTN,Gln1492Ter,Likely pathogenic,0
+TTN,Pro12729Ser,Likely benign,0
+TUBA1A,Asp205Glu,Likely pathogenic,0
+GPATCH1,Val171Ile,Likely benign,0
+KMT2D,Asp1121Gly,Likely benign,0
+PLCL2,Pro965Ser,Benign,0
+TAF1L,Ile1618Val,Likely benign,0
+PAK3,Gln135Ter,Likely pathogenic,0
+MDC1,Pro228Ser,Likely benign,0
+NFKBIA,Val203Met,Likely benign,0
+RTEL1,Gly1053Glu,Likely benign,0
+ABCD1,Gly510Ser,Likely pathogenic,0
+NUP214,Ala1194Thr,Likely benign,0
+G6PC1,Phe322Leu,Likely pathogenic,0
+SERPING1,Pro323Leu,Likely benign,0
+ACAN,Glu2464Lys,Likely benign,0
+PPM1D,Ala56Gly,Likely benign,0
+BRCA2,Thr1354Met,Benign,0
+DCXR,Glu105Asp,Likely benign,0
+AFG3L2,Arg41Gln,Likely benign,0
+SPTAN1,Lys1944Met,Likely benign,0
+ABCC12,Glu1191Ala,Benign,0
+SOX10,His164Pro,Likely pathogenic,0
+UMODL1,Asp386Asn,Likely benign,0
+NEXMIF,Gly1411Arg,Likely benign,0
+ACSF3,Arg523Gln,Likely benign,0
+ANK1,Tyr1062Ter,Likely pathogenic,0
+SNTG1,Val84Ile,Likely benign,0
+TRH,Leu8Val,Benign,0
+CBX2,Pro483Leu,Likely benign,0
+ALPK2,Arg1578His,Likely benign,0
+SMC1A,Glu1040Lys,Likely pathogenic,0
+COL11A1,Ser741Tyr,Benign,0
+CITED4,Pro95Leu,Likely benign,0
+TNNT2,Arg176Gly,Likely pathogenic,0
+CTSB,Lys245Asn,Likely benign,0
+PRL,Gln134Glu,Likely benign,0
+SDF4,Arg228Lys,Likely benign,0
+MFN2,Phe223Leu,Likely pathogenic,0
+NCKAP5,Ser1213Leu,Likely benign,0
+SOX10,Ser135Arg,Likely pathogenic,0
+CSF1R,Glu847Gln,Likely pathogenic,0
+LEPR,Val848Ile,Likely benign,0
+TRMT61B,His349Arg,Likely benign,0
+MFRP,Glu353Ter,Likely pathogenic,0
+ITSN2,Lys1553Gln,Likely benign,0
+FAH,Lys194Ter,Likely pathogenic,0
+G6PD,Val304Phe,Likely pathogenic,0
+HTR3D,Val159Met,Likely benign,0
+GP5,Met534Val,Likely benign,0
+CMYA5,Tyr879His,Likely benign,0
+HNF1B,Lys164Glu,Likely pathogenic,0
+ATL1,Ser398Tyr,Likely pathogenic,0
+OPN1SW,Phe265Leu,Likely benign,0
+PRR12,Glu740Ter,Likely pathogenic,0
+EHMT1,Pro1261Arg,Likely benign,0
+ADGRG1,Trp143Ter,Likely pathogenic,0
+CDKN2AIPNL,Ala21Thr,Likely benign,0
+DSC2,Ala387Asp,Likely benign,0
+MPHOSPH10,Arg115Cys,Likely benign,0
+MACF1,Leu1195Val,Likely benign,0
+TOGARAM2,Thr801Ala,Likely benign,0
+CACNA1F,Glu1136Ter,Likely pathogenic,0
+CASZ1,Ala702Val,Likely benign,0
+MEN1,Met561Arg,Likely pathogenic,0
+MTOR,Arg1612Ter,Likely benign,0
+UGGT1,Ala849Ser,Benign,0
+ZNF331,Lys109Ile,Benign,0
+EIF2AK4,Ile186Met,Benign,0
+MYH7,Arg807Pro,Likely pathogenic,0
+CERK,Gly475Arg,Likely benign,0
+NUP153,Pro478Leu,Likely benign,0
+COL6A3,Ile1163Thr,Likely pathogenic,0
+SNAPC3,Ser12Gly,Likely benign,0
+CDC42BPB,Lys488Thr,Likely benign,0
+KDR,Ile1330Leu,Benign,0
+RD3,Arg167Lys,Benign,0
+PPARG,Arg210Pro,Likely pathogenic,0
+LCT,Ser101Gly,Benign,0
+KCNQ2,Ala343Pro,Likely pathogenic,0
+UBXN8,Leu162Val,Likely benign,0
+KRT2,Ile477Asn,Likely pathogenic,0
+MYH7,Pro710Ser,Likely pathogenic,0
+KMT2D,Glu956Lys,Likely benign,0
+FASN,Glu1958Lys,Benign,0
+LRIT2,Ala483Val,Likely benign,0
+ITGA2B,Cys521Ter,Likely pathogenic,0
+BMPR2,Gly729Ala,Likely benign,0
+PCDHA2,Thr373Ser,Likely benign,0
+KMT2C,Gln608Arg,Likely benign,0
+ZNF485,Arg22Gln,Likely benign,0
+PLIN4,Val1098Met,Likely benign,0
+HLCS,Cys253Ter,Likely pathogenic,0
+SACS,Asp901Val,Likely benign,0
+DEFA4,Val17Ala,Likely benign,0
+SLC39A1,Ser298Thr,Likely benign,0
+DGKH,Met888Val,Likely benign,0
+CENPF,Gln754Glu,Benign,0
+L1CAM,Arg739Gln,Likely benign,0
+SCN1A,Phe1415Leu,Likely pathogenic,0
+SLC3A1,Thr216Lys,Likely pathogenic,0
+CD207,Arg187Gln,Likely benign,0
+CCDC71,Arg446Gln,Likely benign,0
+KMT2D,Pro488Arg,Likely benign,0
+COL7A1,Gly521Glu,Likely benign,0
+CDKN2C,Ala77Glu,Likely pathogenic,0
+EP300,Pro972Leu,Benign,0
+STAG2,Tyr159Cys,Likely pathogenic,0
+TAF1,Cys787Arg,Likely pathogenic,0
+ASAH1,Gly153Arg,Likely pathogenic,0
+EHMT1,Arg189Ser,Likely benign,0
+RFWD3,Arg510Lys,Likely benign,0
+POMT2,Ala54Glu,Benign,0
+USP24,Thr158Ala,Benign,0
+COL6A3,Gln424Glu,Likely benign,0
+DNAH11,Trp1941Ser,Likely benign,0
+TMEM92,Ala10Val,Likely benign,0
+SH3KBP1,Arg650Gln,Benign,0
+TMEM177,Ala9Thr,Likely benign,0
+SSMEM1,Ala211Val,Likely benign,0
+AADACL2,Arg384His,Likely benign,0
+ADPRH,Val282Ile,Likely benign,0
+TIMM22,Asn7Ser,Likely benign,0
+KMT2D,Thr4193Ala,Likely benign,0
+NRG2,Gly142Ser,Likely benign,0
+CDK4,Lys106Asn,Likely benign,0
+LAMA1,Thr1675Ala,Likely benign,0
+EZH2,Arg213Cys,Likely benign,0
+PRDM13,Leu658Val,Benign,0
+LRRC8B,Asn430Ser,Likely benign,0
+DNAH11,Glu3261Asp,Benign,0
+KDM5C,Ala1197Val,Likely benign,0
+POLG,Thr914Ala,Likely pathogenic,0
+PURA,Gly42Ser,Benign,0
+USH2A,Gly1392Arg,Likely pathogenic,0
+NUP98,Arg677Cys,Benign,0
+GABBR1,Asn657Ser,Likely benign,0
+PFKM,Trp132Ter,Likely pathogenic,0
+PARD3,Glu107Asp,Benign,0
+ATP1A3,Gly270Ser,Likely benign,0
+SLC25A16,Phe186Leu,Likely benign,0
+KIAA0753,His159Pro,Benign,0
+FN1,Glu618Lys,Likely benign,0
+MYBL2,Ser191Asn,Benign,0
+AUH,Gly186Cys,Likely pathogenic,0
+ZNF366,Asn104Ser,Likely benign,0
+CDH23,Asp918Val,Likely pathogenic,0
+CBL,Leu708Val,Likely benign,0
+TACC1,Ser577Pro,Likely benign,0
+EMC10,Ala41Val,Likely benign,0
+RPGR,Asn1077Lys,Benign,0
+PLIN5,Ala310Pro,Likely benign,0
+DNAH1,Arg3832His,Benign,0
+SCN2A,Arg1324Ser,Likely pathogenic,0
+SCN3A,Gly238Ala,Likely pathogenic,0
+DMP1,Ser384Asn,Benign,0
+PAH,Ser303Pro,Likely pathogenic,0
+L1CAM,Arg834Gln,Likely benign,0
+SCO2,Trp75Ter,Likely pathogenic,0
+COL6A3,Gly307Asp,Likely benign,0
+EIF2AK4,Asn271Ser,Likely benign,0
+NSD1,Pro2349Ser,Likely benign,0
+PTPRJ,Arg959His,Likely benign,0
+HGD,Leu221Ter,Likely pathogenic,0
+SRCAP,Glu2597Asp,Likely benign,0
+ATAD5,Met239Ile,Likely benign,0
+SPTB,Glu242Ter,Likely pathogenic,0
+DMD,Val1649Leu,Likely benign,0
+DRC1,Gln188Ter,Likely pathogenic,0
+GALNS,Gly301Asp,Likely pathogenic,0
+SORCS1,Val1118Ile,Likely benign,0
+CREBBP,Gln897Ter,Likely pathogenic,0
+OR10R2,Asn204His,Likely benign,0
+BCKDHB,Asp364Asn,Likely pathogenic,0
+HSF2BP,Arg315His,Likely benign,0
+BMPR2,Gly426Arg,Likely pathogenic,0
+HNRNPA1,Met328Leu,Likely pathogenic,0
+ABCC4,Thr1142Met,Benign,0
+ADGRG4,Val1971Ile,Likely benign,0
+ARMC2,Met171Val,Likely benign,0
+ERF,Thr273Ser,Likely benign,0
+SLC16A2,Pro65Arg,Likely benign,0
+PCARE,Gln538Ter,Likely pathogenic,0
+CSF1R,Glu664Val,Likely pathogenic,0
+NLGN1,Arg23Trp,Likely benign,0
+FLNA,Pro1989Leu,Benign,0
+CD93,Ser520Leu,Benign,0
+LMNA,Arg25His,Likely pathogenic,0
+ALPK2,His707Tyr,Likely benign,0
+GJB2,Asp179His,Likely pathogenic,0
+PMPCB,Glu396Asp,Benign,0
+HPS4,Ser354Cys,Benign,0
+GPR179,Gln1869Glu,Benign,0
+CHD7,Pro42Ser,Benign,0
+SPTB,Trp1779Ter,Likely pathogenic,0
+ZNF469,Ala3387Glu,Likely benign,0
+ZNF486,Val86Met,Likely benign,0
+MFN2,Val244Gly,Likely pathogenic,0
+FLG,Ser2543Ile,Likely benign,0
+WDR90,Gly371Ser,Benign,0
+ARID1B,Trp2178Ter,Likely pathogenic,0
+DMBT1,Thr5Lys,Likely benign,0
+ELP5,Arg271Gly,Likely benign,0
+RUNX1,Gly69Arg,Benign,0
+EXOSC3,Arg51Gly,Likely benign,0
+GRIN2B,Asn615Ile,Likely pathogenic,0
+TP63,Ile597Phe,Likely pathogenic,0
+CLN8,Arg70Cys,Likely pathogenic,0
+DVL1,Arg273Cys,Likely benign,0
+RPE65,Thr162Pro,Likely pathogenic,0
+KMT2D,Ala4942Pro,Benign,0
+DNAH11,Ile1528Val,Likely benign,0
+NIPAL4,Glu2Ter,Likely pathogenic,0
+SENP7,Ile402Thr,Likely benign,0
+SUCLA2,Ser199Thr,Benign,0
+CRTAM,Ser46Ala,Likely benign,0
+DNAH11,Met2799Val,Likely benign,0
+HDAC8,Arg361Gln,Benign,0
+KDM5C,Arg828Gln,Likely benign,0
+MEN1,Leu177Arg,Likely pathogenic,0
+SPATA31A1,Arg288Lys,Likely benign,0
+NEXMIF,Tyr492Phe,Benign,0
+BIRC6,Ile878Val,Likely benign,0
+CACNA1H,Tyr1763Cys,Likely pathogenic,0
+P2RX3,Leu371Ser,Likely benign,0
+OTOF,Glu1380Lys,Likely benign,0
+GCK,Asp274Tyr,Likely pathogenic,0
+NES,Ser658Arg,Likely benign,0
+FANCL,Leu95Ter,Likely pathogenic,0
+PC,Asp1165Tyr,Likely benign,0
+ZNF674,Gly72Glu,Likely benign,0
+GABRA2,Arg94Gln,Likely pathogenic,0
+SLC6A8,Gly253Arg,Likely pathogenic,0
+MYO15A,Arg2204Pro,Likely pathogenic,0
+LRRC34,Arg260His,Likely benign,0
+GP6,Val106Ile,Likely benign,0
+MUC17,Thr2355Ile,Likely benign,0
+TUBA1A,Val137Asp,Likely pathogenic,0
+RMND1,Ile287Phe,Likely pathogenic,0
+MTFP1,Ala75Thr,Likely benign,0
+CYP3A4,Thr363Met,Likely benign,0
+PLXNB1,Pro376Ser,Likely benign,0
+PMS2,Thr597Ser,Benign,0
+ZNF84,Arg712Gln,Likely benign,0
+ALOXE3,Ile515Val,Benign,0
+NPHS1,Val1084Phe,Likely benign,0
+SH2B3,Pro363Ser,Likely pathogenic,0
+NCKIPSD,Ile667Val,Likely benign,0
+GALC,Trp131Ter,Likely pathogenic,0
+TP63,Arg343Leu,Likely pathogenic,0
+ZNF674,His370Gln,Benign,0
+PHF7,Ala304Ser,Likely benign,0
+VWF,Gly967Asp,Likely benign,0
+LYST,Pro2211Arg,Likely benign,0
+CAMTA1,Gly328Ser,Likely benign,0
+AXIN2,Pro525Ala,Benign,0
+ANKRD12,Lys679Arg,Likely benign,0
+HTT,Cys1708Arg,Likely benign,0
+ELP1,Arg525Gln,Benign,0
+ACADM,Pro132His,Likely pathogenic,0
+ASB10,Arg189Trp,Likely benign,0
+DOT1L,Val467Ala,Likely benign,0
+KMT2D,Gly1933Val,Benign,0
+PRPF31,Tyr435Ter,Likely pathogenic,0
+KAT2B,Gly62Asp,Likely benign,0
+TEX15,Ala1600Thr,Likely benign,0
+C8A,Glu561Gln,Benign,0
+RBP4,Gly118Glu,Likely pathogenic,0
+TH,Ile229Phe,Likely benign,0
+PTCH2,Val503Ile,Likely benign,0
+EXPH5,Ser1799Asn,Likely benign,0
+MYO9A,Thr828Ala,Likely benign,0
+OPLAH,Arg501Trp,Likely benign,0
+MUC12,Val20Leu,Benign,0
+DVL1,Arg677Cys,Likely benign,0
+CPLANE1,Trp2953Ter,Likely pathogenic,0
+UTRN,Glu2130Lys,Benign,0
+AKAP13,Glu1628Lys,Likely benign,0
+COL4A5,Ala26Thr,Likely benign,0
+AHNAK2,Leu1020Met,Likely benign,0
+PHF3,Met637Val,Likely benign,0
+SERPINC1,Asp100Gly,Likely benign,0
+MUTYH,Leu369Met,Likely benign,0
+COLEC10,Ala36Thr,Likely benign,0
+EXOSC10,Arg768Gln,Likely benign,0
+N4BP2,Phe1284Leu,Likely benign,0
+TECRL,Lys38Arg,Likely benign,0
+TTN,Tyr24349Ter,Likely pathogenic,0
+ADGRE2,Val137Ile,Likely benign,0
+EBLN1,Ser16Asn,Likely benign,0
+TACC2,Ala320Val,Likely benign,0
+PMM2,Cys241Trp,Likely pathogenic,0
+BRCA2,Arg2432Lys,Likely benign,0
+CIRBP,Ser152Gly,Likely benign,0
+DNHD1,Gln279Pro,Benign,0
+GTPBP3,Gln316Arg,Benign,0
+EPHB4,Arg889Gln,Likely benign,0
+APOB,Leu1358Val,Likely benign,0
+ACE,Thr1210Met,Likely benign,0
+SORCS2,Gly650Ser,Likely benign,0
+CDSN,Ser212Asn,Likely benign,0
+HRC,Arg88His,Likely benign,0
+SLC24A1,Thr37Ser,Benign,0
+EYS,Tyr2426Ter,Likely pathogenic,0
+USH1C,Val873Met,Likely benign,0
+AR,Glu773Gly,Likely pathogenic,0
+CLN8,Ala155Val,Likely pathogenic,0
+GLI3,Ser658Ile,Likely benign,0
+GABBR2,Gln595Arg,Likely benign,0
+COX5A,Ile74Met,Likely benign,0
+PRAG1,Arg170His,Likely benign,0
+ZNF107,Asn470Asp,Likely benign,0
+BLTP1,Ser1578Ter,Likely pathogenic,0
+BRD1,Ser505Asn,Likely benign,0
+SOX18,Gln55Pro,Likely benign,0
+MYH10,Glu351Asp,Benign,0
+DCAF8L1,Ile39Thr,Likely benign,0
+TBK1,Arg724Cys,Likely benign,0
+SLX4,Lys1828Arg,Likely benign,0
+TRIM43B,Glu241Asp,Likely benign,0
+ARID1B,Cys2055Tyr,Likely benign,0
+POU2F3,Gly135Ser,Likely benign,0
+SMYD4,Arg562Gln,Likely benign,0
+KMT2C,Lys1274Arg,Likely benign,0
+SETD5,Arg1387Gln,Likely benign,0
+ROBO3,Thr613Ile,Likely benign,0
+CNGB3,Thr298Pro,Benign,0
+IFNAR1,Thr359Met,Benign,0
+CACNA1S,Arg528Cys,Likely pathogenic,0
+ADGRV1,Glu835Ala,Likely benign,0
+AASS,Tyr861Ter,Likely pathogenic,0
+KMT2C,Arg526Pro,Benign,0
+ABCA13,Ile2383Arg,Benign,0
+OTOF,Gly1654Ser,Likely pathogenic,0
+SELENOO,Ser290Thr,Likely benign,0
+PON1,Arg160Gly,Benign,0
+GPR31,Arg120Gln,Likely benign,0
+SLC13A1,Val216Met,Likely benign,0
+TULP1,Ile259Thr,Benign,0
+DNAH11,Ile2371Thr,Likely benign,0
+TTLL10,Gly414Ser,Likely benign,0
+TTN,Glu4381Ter,Likely pathogenic,0
+CALM2,Arg3Ser,Benign,0
+NPAT,Val799Ile,Likely benign,0
+TSC2,Val709Gly,Likely pathogenic,0
+COL4A4,Gly792Arg,Likely pathogenic,0
+GNPTAB,Asp1018Gly,Likely pathogenic,0
+ASPM,Gln2620His,Benign,0
+ACADVL,Gly140Glu,Likely pathogenic,0
+ATRX,Arg654Gln,Likely benign,0
+MSH2,Ile237Phe,Likely benign,0
+NOTCH1,Asp932Asn,Likely benign,0
+SLC5A1,Ser159Pro,Likely pathogenic,0
+CHD8,Arg303Trp,Likely benign,0
+ZIC5,Thr77Ala,Likely benign,0
+GAA,Tyr773Ter,Likely pathogenic,0
+PPARGC1B,Ser500Leu,Benign,0
+OGDHL,Arg89Gln,Likely benign,0
+SHROOM4,Arg230Gln,Benign,0
+OR2L3,Gly310Val,Likely benign,0
+GTPBP3,Arg174Pro,Likely pathogenic,0
+KMT2D,Ser2910Arg,Likely benign,0
+NEDD4L,Glu915Gln,Likely benign,0
+RNF17,Ser716Asn,Likely benign,0
+PDGFRL,Val92Leu,Likely benign,0
+TTN,Ile4357Met,Likely benign,0
+SAXO2,Leu271Arg,Likely benign,0
+PAH,Thr81Asn,Likely pathogenic,0
+OBSCN,Pro7981Leu,Likely benign,0
+DMD,Thr1245Ile,Benign,0
+ADGRV1,Val2432Met,Likely benign,0
+CYP3A43,Lys285Glu,Likely benign,0
+NFKBIZ,Leu155Trp,Likely benign,0
+FTCD,Glu400Lys,Likely benign,0
+DNAH11,Met1995Val,Benign,0
+KANSL1,Ala709Thr,Likely benign,0
+LRRC56,Arg69Gln,Benign,0
+DNAH11,Glu4249Lys,Benign,0
+KDM6A,Pro1018Leu,Likely pathogenic,0
+IFIH1,Phe629Val,Likely benign,0
+GLMN,Ile539Val,Likely benign,0
+PEAK1,Arg1223His,Likely benign,0
+MIP,Val67Ile,Benign,0
+ZNF284,Gln430Glu,Likely benign,0
+DCDC2,Pro152Ala,Benign,0
+POM121L12,Trp128Arg,Likely benign,0
+EYA2,Ala93Thr,Benign,0
+PIKFYVE,Glu1603Ter,Likely pathogenic,0
+SHH,Gly297Asp,Likely benign,0
+QRICH2,Thr1192Met,Likely benign,0
+SPATA31F1,Arg1069His,Likely benign,0
+EXO1,Thr439Met,Benign,0
+DMAC2L,Asp94Asn,Likely benign,0
+ATP2A2,Val223Leu,Likely pathogenic,0
+FBXO11,Pro32Leu,Likely benign,0
+ZNF649,Ser470Gly,Likely benign,0
+LRP2,Leu2004Pro,Likely benign,0
+HIPK3,Ser945Gly,Likely benign,0
+KIF5A,Arg468Gln,Likely benign,0
+PARP2,Arg465His,Likely benign,0
+GPRIN3,Pro285Leu,Likely benign,0
+MSH2,Gln61Arg,Likely benign,0
+COA7,Lys219Arg,Benign,0
+PM20D2,Phe241Leu,Likely benign,0
+PON2,Asn226Ser,Likely benign,0
+ASPA;SPATA22,Phe295Ser,Likely pathogenic,0
+COL3A1,Gly495Glu,Likely pathogenic,0
+SCNN1A,Gly599Asp,Likely benign,0
+PASK,Ala324Val,Likely benign,0
+SUN1,Gly120Ser,Benign,0
+SLC26A4,Ala599Val,Likely benign,0
+LMNA,Arg225Pro,Likely pathogenic,0
+PRRC2C,Asn2296Ser,Likely benign,0
+BNC2,Gln57His,Benign,0
+ROPN1,Cys147Ser,Likely benign,0
+ARID1A,Arg2233Gln,Likely pathogenic,0
+SLCO4A1,Gly489Ser,Likely benign,0
+SCN1A,Asp188Val,Likely pathogenic,0
+MECP2,Asp133Val,Likely pathogenic,0
+KDM6A,Asn675Thr,Likely benign,0
+BRIP1,Ser919Thr,Benign,0
+DNAH5,Pro3862Leu,Likely benign,0
+GRIN2A,Phe861Leu,Likely benign,0
+NEB,Ser5588Thr,Benign,0
+TAF1,Arg1234Trp,Likely pathogenic,0
+COL2A1,Gly354Arg,Likely pathogenic,0
+POPDC3,Met90Ile,Likely benign,0
+ATP6V1B2,Pro15Ala,Likely benign,0
+ANKRD11,Thr2145Ile,Benign,0
+STARD9,His1550Gln,Benign,0
+APC,Tyr1166Ter,Likely pathogenic,0
+RFPL2,Cys242Tyr,Likely benign,0
+NPTX2,Gly156Ser,Likely benign,0
+GRTP1,Asn170Ser,Likely benign,0
+CDAN1,Ala148Val,Benign,0
+RRS1,Asp296Asn,Benign,0
+PHACTR1,Cys419Ser,Likely benign,0
+NBPF3,Gly281Arg,Likely benign,0
+SIPA1L3,Glu354Asp,Likely benign,0
+SCAPER,Ser371Pro,Likely benign,0
+ZSCAN30,Val21Ile,Likely benign,0
+DOLK,Lys429Arg,Likely benign,0
+P2RX7,Val522Ile,Benign,0
+ADGRV1,Asn4531Ser,Likely benign,0
+USP35,Thr880Ala,Likely benign,0
+ZIC5,Thr77Ala,Likely benign,0
+DIAPH3,Pro588Leu,Benign,0
+SEPTIN4,Glu977Lys,Benign,0
+TCHHL1,Leu502Ser,Likely benign,0
+ENG,Ser464Thr,Likely benign,0
+NOTCH1,Val2421Met,Benign,0
+DUSP6,Ser144Ala,Benign,0
+PIEZO1,Gly51Ser,Likely benign,0
+LAMA2,Ile3033Val,Likely benign,0
+DNMT3A,Arg556Ser,Likely pathogenic,0
+MED13L,Ser1306Pro,Benign,0
+COL2A1,Gly930Arg,Likely pathogenic,0
+SPAST,Ser399Ter,Likely pathogenic,0
+NCOR2,His2196Asn,Likely benign,0
+ARHGAP21,Ile1164Arg,Likely pathogenic,0
+PXDN,Arg1244Ter,Likely pathogenic,0
+TRIO,Thr1303Ile,Likely pathogenic,0
+KCND3,Ser390Asn,Likely pathogenic,0
+NFAM1,His134Arg,Likely benign,0
+ZNF571,Arg130Gln,Likely benign,0
+RTN4,Ser440Asn,Benign,0
+CBR4,Met119Val,Likely benign,0
+INVS,Gly801Glu,Benign,0
+LRRD1,Cys436Ser,Likely benign,0
+NIPBL,Gly15Arg,Likely pathogenic,0
+OCEL1,Pro4Thr,Benign,0
+KIAA1549,Arg286Trp,Likely benign,0
+LIPE,Ala418Thr,Likely benign,0
+SLC26A4,Ser93Arg,Likely pathogenic,0
+UNC93A,Ala220Val,Benign,0
+PCCA,Glu302Ter,Likely pathogenic,0
+PFKM,Tyr644Ter,Likely pathogenic,0
+COL6A2,Ala891Thr,Benign,0
+HDAC4,Arg586His,Likely benign,0
+MSH2,Thr732Pro,Likely pathogenic,0
+TJP1,Arg1077His,Likely benign,0
+UPK3B,Val200Ile,Likely benign,0
+HYDIN,Ile1097Met,Likely benign,0
+ATAD5,Arg249Lys,Benign,0
+EFHB,Gly135Glu,Likely benign,0
+PKP3,Thr444Met,Benign,0
+DNAH11,Ile258Met,Likely benign,0
+TTN,Tyr16586Ter,Likely pathogenic,0
+SOS1,Thr266Arg,Likely pathogenic,0
+OBSCN,Thr5009Ala,Likely benign,0
+BSCL2,Gln94Ter,Likely pathogenic,0
+RGPD4,Ser1416Thr,Likely benign,0
+SPTB,Trp396Ter,Likely pathogenic,0
+CREBBP,Gly333Glu,Likely benign,0
+FARS2,Asp142Asn,Likely pathogenic,0
+CELF4,Gly343Ser,Likely benign,0
+SMARCA2,Arg420Cys,Likely pathogenic,0
+TOM1L1,Ala391Thr,Likely benign,0
+BAG3,Cys373Ter,Likely pathogenic,0
+CMYA5,Lys2383Glu,Benign,0
+MED12,Arg621Gln,Likely pathogenic,0
+MICAL3,Arg1281Cys,Likely benign,0
+SUFU,Trp464Ter,Likely pathogenic,0
+COL4A5,Gly672Asp,Likely pathogenic,0
+ATRX,Lys1083Asn,Likely benign,0
+MED13L,Pro204Leu,Likely benign,0
+DMD,Arg2720Cys,Likely benign,0
+GRIN2B,Ala1078Gly,Benign,0
+SLC34A2,Cys687Ser,Likely benign,0
+WDSUB1,Lys361Arg,Likely benign,0
+IDO1,Val150Ile,Likely benign,0
+BRF1,Ala626Val,Likely benign,0
+KMT2B,Ser728Asn,Likely benign,0
+ZNF333,Asp169Gly,Likely benign,0
+RPGR,Ala641Pro,Likely benign,0
+IDS,Gly94Asp,Likely pathogenic,0
+SPI1,Met117Lys,Benign,0
+PNPLA7,Ala40Thr,Likely benign,0
+ASPM,Ile3209Thr,Likely benign,0
+EIF2S3,Ile207Thr,Likely pathogenic,0
+HIVEP1,Glu1041Asp,Likely benign,0
+TLR1,Ile49Val,Likely benign,0
+COL2A1,Gly444Asp,Likely pathogenic,0
+ADCK1,Leu404Ser,Likely benign,0
+OR13C5,Arg244His,Likely benign,0
+RXYLT1,Met1Leu,Likely pathogenic,0
+NAA10,Pro64Ser,Likely benign,0
+HCLS1,Val306Ala,Likely benign,0
+COL6A3,Gly2716Val,Likely benign,0
+B3GNT9,Gln343Arg,Likely benign,0
+ALDH5A1,Ile179Asn,Likely pathogenic,0
+TELO2,Met1Leu,Likely pathogenic,0
+TMTC4,Phe231Leu,Likely benign,0
+NFE2L2,Gln14His,Likely benign,0
+SLC12A3,Gln445His,Likely pathogenic,0
+ASXL3,Gln800Ter,Likely pathogenic,0
+PRPF31,Glu89Ter,Likely pathogenic,0
+LPL,Ile221Phe,Likely pathogenic,0
+ACE2,Lys26Arg,Likely benign,0
+LCT,Gly1363Ser,Likely pathogenic,0
+DNHD1,Asp3313Asn,Benign,0
+DPF2,Arg83Gln,Likely benign,0
+CDH5,Ala313Thr,Likely benign,0
+VPS13C,Arg3526Ter,Likely pathogenic,0
+GFAP,Val15Ile,Likely benign,0
+BSN,Ala741Thr,Benign,0
+GRHL3,Arg8Gly,Likely pathogenic,0
+RAI1,Gln441Ter,Likely pathogenic,0
+RELN,Tyr2424His,Likely benign,0
+LAMA5,Lys1367Glu,Benign,0
+FLT3,Thr475Pro,Likely benign,0
+LMF2,Arg344His,Likely benign,0
+LRCH3,Arg663Cys,Likely benign,0
+R3HCC1,Pro437Leu,Likely benign,0
+DNAH5,Ala1259Val,Benign,0
+COL4A4,Gly1392Ala,Likely pathogenic,0
+ADGRE1,Ile284Val,Likely benign,0
+ZNF419,Ile336Val,Benign,0
+CHD2,Gln376Ter,Likely pathogenic,0
+KMT2D,Lys3436Arg,Benign,0
+CDT1,Arg198Cys,Benign,0
+CYCS,Gly42Ser,Likely pathogenic,0
+MAMLD1,Pro299Ala,Benign,0
+PLP1,Phe237Ser,Likely pathogenic,0
+BRAT1,Ser121Arg,Likely benign,0
+PRR12,Pro650Ser,Benign,0
+HIC2,Met426Val,Likely benign,0
+ELANE,Leu138Gln,Likely pathogenic,0
+TTN,Ala35511Ser,Likely pathogenic,0
+MPI,Asp131Asn,Likely pathogenic,0
+SOX9,Glu409Ter,Likely pathogenic,0
+C5,Lys1119Arg,Likely benign,0
+MANBA,Pro730Arg,Likely benign,0
+ASCC3,Glu59Ala,Likely benign,0
+TIAM2,Pro1613Leu,Likely benign,0
+AGPS,Lys169Ter,Likely pathogenic,0
+SUPV3L1,Asn580Ser,Likely benign,0
+STARD9,Asp2434Gly,Likely benign,0
+HNF1B,Leu154Arg,Likely pathogenic,0
+SETBP1,Pro756Leu,Likely benign,0
+PIEZO2,Glu1053Ter,Likely pathogenic,0
+FRMD4B,Glu848Asp,Likely benign,0
+TTN,Glu16620Ter,Likely pathogenic,0
+MYO1D,Gln989Glu,Likely benign,0
+AKR1C2,Val122Ile,Likely benign,0
+IGHMBP2,Lys700Ter,Likely pathogenic,0
+MYH7,Asp74Glu,Likely benign,0
+GALC,Arg127Leu,Likely benign,0
+CLCN1,Asn567His,Likely pathogenic,0
+HIVEP1,Gln1915Arg,Benign,0
+PDE11A,Asp236Glu,Likely benign,0
+TLR1,Ser44Pro,Benign,0
+ZCWPW1,Arg229Gln,Likely benign,0
+ANO4,Val376Ile,Likely benign,0
+XAF1,Ser216Asn,Likely benign,0
+PCLO,Asp1634Asn,Likely benign,0
+WDFY4,Thr1842Ala,Likely benign,0
+FOXF1,Tyr89Cys,Likely pathogenic,0
+RGPD4,Lys820Glu,Likely benign,0
+BRCA2,Ser646Arg,Benign,0
+ROBO3,Phe498Leu,Likely benign,0
+NACC1,Val228Ala,Likely benign,0
+LAMB2,Gln1313Ter,Likely pathogenic,0
+ENTREP1,Gln361Ter,Likely benign,0
+HUWE1,Ser3258Arg,Likely pathogenic,0
+DNAH11,Glu1399Gly,Likely benign,0
+ADGRL1,Tyr561Ter,Likely pathogenic,0
+NALCN,Ile950Thr,Likely pathogenic,0
+VHL,Pro25Leu,Benign,0
+APOB,Ala4483Ser,Likely benign,0
+PIF1,Arg197Lys,Likely benign,0
+CACNA1E,His788Leu,Likely benign,0
+RB1,Gln702Lys,Likely pathogenic,0
+MMUT,Leu134Ter,Likely pathogenic,0
+ALK,Lys1491Arg,Benign,0
+IKBKE,Ala249Thr,Likely benign,0
+IL17RE,Arg411Gln,Likely benign,0
+GRIN2A,Ala635Asp,Likely pathogenic,0
+ASXL3,Phe742Val,Benign,0
+RAI1,Pro1069Ser,Benign,0
+SIX2,Ala254Thr,Likely pathogenic,0
+DSP,Gly2256Asp,Likely pathogenic,0
+ATP2B1,Arg789Cys,Likely pathogenic,0
+FCSK,Val146Met,Likely benign,0
+KMT2C,Asn1552Ser,Likely benign,0
+VIT,Ile307Val,Likely benign,0
+GEN1,Leu790Val,Likely benign,0
+CFH,Tyr112Ter,Likely pathogenic,0
+NR0B1,Ala247Val,Benign,0
+ERCC6,Gly1108Ter,Likely pathogenic,0
+ACOT8,Ala51Thr,Likely benign,0
+TNFRSF1B,Lys307Glu,Benign,0
+MECP2,Arg321Gln,Likely pathogenic,0
+ANXA3,Ala106Thr,Likely benign,0
+AHDC1,Gly770Arg,Likely benign,0
+ZNF185,Arg667His,Likely benign,0
+FLNA,Arg1993Gln,Likely benign,0
+STXBP1,Lys497Arg,Likely benign,0
+UBA1,Gln914His,Benign,0
+SUPT16H,Arg1033His,Likely benign,0
+ZNF594,Cys432Tyr,Likely benign,0
+CD22,Gln152Arg,Likely benign,0
+PLOD1,Leu85Pro,Likely pathogenic,0
+WDR90,Arg1036Gln,Likely benign,0
+MTMR8,Ala44Thr,Likely benign,0
+ATP1A3,Asn572Asp,Likely benign,0
+SMIM18,Val50Ala,Benign,0
+IL2RG,Leu16Pro,Likely pathogenic,0
+DNAH8,Thr2661Asn,Benign,0
+SOX18,Gly38Ala,Likely benign,0
+SPEG,His3079Arg,Benign,0
+JCAD,Gly36Arg,Likely benign,0
+CACNA2D4,Ile893Val,Likely benign,0
+VCL,Ala413Thr,Likely benign,0
+PTPN14,Asn31Ser,Likely benign,0
+ETHE1,Ala21Ser,Benign,0
+IRS1,Gly1214Ser,Likely benign,0
+CHD7,Gly2787Ser,Benign,0
+NARF,Arg185His,Likely benign,0
+CCDC168,Val6796Met,Likely benign,0
+OR8K3,Asp206Asn,Likely benign,0
+LPL,Glu190Gly,Likely pathogenic,0
+IRF2BPL,Ser218Phe,Likely benign,0
+SYNGAP1,Ser1079Arg,Benign,0
+DSPP,Asp243Asn,Benign,0
+STXBP1,Thr570Ala,Likely pathogenic,0
+F2,Arg425Cys,Likely pathogenic,0
+CD40LG,Leu138Ser,Likely pathogenic,0
+ALMS1,His624Arg,Benign,0
+OR5T2,Ala169Ser,Likely benign,0
+MUC4,Ser4005Gly,Likely benign,0
+LAMB1,Gly860Ser,Benign,0
+KAT6A,Gln1805Lys,Likely benign,0
+ACADVL,Glu218Lys,Likely pathogenic,0
+PIAS1,Ser106Leu,Likely pathogenic,0
+COL5A1,Val172Asp,Likely pathogenic,0
+PGLS,Arg102Lys,Likely benign,0
+CRYGS,Gly102Glu,Likely benign,0
+CREBBP,Ile1730Val,Likely pathogenic,0
+PMPCA,Glu475Asp,Likely benign,0
+PNPLA5,Trp286Arg,Benign,0
+RPGRIP1,Trp109Ter,Likely pathogenic,0
+PCDHGB6,Val458Leu,Likely benign,0
+PAG1,Gly276Ala,Likely benign,0
+LRP1B,Arg1581His,Likely benign,0
+CHAMP1,Lys618Arg,Likely benign,0
+CYP4F22,Arg451Cys,Likely pathogenic,0
+TRMU,Glu148Lys,Benign,0
+ZZEF1,Val714Ile,Likely benign,0
+ANXA4,Met3Val,Likely benign,0
+CFHR2,Tyr264Cys,Likely benign,0
+VPS13C,Met1989Val,Likely benign,0
+FBN1,Cys528Tyr,Likely pathogenic,0
+LAMP2,Arg25Pro,Likely benign,0
+CAMSAP1,Ile508Val,Likely benign,0
+SWT1,Arg441His,Likely benign,0
+CNGB1,Leu745Ile,Benign,0
+CHD3,Pro657Ser,Likely benign,0
+BDP1,Thr2252Pro,Benign,0
+GABBR2,Phe582Leu,Likely benign,0
+KCNB1,Ala28Thr,Benign,0
+PCDHB6,Pro676Ala,Likely benign,0
+IL17RC,Gln307Arg,Benign,0
+DOP1B,Ile2067Thr,Likely benign,0
+LKAAEAR1,Pro86Leu,Likely benign,0
+FAT2,Arg992Gln,Benign,0
+SPEN,Ala2777Val,Likely benign,0
+PTPRZ1,Gly965Ser,Likely benign,0
+KMT2A,Ala3611Val,Likely benign,0
+AHI1,His696Arg,Likely pathogenic,0
+MTCL1,Lys883Arg,Likely benign,0
+ERF,Gln49Ter,Likely pathogenic,0
+L1CAM,Tyr382Asp,Likely benign,0
+STARD9,Ala1792Val,Likely benign,0
+TTLL10,Leu466Phe,Likely benign,0
+SACS,Ala3661Thr,Likely benign,0
+TYMP,Gly428Ser,Likely pathogenic,0
+KLHDC7B,Ala951Val,Likely benign,0
+ZNF175,Arg53Gln,Likely benign,0
+BCAS2,Thr4Ala,Benign,0
+ZNF469,Pro2594Leu,Likely benign,0
+SERPINC1,Phe179Cys,Likely pathogenic,0
+COL12A1,Arg1522Gly,Likely benign,0
+CHRNA2,Asp82Gly,Likely benign,0
+MAPT,Thr253Ser,Likely benign,0
+PALLD,Ser149Asn,Likely benign,0
+FAT1,Thr2261Met,Likely benign,0
+RERE,Leu1256Pro,Likely pathogenic,0
+UNC5CL,His495Gln,Likely benign,0
+CD86,Asp323Asn,Benign,0
+SAMD9L,Asp773Gly,Likely benign,0
+IFIH1,Arg822Pro,Likely pathogenic,0
+CRB1,Trp766Ter,Likely pathogenic,0
+SLC6A1,Ile338Phe,Likely pathogenic,0
+KMT2D,Ile1344Val,Likely benign,0
+SMPD1,Gly85Arg,Likely benign,0
+TUBB8,Met388Thr,Likely pathogenic,0
+PYGL,Val222Ile,Benign,0
+SMARCE1,Tyr73Cys,Likely pathogenic,0
+COL12A1,Thr742Ser,Likely benign,0
+CREBBP,Ala763Ser,Benign,0
+PSEN1,Phe386Ile,Likely pathogenic,0
+SOS2,Ile1071Val,Likely benign,0
+BACE1,Met12Val,Likely benign,0
+ADAMTS3,Asn942Ser,Likely benign,0
+KLHDC7A,Pro353Leu,Likely benign,0
+HSPG2,Val3402Leu,Likely benign,0
+NSD1,His2205Pro,Likely pathogenic,0
+NCKAP1,Lys260Ter,Likely pathogenic,0
+NOTCH1,Ser2471Leu,Likely benign,0
+ZNF17,Val49Leu,Likely benign,0
+MUC5B,Arg5187His,Benign,0
+POLE,Phe1653Leu,Likely benign,0
+SLCO4A1,Leu6Met,Likely benign,0
+USH2A,Leu2471Arg,Likely pathogenic,0
+LRRIQ4,Ala202Val,Likely benign,0
+CETP,Ser456Gly,Likely benign,0
+FBLN1,Gln141Arg,Benign,0
+SCN8A,Arg226Gly,Likely pathogenic,0
+TGM5,Val504Met,Benign,0
+NEB,Ser8223Asn,Likely benign,0
+MAGED2,Gly185Ala,Benign,0
+SPTAN1,Met1095Leu,Benign,0
+UBN2,Val142Leu,Benign,0
+KMT2B,Ser1811Phe,Likely benign,0
+GABRB3,Met162Thr,Likely pathogenic,0
+DNHD1,Arg2928Ter,Likely pathogenic,0
+ZMYM2,Met519Ile,Likely benign,0
+PDE6B,Arg542Gln,Benign,0
+ABCA4,Ser795Arg,Likely pathogenic,0
+CCDC8,Asp381Asn,Benign,0
+PTPRS,Val113Ala,Benign,0
+IL22,His81Arg,Likely benign,0
+CYP2B6,Lys139Glu,Likely benign,0
+GALNS,Val180Ala,Likely pathogenic,0
+CSF1R,Ser157Leu,Likely benign,0
+PINX1,Leu291Pro,Likely benign,0
+KIF21A,Val1111Ala,Benign,0
+BICC1,Asp900Asn,Likely benign,0
+PSEN1,Glu120Lys,Likely pathogenic,0
+DYSF,Trp1857Cys,Likely pathogenic,0
+EPG5,Ser870Cys,Likely pathogenic,0
+CAMKK2,Leu579Pro,Likely benign,0
+FAM53A,Gly251Arg,Benign,0
+RPGRIP1,Pro650Ser,Likely pathogenic,0
+ZKSCAN2,Ala321Thr,Likely benign,0
+OR4K2,Thr165Met,Likely benign,0
+GOLGA5,Asn646Ser,Likely benign,0
+KRT34,Cys268Tyr,Likely benign,0
+F8,Arg550Gly,Likely pathogenic,0
+ANKRD11,Cys209Tyr,Likely pathogenic,0
+ZFHX4,Asp307Glu,Likely benign,0
+SORBS2,Val1197Ile,Likely benign,0
+PDCD11,Arg1468Gln,Likely benign,0
+EPOR,Ala476Val,Benign,0
+CILP2,Arg350His,Likely benign,0
+AGXT,Gly47Glu,Likely pathogenic,0
+DDX60,Arg692Gln,Likely benign,0
+ALMS1,Glu768Lys,Likely benign,0
+REEP1,Ser23Pro,Likely pathogenic,0
+SETD5,Ile387Met,Likely pathogenic,0
+TP53,Ala355Thr,Likely benign,0
+PIEZO2,Ala2163Asp,Benign,0
+MOCS1,Arg343Ter,Likely pathogenic,0
+BUD13,Ala155Val,Likely benign,0
+TNK2,Ser102Leu,Likely benign,0
+CC2D1A,Thr633Met,Likely benign,0
+PTRHD1,Pro43Thr,Benign,0
+PCDHA8,Pro148Leu,Likely benign,0
+ZNF862,Val1144Ile,Likely benign,0
+NKX2-1,Val179Leu,Benign,0
+GPR101,Ter509Arg,Likely benign,0
+CPT2,Gln459Ter,Likely pathogenic,0
+FLG,Gly2387Glu,Likely benign,0
+ERRFI1,Pro239Leu,Benign,0
+CACNA1C,Val1707Ile,Likely benign,0
+EXOC3L2,Arg791Gln,Benign,0
+SOX6,Asp18Glu,Likely benign,0
+GPR143,Gly312Val,Likely pathogenic,0
+GUCA1B,Glu155Asp,Benign,0
+AUTS2,Asn458Ser,Benign,0
+SHMT2,Asn30Lys,Likely benign,0
+TBX2,Pro387Leu,Benign,0
+MIPEP,Arg62Cys,Likely benign,0
+ILDR1,Pro264Arg,Benign,0
+TMEM260,Ala245Thr,Likely pathogenic,0
+HPS6,Met1Leu,Likely pathogenic,0
+FAM186B,Thr213Met,Benign,0
+LOXL1,Ser161Leu,Benign,0
+RELN,Ser2422Arg,Likely benign,0
+ADGRV1,Asn3218Ser,Likely benign,0
+CDC25A,Gln24His,Benign,0
+ADAMTS3,Arg565Gln,Likely benign,0
+TM9SF4,Arg215Lys,Likely benign,0
+FSCB,Pro672Ser,Likely benign,0
+XPNPEP3,Arg254Ter,Likely pathogenic,0
+LIFR,Trp353Ter,Likely pathogenic,0
+ADGRG5,Val479Ile,Likely benign,0
+TTN,Gly28714Ter,Likely pathogenic,0
+GABBR2,Gly8Ala,Likely benign,0
+MYPN,Pro743Leu,Likely benign,0
+KIF5A,Leu551Val,Likely benign,0
+PKHD1,Gln2626Ter,Likely pathogenic,0
+GABRA4,Arg438His,Likely benign,0
+LNPK,Thr159Ser,Benign,0
+ATP8A2,Lys429Met,Likely pathogenic,0
+CPED1,Ile100Val,Likely benign,0
+HRG,Val186Ala,Likely benign,0
+KIF5A,His773Arg,Likely benign,0
+G6PD,Ile392Thr,Likely pathogenic,0
+SCN10A,Arg1309Lys,Likely benign,0
+SPTLC1,Ser322Ala,Likely benign,0
+ARID1B,Ala425Val,Likely benign,0
+SCN3A,Ala463Val,Likely benign,0
+PTEN,Leu316Pro,Likely pathogenic,0
+STAB1,Ala518Val,Likely benign,0
+FBN1,Gly899Glu,Likely pathogenic,0
+ASXL1,Gln339Ter,Likely pathogenic,0
+EYA1,Leu369Ter,Likely pathogenic,0
+CD52,Cys59Tyr,Likely benign,0
+TP53,Ala76Gly,Benign,0
+MMP2,Glu177Lys,Likely pathogenic,0
+HSF2BP,Lys17Glu,Likely benign,0
+GARS1,Val666Met,Likely benign,0
+EVC2,Trp1191Ter,Likely pathogenic,0
+UPP2,Met78Leu,Benign,0
+SOD1,Phe65Cys,Likely pathogenic,0
+SAT2,Thr164Met,Likely benign,0
+NFATC3,Thr837Ala,Likely benign,0
+MECR,Asn118Ser,Likely benign,0
+ACTN2,Met576Leu,Likely benign,0
+MAST2,Ala1681Val,Likely benign,0
+ARSB,Leu357Val,Likely benign,0
+HBB,Lys133Gln,Likely benign,0
+MAS1L,Ala264Val,Likely benign,0
+SLC12A7,Ala408Thr,Benign,0
+SHC4,Cys193Tyr,Likely benign,0
+BICRA,Ala442Ser,Likely benign,0
+CNTN2,Asp870Asn,Likely benign,0
+KIAA1210,Arg965Gln,Benign,0
+PLXNB3,Arg1155His,Likely benign,0
+KDR,Val297Ile,Benign,0
+POLRMT,Glu900Lys,Likely benign,0
+EHMT1,Met346Leu,Benign,0
+DDX3X,Pro40Leu,Likely pathogenic,0
+TDRD7,His202Arg,Benign,0
+MECP2,Pro415Leu,Likely benign,0
+SPTB,Lys641Ter,Likely pathogenic,0
+CDH15,Gly387Ala,Likely benign,0
+ATM,Ser2855Arg,Likely pathogenic,0
+CYP1B1,Phe261Leu,Likely pathogenic,0
+FANCM,Ser1150Ala,Likely benign,0
+ZBTB20,Gly565Ser,Benign,0
+VPS13B,Tyr2782Ter,Likely pathogenic,0
+PER1,Val1000Ala,Likely benign,0
+CD300A,Val117Ile,Likely benign,0
+FREM2,Glu993Gly,Benign,0
+HTR2C,Ala7Val,Likely benign,0
+DNAH9,Arg630Cys,Benign,0
+UBASH3A,Ile658Val,Benign,0
+EHMT1,Ala77Gly,Likely benign,0
+OTUD4,Pro819Ser,Likely benign,0
+MLLT10,Arg697His,Likely benign,0
+FHAD1,Thr1129Met,Likely benign,0
+DNAAF5,Ile590Val,Likely benign,0
+PCDHAC2,Ile383Val,Likely benign,0
+RHBDL3,Gly185Asp,Likely benign,0
+TRMT1,Thr240Pro,Likely benign,0
+FLNB,Arg2197Trp,Likely benign,0
+MUC4,Ala4089Val,Likely benign,0
+CACNA1S,Asp959Asn,Likely benign,0
+PFAS,Glu434Lys,Benign,0
+PPT1,Trp186Ter,Likely pathogenic,0
+HNRNPU,Ala195Thr,Likely benign,0
+PURA,Leu168Pro,Likely pathogenic,0
+REV1,Ser882Pro,Likely benign,0
+NF1,Cys1016Trp,Likely pathogenic,0
+AIFM1,Thr470Ser,Likely pathogenic,0
+HSD17B4,Gln501Ter,Likely pathogenic,0
+MPZ,Trp183Ter,Likely pathogenic,0
+MUC5B,Pro1472Leu,Benign,0
+FLT4,Pro954Ser,Benign,0
+ALDH3A2,Met1Val,Likely pathogenic,0
+SCN8A,Ile1627Leu,Likely pathogenic,0
+KCNH5,Val752Met,Benign,0
+SCN1A,Ile122Met,Likely pathogenic,0
+SPTBN5,Arg2111Gln,Likely benign,0
+GAA,Gly643Trp,Likely pathogenic,0
+TMEM86A,Phe185Leu,Likely benign,0
+BPIFB2,Ser170Arg,Likely benign,0
+GJB1,Leu81Val,Likely pathogenic,0
+CLCN4,Gly467Ser,Likely pathogenic,0
+EIF2B2,Gln277Ter,Likely pathogenic,0
+TONSL,Ala462Asp,Likely benign,0
+CYBB,Pro415Arg,Likely pathogenic,0
+KPNA3,Thr315Ile,Likely pathogenic,0
+ITIH4,Trp793Arg,Likely benign,0
+VNN1,Ile373Thr,Benign,0
+ACSM2B,Ile305Val,Benign,0
+FLNB,Ala1286Val,Benign,0
+APP,Thr276Ser,Benign,0
+SAMD9,Asp805Gly,Likely pathogenic,0
+TBX18,Asp280Asn,Likely benign,0
+TAF7L,Tyr43Cys,Likely benign,0
+PCNT,Met2100Val,Likely benign,0
+L1CAM,Arg311Cys,Likely benign,0
+ZIC1,Leu101Met,Likely pathogenic,0
+XPNPEP3,Arg254Ter,Likely pathogenic,0
+GREB1L,Val32Ile,Likely benign,0
+CNGA2,Asn15Thr,Benign,0
+RBM41,Arg415Gln,Likely benign,0
+DSP,Gln380Ter,Likely pathogenic,0
+CIP2A,Pro326Ser,Likely benign,0
+CYP26C1,Gly177Arg,Likely benign,0
+NPC1,Ile685Thr,Likely pathogenic,0
+AR,Arg630Trp,Likely pathogenic,0
+TUT1,Glu462Asp,Likely benign,0
+ADAM32,Val29Ile,Likely benign,0
+MYH10,Ala1757Val,Likely benign,0
+ACOT12,Thr554Ile,Likely benign,0
+CIAPIN1,Met210Val,Likely benign,0
+CAPS2,Val105Ile,Likely benign,0
+PXDNL,Leu1118Val,Likely benign,0
+PRR12,Pro226Ser,Likely benign,0
+PANK4,Ala547Val,Benign,0
+ADAMTS12,Ala136Gly,Likely benign,0
+FYCO1,Gly321Ala,Benign,0
+MAP3K1,Met857Ile,Likely benign,0
+TMPRSS6,Thr331Met,Likely benign,0
+ABCA12,Met1238Ile,Likely benign,0
+ALMS1,Arg144Gln,Likely benign,0
+KRT3,Glu433Lys,Benign,0
+SEMA4F,Val79Ile,Likely benign,0
+DNAH11,Arg4158Gln,Likely benign,0
+CACNA1H,Asp1227Asn,Benign,0
+ATOH1,Gly270Arg,Benign,0
+COL6A3,Gln1542Ter,Likely pathogenic,0
+AP1S3,Leu79Val,Benign,0
+CHD6,Ala151Thr,Benign,0
+TPRKB,Tyr149Asn,Likely pathogenic,0
+DNAAF1;TAF1C,Leu549Met,Benign,0
+BBS1;ZDHHC24,Arg359Pro,Likely pathogenic,0
+GPI,Gln28Ter,Likely pathogenic,0
+CFAP44,Met820Val,Benign,0
+DYNC2H1,Arg3860Ter,Likely pathogenic,0
+CAND2,Ser32Leu,Likely benign,0
+FLG,Arg484Trp,Likely benign,0
+SACS,Ile2752Leu,Likely benign,0
+HEPACAM,Arg16Cys,Likely benign,0
+MYH14,Gly681Arg,Benign,0
+ARV1,Gly101Glu,Benign,0
+CLIP1,Arg1062Gln,Likely benign,0
+SPATA31A6,Arg997Thr,Likely benign,0
+GSC2,Ala51Thr,Likely benign,0
+MTOR,Ala1134Val,Benign,0
+CCAR2,Ile510Met,Likely benign,0
+SETX,Arg2308Gly,Likely benign,0
+TTN,Thr6259Ala,Likely benign,0
+TTC7A,Arg753Gln,Likely benign,0
+ZNF557,Val5Ile,Likely benign,0
+URB1,Arg2186Gln,Likely benign,0
+RTEL1,Ala891Thr,Likely benign,0
+NIPBL,Lys1732Arg,Likely benign,0
+TMEM132E,Val476Ile,Benign,0
+ZNF99,Met863Ile,Likely benign,0
+DNAH5,Met1214Val,Likely benign,0
+MFN2,Arg707Pro,Likely pathogenic,0
+ADAMTSL4,Ile692Thr,Likely benign,0
+SCAND1,Val81Leu,Likely benign,0
+GLDC,Gln455Ter,Likely pathogenic,0
+KMT2D,Pro813Leu,Benign,0
+ADGRV1,Asp2019Gly,Likely benign,0
+LCA5,Arg48Gly,Likely benign,0
+GNE,Gly135Val,Likely pathogenic,0
+COL4A4,Gly1264Val,Likely pathogenic,0
+KCNK4,Pro392Thr,Benign,0
+ACADVL,Arg456His,Likely pathogenic,0
+MAMLD1,Gln424Arg,Likely benign,0
+CPS1,Met792Thr,Likely pathogenic,0
+PHEX,Arg205Cys,Likely benign,0
+FAM163A,Gly39Arg,Likely benign,0
+SCNN1B,Gly442Ser,Likely benign,0
+THBD,Cys537Ter,Likely pathogenic,0
+MYRF,Gln596Ter,Likely pathogenic,0
+GRSF1,Ala342Thr,Likely benign,0
+ADGRG1,Val369Ile,Likely benign,0
+APOBEC1,Val25Ile,Likely benign,0
+PRR35,Arg106Gln,Likely benign,0
+GDF5,Pro166His,Benign,0
+KL,Gly205Asp,Likely benign,0
+TNFRSF10B,Glu177Lys,Likely benign,0
+MUC16,Thr11284Ser,Likely benign,0
+PIGG,Gly603Ser,Likely benign,0
+AHNAK2,Ile2093Val,Likely benign,0
+MYOC,Ser341Pro,Likely pathogenic,0
+OR8I2,Gly193Ser,Likely benign,0
+SHROOM4,Thr543Ser,Benign,0
+MTHFD1,Leu51Pro,Likely pathogenic,0
+ATG2A,Val1390Ile,Likely benign,0
+DHX57,Phe952Leu,Likely benign,0
+CCDC88C,Glu205Ter,Likely pathogenic,0
+CARS1,Ala151Thr,Likely pathogenic,0
+CFH,Cys431Tyr,Likely pathogenic,0
+MRPS5,Arg65His,Likely benign,0
+COL5A2,Arg1294His,Likely benign,0
+CYP7B1,Arg388Gly,Likely pathogenic,0
+FGFR1,Pro366Ser,Likely benign,0
+ASCC1,Asp34Asn,Benign,0
+EHMT1,Ala6Val,Likely benign,0
+CDH1,Glu388Lys,Benign,0
+POLG,Gly11Ser,Likely benign,0
+NACC1,Thr393Met,Likely benign,0
+ANHX,Arg104His,Likely benign,0
+ADCY5,Lys691Met,Likely pathogenic,0
+KCNQ1,Tyr315Phe,Likely pathogenic,0
+BAZ2B,Glu1741Ter,Likely benign,0
+SRCAP,Met3085Val,Likely benign,0
+LDLR,Asp170Glu,Likely pathogenic,0
+MFSD2A,Val127Ile,Likely benign,0
+MYOM2,Asn208Ser,Likely benign,0
+PDGFRB,Val35Ile,Likely benign,0
+IQCN,Asn852Ser,Likely benign,0
+STK33,Ser274Gly,Likely benign,0
+SHH,Ser291Ala,Likely benign,0
+LRBA,Lys2607Gln,Likely benign,0
+CMYA5,Gly2685Cys,Benign,0
+BRCA1,Asp825Val,Likely benign,0
+INCENP,Pro378Ser,Likely benign,0
+PLXNA3,Ala579Val,Likely benign,0
+NRG4,Val37Ile,Benign,0
+PKHD1,Ser228Gly,Likely pathogenic,0
+SDR39U1,Gly80Ser,Likely benign,0
+MYH15,Ser552Leu,Benign,0
+DNAJB2,Glu253Lys,Likely pathogenic,0
+WT1,Gly175Cys,Likely pathogenic,0
+PLD1,Tyr894Ser,Likely pathogenic,0
+SHANK2,Ile850Leu,Likely benign,0
+GRIN2B,Ile171Val,Benign,0
+ADGRV1,Met1318Val,Benign,0
+WDR19,Gln339Ter,Likely pathogenic,0
+MUC16,Glu12510Lys,Benign,0
+CENPF,Asp1978Gly,Benign,0
+CASS4,Ser276Gly,Likely benign,0
+APOB,Pro3865Leu,Likely benign,0
+ERCC2,Ala725Thr,Likely pathogenic,0
+CACNA1G,Arg2322Trp,Likely benign,0
+CHRNA4,Gly570Arg,Likely benign,0
+ITGAX,Ile628Thr,Likely benign,0
+MYH7B,Glu938Ter,Likely pathogenic,0
+AXL,Ala262Thr,Benign,0
+CCDC63,Arg387Lys,Likely benign,0
+CDHR2,Ile849Val,Likely benign,0
+MED15,Val780Ile,Likely benign,0
+TBX15,His156Asn,Benign,0
+AUTS2,Arg521Gln,Benign,0
+CLN8,Gln76Arg,Likely pathogenic,0
+NFASC,Thr1099Asn,Likely benign,0
+HS6ST2,Pro618Leu,Likely benign,0
+CES5A,Glu211Lys,Likely benign,0
+NFATC1,Gly891Arg,Likely benign,0
+PIGZ,Arg360Trp,Likely benign,0
+IL9R,Gly331Arg,Benign,0
+CACNA1H,Phe1283Leu,Likely benign,0
+ZNF608,Pro68Leu,Likely benign,0
+TMEM89,Arg91Cys,Likely benign,0
+GBA2,Ala453Glu,Benign,0
+NLRC3,Gly39Ser,Likely benign,0
+CENPF,His2682Gln,Likely benign,0
+ZNF419,Asn263Asp,Likely benign,0
+KCNN3,Glu29Gln,Likely benign,0
+HCN1,Ser833Gly,Likely benign,0
+LAMA1,Arg222Ter,Likely pathogenic,0
+LONRF2,Ala131Thr,Likely benign,0
+DYNLT2,Ala23Pro,Likely benign,0
+ABCA4,Asp507Gly,Likely pathogenic,0
+ITIH4,Met714Ile,Benign,0
+SCN8A,Ala1650Pro,Likely pathogenic,0
+LAMP2,Thr262Ile,Likely benign,0
+CHSY1,Pro359Ser,Benign,0
+PLP1,Ile47Thr,Likely pathogenic,0
+MAP3K20,Thr340Met,Likely benign,0
+MN1,Gly19Asp,Likely benign,0
+APOL4,Val13Met,Likely benign,0
+RARS2,Glu159Ter,Likely pathogenic,0
+ZNF646,Ser1448Gly,Likely benign,0
+BCL9L,Met646Val,Benign,0
+FRMPD4,Val1235Met,Likely benign,0
+RAI1,Asp777Glu,Benign,0
+OR51A7,Val84Ile,Likely benign,0
+COL4A3,Gly631Ala,Likely pathogenic,0
+AXL,Leu50Phe,Likely benign,0
+DNAH11,Gly2855Arg,Likely pathogenic,0
+RP1L1,Pro476Leu,Likely benign,0
+BRCA1,Val35Ala,Likely pathogenic,0
+COL3A1,Gly198Glu,Likely pathogenic,0
+KIF1A,Arg1304Ter,Likely pathogenic,0
+SPICE1,Arg598His,Likely benign,0
+LAMA2,Gln1892Ter,Likely pathogenic,0
+WDFY4,Val3108Ala,Benign,0
+PTPRN2,Ser247Gly,Benign,0
+UNC5B,Val739Met,Likely benign,0
+COL2A1,Gly204Asp,Likely pathogenic,0
+CFH,Glu19Ter,Likely pathogenic,0
+BMPR2,Arg886His,Benign,0
+TTN,Tyr24943Ter,Likely pathogenic,0
+RNF13,Lys224Glu,Benign,0
+OSBPL5,Glu753Lys,Likely benign,0
+ALK,Val476Ala,Benign,0
+TRRAP,Arg616His,Likely benign,0
+ATXN3L,Val208Ile,Likely benign,0
+CFHR2,Ser166Pro,Likely benign,0
+SPRR2F,Ser44Pro,Likely benign,0
+ZNF844,Glu305Gly,Likely benign,0
+TTN,His21326Arg,Likely benign,0
+ADCK2,Arg378Gln,Likely benign,0
+MYH7,Ala355Ser,Likely pathogenic,0
+LDLR,Cys392Ser,Likely pathogenic,0
+MIPEP,Arg264Ter,Likely pathogenic,0
+COL14A1,Lys1136Arg,Benign,0
+ZNF518A,Val467Ile,Likely benign,0
+DSCAM,Ile1234Met,Likely benign,0
+AQP4,Ile193Thr,Likely benign,0
+CACNA1A,Arg1345Leu,Likely pathogenic,0
+AJUBA,Gly190Ala,Likely benign,0
+FANCB,Arg613His,Likely benign,0
+BRIP1,Ala977Glu,Likely benign,0
+STAG3,Asn1001Ser,Likely benign,0
+USF3,Ser765Asn,Likely benign,0
+MSLN,Arg309His,Benign,0
+TRIM38,Ser21Asn,Likely benign,0
+POLQ,His225Tyr,Benign,0
+HSPG2,Asn233Ser,Benign,0
+PLA2G6,Asn659Ser,Likely pathogenic,0
+MSH2,Arg359Gly,Likely pathogenic,0
+ALDH3A2,Leu208Pro,Likely pathogenic,0
+PLCE1,Gly222Arg,Benign,0
+MMP11,Ala53Glu,Likely benign,0
+FECH,Arg35Lys,Likely benign,0
+CHD4,Ser1537Phe,Benign,0
+GTF2E1,Ala348Thr,Likely benign,0
+ISCA2,Ser39Ter,Likely pathogenic,0
+FANCD2,Lys378Ter,Likely pathogenic,0
+TICAM2,Ser64Asn,Benign,0
+CHRNA4,Thr217Ala,Likely benign,0
+DNAH14,Val2124Ile,Likely benign,0
+SRCAP,Ser2495Cys,Likely benign,0
+CEP76,Gly203Arg,Benign,0
+DOT1L,Val467Ala,Likely benign,0
+STAU2,Gly347Val,Benign,0
+MRGPRX2,Phe317Leu,Likely benign,0
+PTGIR,Ala152Ser,Likely benign,0
+DNAH11,Arg1013Gly,Likely benign,0
+SHROOM3,Pro1398Ser,Likely benign,0
+ZMYND8,Ser560Phe,Likely benign,0
+CHD3,Gly961Glu,Likely pathogenic,0
+OXA1L,Ala112Thr,Likely benign,0
+FREM2,Ile2656Phe,Likely benign,0
+TRPV5,Ala561Thr,Likely benign,0
+SPAG5,Arg723Gln,Likely benign,0
+PCDHB8,Gly759Val,Benign,0
+TSC2,Ile912Thr,Likely pathogenic,0
+SHISA7,Thr272Pro,Likely benign,0
+RAI1,Pro165Thr,Benign,0
+SOX6,Ile220Phe,Benign,0
+CHD7,Ile420Met,Likely benign,0
+SCN2A,Ser987Asn,Likely pathogenic,0
+ASNSD1,Val401Phe,Likely benign,0
+CLCN1,Thr550Ala,Likely pathogenic,0
+ITLN2,Val77Ile,Likely benign,0
+MRPS18B,Met15Val,Likely benign,0
+F8,Glu1770Lys,Likely pathogenic,0
+DES,Leu274His,Likely pathogenic,0
+MAST1,Leu1482Val,Likely benign,0
+MMP8,Val60Ile,Benign,0
+MPDZ,Ser92Leu,Benign,0
+GABBR2,Ala402Thr,Likely benign,0
+SPTBN1,Glu491Gln,Likely pathogenic,0
+HPRT1,Glu47Val,Likely pathogenic,0
+ZCCHC2,Ala25Ser,Likely benign,0
+PKD1L3,Arg719Trp,Likely benign,0
+HPRT1,Gly71Arg,Likely pathogenic,0
+COL2A1,Gly630Ser,Likely pathogenic,0
+BPGM,Arg227His,Likely benign,0
+PLG,Val342Met,Likely benign,0
+CSH2,Ter218Gln,Benign,0
+EPS8,Arg232Ter,Likely pathogenic,0
+MMP21,Ser186Ile,Likely pathogenic,0
+NSD1,Ser1086Gly,Likely benign,0
+CYP2E1,Val396Leu,Likely benign,0
+ZNF154,Lys411Arg,Likely benign,0
+MYH14,Asp191Tyr,Likely pathogenic,0
+GLA,Gly138Val,Likely pathogenic,0
+BCL2L13,Ser429Gly,Likely benign,0
+ABCA2,Gln1370Ter,Likely pathogenic,0
+CEP290,Thr1512Ala,Likely benign,0
+PKHD1,Trp3784Ter,Likely pathogenic,0
+PRKAG3,Ser336Phe,Likely benign,0
+TUBB2B,Arg241His,Likely pathogenic,0
+PROC,Trp414Ter,Likely pathogenic,0
+COL2A1,Gly1305Ser,Likely pathogenic,0
+ANKRD65,Arg19Gln,Likely benign,0
+TNXB,Pro2412Leu,Benign,0
+LY9,Arg275Gln,Likely benign,0
+NPC1,Ala1151Ser,Likely pathogenic,0
+GANAB,Tyr477His,Likely pathogenic,0
+MCCC2,Thr139Ile,Likely pathogenic,0
+PAH,Asp151Gly,Likely pathogenic,0
+ABCA3,Pro138Thr,Likely benign,0
+AR,Arg856Pro,Likely pathogenic,0
+HOXB7,Tyr78Cys,Likely benign,0
+NIPBL,Tyr2430His,Likely pathogenic,0
+TMEM109,Ala118Thr,Likely benign,0
+DUOX1,Leu1178Phe,Benign,0
+PLA2G3,Met484Val,Likely benign,0
+SENP7,Arg153His,Likely benign,0
+TRIO,Gln573Ter,Likely pathogenic,0
+ASL,Gln127Ter,Likely pathogenic,0
+CEBPA,Gln311Pro,Likely pathogenic,0
+NEB,Ser5649Ter,Likely pathogenic,0
+WDR90,Ala501Val,Likely benign,0
+LGI1,Arg474Gln,Likely pathogenic,0
+BRICD5,Ala90Val,Likely benign,0
+ABCF1,Val320Ile,Likely benign,0
+DNAH11,Val1452Ala,Benign,0
+INTS1,Ala453Ser,Likely benign,0
+OPA1,Ile458Thr,Likely pathogenic,0
+NLGN4X,Gly182Ser,Likely benign,0
+ATAD5,Thr1521Ile,Likely benign,0
+GATB,Arg88His,Likely benign,0
+CHD7,Ala1887Gly,Likely benign,0
+MYH9,Met318Val,Likely benign,0
+COL4A2,Gly1191Arg,Likely pathogenic,0
+EP300,Ser1537Arg,Likely benign,0
+COL5A1,Ile461Met,Benign,0
+FIGLA,Arg83His,Likely benign,0
+IGHMBP2,Asp565Gly,Likely pathogenic,0
+ALPL,Val423Met,Likely pathogenic,0
+FLVCR2,Ala481Thr,Benign,0
+GRIN2A,Ala548Gly,Likely pathogenic,0
+DNAH12,Glu2022Gln,Likely benign,0
+NTN4,Thr512Ile,Likely benign,0
+POMGNT1,Arg265Pro,Likely pathogenic,0
+ZNF263,His259Gln,Likely benign,0
+ARG1,Leu318Pro,Likely benign,0
+RP1L1,Gly2115Asp,Benign,0
+ZNF469,Pro1334Ala,Likely benign,0
+SLC17A5,Glu262Asp,Likely pathogenic,0
+FAH,Gly404Arg,Likely pathogenic,0
+ATP13A2,Trp583Ter,Likely pathogenic,0
+POLRMT,Leu338Pro,Likely benign,0
+GPA33,Ile71Thr,Likely benign,0
+LRMDA,Arg184His,Likely benign,0
+MTOR,Thr139Ala,Likely benign,0
+CPA4,Ala144Val,Likely benign,0
+TFR2,Tyr197Cys,Likely benign,0
+COL7A1,Ala1313Thr,Likely benign,0
+MYT1,Arg359Gln,Likely benign,0
+SMARCA2,Lys801Glu,Likely benign,0
+LRRIQ1,Tyr690Cys,Likely benign,0
+PLXND1,Arg1214Gln,Benign,0
+EIF2AK3,Ser217Ter,Likely pathogenic,0
+FNIP1,Arg152Gly,Likely pathogenic,0
+CLEC2A,Lys21Asn,Likely benign,0
+PIWIL3,Pro186Leu,Benign,0
+KIF1A,Asn1546Ser,Likely benign,0
+MEN1,Met278Arg,Likely pathogenic,0
+AKNA,Arg600Gln,Likely benign,0
+STXBP1,Lys24Glu,Likely benign,0
+MFSD8,Arg139Leu,Likely pathogenic,0
+UHMK1,Pro405Leu,Likely pathogenic,0
+UBN1,Ala832Pro,Benign,0
+CREB3L3,Glu387Lys,Likely benign,0
+TFB2M,Gln368Glu,Likely benign,0
+AGER,Arg369Gln,Benign,0
+FRY,Arg2922Gln,Likely benign,0
+SLC15A4,Ile391Val,Likely benign,0
+UNC13B,Ile3506Phe,Likely benign,0
+KIF20B,Val1212Ile,Likely benign,0
+BBS10,Thr203Ala,Likely benign,0
+DNAH11,Ser4246Cys,Likely benign,0
+SCN9A,Asn478Tyr,Likely benign,0
+MYO7A,Leu281Ter,Likely pathogenic,0
+ANO8,Glu591Asp,Likely benign,0
+SERPINA1,His67Gln,Likely benign,0
+CLCN4,Gly545Asp,Likely pathogenic,0
+CHST5,Ile246Thr,Likely benign,0
+TNFRSF11B,Asn3Lys,Benign,0
+PLCD1,Arg416Gln,Likely benign,0
+SCN8A,Val216Gly,Likely pathogenic,0
+ECSIT,Gly22Arg,Likely benign,0
+USP49,Gly334Ser,Likely benign,0
+DDX4,Thr192Ala,Likely benign,0
+NECAB3,Arg317Cys,Likely benign,0
+CNNM4,Leu316Arg,Likely pathogenic,0
+KANK4,Gly671Arg,Likely benign,0
+KAT6B,Pro208Ser,Likely benign,0
+FSIP2,Ser5694Phe,Benign,0
+CACNA1B,Thr1076Ala,Likely benign,0
+MED13L,Glu332Gly,Likely pathogenic,0
+COL27A1,Pro1360Leu,Likely benign,0
+MYO19,Ile551Val,Likely benign,0
+SYNGAP1,Ala399Thr,Benign,0
+CDH18,Arg530His,Likely benign,0
+ALPP,Ser192Trp,Likely benign,0
+SULT2B1,Pro305Leu,Likely benign,0
+ARSB,Leu132Pro,Likely pathogenic,0
+SERPINA3,Gly48Arg,Likely benign,0
+IGSF1,Arg200His,Likely benign,0
+RESF1,Gln193Arg,Likely benign,0
+BOP1,Asp78Asn,Likely benign,0
+STAG1,Gln214Arg,Likely pathogenic,0
+FBN1,Cys515Gly,Likely pathogenic,0
+KANSL1,Met141Val,Likely benign,0
+PRAMEF4,Arg195His,Likely benign,0
+ASXL2,Asn113Lys,Likely benign,0
+SETX,Asn1119Asp,Benign,0
+CRB2,Arg628His,Likely benign,0
+F8,Lys249Ter,Likely pathogenic,0
+ITGB3,Ser411Phe,Likely benign,0
+KIF16B,His1022Arg,Benign,0
+DCBLD2,Phe45Ser,Likely benign,0
+IL4R,Ala82Thr,Benign,0
+CHD3,Asp1120Val,Likely pathogenic,0
+GNA11,Arg183His,Likely pathogenic,0
+KDM5B,Trp39Ter,Likely pathogenic,0
+ASXL1,Gln1142Ter,Likely pathogenic,0
+MIB2,Arg655Gln,Likely benign,0
+RNF213,Thr1661Met,Benign,0
+SHH,Leu271Pro,Likely pathogenic,0
+KCNB1,Pro734Arg,Likely benign,0
+LRP1B,Arg2165Gln,Likely benign,0
+SETD5,Asp339Tyr,Likely pathogenic,0
+MTMR2,Lys3Thr,Benign,0
+GJB5,Met225Thr,Likely benign,0
+CFAP251,Asp216Asn,Likely benign,0
+AMER1,Arg492Met,Likely benign,0
+HEPH,Asp568His,Likely benign,0
+TCF19,Arg186Gln,Benign,0
+FOXG1,Pro110Gln,Benign,0
+DSP,Asp1046Val,Likely benign,0
+SLC28A1,Ser546Pro,Benign,0
+SGCD,Gly76Cys,Benign,0
+DCST1,Arg225His,Likely benign,0
+PHIP,Gly464Arg,Likely pathogenic,0
+DCC,Asn678Ser,Likely benign,0
+CACNA1G,Ala514Val,Likely benign,0
+L1CAM,Arg990Cys,Benign,0
+KCNK4,Thr186Met,Likely benign,0
+KMT2B,His127Tyr,Benign,0
+DPP9,Arg828Cys,Likely pathogenic,0
+B3GALNT2,Leu260Ter,Likely pathogenic,0
+LDLRAD3,Asp289Tyr,Benign,0
+TBL1XR1,Gly237Asp,Likely pathogenic,0
+PLEC,Glu3165Lys,Likely benign,0
+ATP7A,Asp384Gly,Likely benign,0
+SPEF2,Met1023Ile,Likely benign,0
+IMPDH1,Tyr433Ter,Likely pathogenic,0
+ZMYM6,Asp28His,Likely benign,0
+SETD2,Pro2222Ser,Benign,0
+ZW10,Thr314Ala,Likely benign,0
+SPTBN2,Arg387Cys,Likely benign,0
+CCDC116,Asp287Asn,Likely benign,0
+RBFOX1,Leu27Val,Likely pathogenic,0
+GNB1,Ala26Thr,Benign,0
+NIBAN3,Arg354Ser,Likely benign,0
+WWP1,Gly546Ser,Likely benign,0
+KRTAP10-9,Val247Ile,Likely benign,0
+GARNL3,Pro521Ser,Likely benign,0
+CGB1,Gly154Glu,Likely benign,0
+PKHD1,Val1875Gly,Likely pathogenic,0
+KMT2D,Thr4022Met,Benign,0
+FBN1,Cys1971Phe,Likely pathogenic,0
+CDH23,Gln2731Ter,Likely pathogenic,0
+COL6A3,Ser2346Leu,Likely benign,0
+NUP188,Arg1129His,Likely benign,0
+FBN2,Thr513Ala,Likely benign,0
+ACAN,Leu1509Phe,Likely benign,0
+LIG3,Arg151Gln,Likely benign,0
+ANOS1,Trp332Cys,Likely benign,0
+SYNE1,Asp7915Asn,Benign,0
+ACAP3,Thr395Ser,Likely benign,0
+FMN1,Pro856Ser,Likely benign,0
+LRRIQ4,Arg174Gln,Likely benign,0
+EBP,His76Tyr,Likely pathogenic,0
+MFAP5,Arg114Gln,Likely benign,0
+FGF3,Lys101Asn,Benign,0
+KMT2B,Val780Leu,Likely benign,0
+SCNN1B,Gln352Ter,Likely pathogenic,0
+TTN,Arg27176His,Likely benign,0
+ITGAE,Arg383Gln,Likely benign,0
+ARID1B,Val964Met,Likely benign,0
+TTN,Leu23065Ser,Likely benign,0
+DCHS2,Arg3044Trp,Likely benign,0
+SEC16B,Arg248Gln,Likely benign,0
+ITIH1,Ala31Pro,Likely benign,0
+DHRS1,Cys188Tyr,Likely benign,0
+GNAO1,Asp273Gly,Likely pathogenic,0
+COL5A1,Lys1410Asn,Likely pathogenic,0
+ZFHX4,Asp307Glu,Likely benign,0
+KLHL3,Arg431Trp,Likely pathogenic,0
+RP2,Asn320Ser,Benign,0
+KRT14,Ala247Thr,Benign,0
+ABHD12B,Val307Leu,Likely benign,0
+ATP5MGL,Thr85Met,Likely benign,0
+SIGLEC5,Gln214His,Likely benign,0
+ANKRD11,Pro1523Leu,Likely benign,0
+COL4A4,Gly1233Ala,Likely pathogenic,0
+ODC1,Arg369Cys,Benign,0
+FAM53B,Val218Met,Likely benign,0
+SH2B1,Pro379Leu,Likely benign,0
+RPGRIP1,Ala101Thr,Likely benign,0
+ADGRV1,Asp2064Val,Likely benign,0
+GRIN2B,Leu124Val,Benign,0
+DNAH11,Gln1300Glu,Benign,0
+FKTN,Phe247Leu,Likely pathogenic,0
+LAIR2,Pro41Leu,Likely benign,0
+TCF4,Met450Val,Likely benign,0
+AMER1,Ala264Thr,Benign,0
+BRCA2,Lys1343Arg,Likely benign,0
+ANXA9,Arg208Gln,Likely benign,0
+HSPG2,Val178Ile,Likely benign,0
+BRCA1,Ile1766Thr,Likely pathogenic,0
+LRRK1,Leu736Val,Likely benign,0
+SCN1A,Glu1143Asp,Likely pathogenic,0
+DNAH11,Glu34Val,Benign,0
+ESS2,Arg173Lys,Likely benign,0
+ESRP2,Arg520Ter,Likely pathogenic,0
+NEXMIF,Asp1307Asn,Benign,0
+CSF1R,Val661Ile,Likely benign,0
+TTN,Glu10297Ter,Likely pathogenic,0
+CACNA1F,Pro1445His,Likely benign,0
+FANCI,Leu544Pro,Likely pathogenic,0
+TMEM127,Leu80Pro,Likely pathogenic,0
+USF3,Val196Ile,Likely benign,0
+MYO5B,Ile550Phe,Likely pathogenic,0
+ITSN1,Asp584Gly,Likely benign,0
+ACTN2,Ile591Met,Likely benign,0
+TNXB,Asp336Glu,Likely benign,0
+SLC24A1,Thr118Arg,Likely benign,0
+TRERF1,Ile1062Val,Likely benign,0
+ZNF600,Val715Leu,Likely benign,0
+AMBN,Gly78Val,Benign,0
+TTN,Gln15487Ter,Likely pathogenic,0
+HNRNPA1,Gly369Asp,Likely benign,0
+LCP2,Ser410Cys,Benign,0
+PGM1,Arg503Gln,Likely pathogenic,0
+OPA1,Thr517Pro,Likely pathogenic,0
+COL4A5,Gly914Ala,Likely pathogenic,0
+USP17L2,Val500Met,Likely benign,0
+ELK4,Thr247Ala,Likely benign,0
+ACCSL,Ser426Gly,Likely benign,0
+EYA4,Trp374Ter,Likely pathogenic,0
+SLC30A2,Leu23Pro,Benign,0
+IGFN1,Ser574Arg,Likely benign,0
+PC,Arg942His,Likely benign,0
+COL4A4,Gly137Val,Likely pathogenic,0
+USP26,Thr659Met,Likely benign,0
+PPT1,Gly118Asp,Likely pathogenic,0
+BRCA2,Lys1690Asn,Benign,0
+NCKAP5,Ala1575Val,Likely benign,0
+CYP11B1,Leu299Gln,Likely pathogenic,0
+XIRP2,Gly154Glu,Likely benign,0
+PPP1R12A,Arg333Cys,Benign,0
+LMTK2,Ser910Ile,Benign,0
+NFASC,Ile566Val,Benign,0
+CCDC57,Arg203Gln,Likely benign,0
+ROBO3,Met253Val,Likely benign,0
+CACNA1E,Arg946Cys,Likely benign,0
+CUBN,Arg2317Ter,Likely pathogenic,0
+ARID1B,Gly559Ala,Likely benign,0
+FLNB,Met2293Leu,Likely benign,0
+ATP2B4,Glu1116Lys,Likely benign,0
+CDH1,Asp433Gly,Benign,0
+IL2RG,Glu171Gln,Benign,0
+ARID2,Glu98Lys,Benign,0
+GEN1,Glu861Gly,Likely benign,0
+IL2RG,Trp240Arg,Likely pathogenic,0
+LY75,Asp520Tyr,Benign,0
+PAX5,Ala308Val,Benign,0
+PKD1,Leu2993Pro,Likely pathogenic,0
+RAD51B,Met55Val,Likely benign,0
+TOPAZ1,Tyr496Cys,Likely benign,0
+KRT74,Arg159Cys,Benign,0
+ZNF486,Tyr210Ter,Likely benign,0
+NRM,Arg47His,Likely benign,0
+TGM1,Asn572Thr,Likely benign,0
+ADNP,Ile127Val,Likely benign,0
+NIBAN2,Ala105Val,Likely benign,0
+IL22RA2,Ala225Val,Likely benign,0
+PLEKHG3,Val604Ile,Benign,0
+CEP250,Ala334Val,Likely benign,0
+DMXL1,Lys1434Asn,Likely benign,0
+FSHR,Ala575Val,Likely pathogenic,0
+HMBS,Glu80Gly,Likely pathogenic,0
+SASH1,Ser387Phe,Benign,0
+WNK2,Arg2184Cys,Likely benign,0
+TRPM2,Val385Met,Benign,0
+PCDHA8,Glu567Ala,Likely benign,0
+COL12A1,Val1655Met,Likely benign,0
+PAM16,Gln114Lys,Benign,0
+LRP1,Gly2962Ser,Likely benign,0
+CHD1,Thr577Met,Likely benign,0
+HIVEP1,Ala85Thr,Likely benign,0
+TINF2,Pro283Leu,Likely pathogenic,0
+DMRT1,Ser45Thr,Benign,0
+SCN1A,Asn299Asp,Likely benign,0
+SPTAN1,Met2450Ile,Likely benign,0
+P4HB,Arg345Gly,Benign,0
+BARX2,Ser273Leu,Likely benign,0
+ADGRV1,Gln3400Ter,Likely pathogenic,0
+PRMT6,Ala194Val,Benign,0
+ARID1A,Pro208Ser,Benign,0
+MICAL1,Val863Ala,Benign,0
+MYO10,Ile31Val,Likely benign,0
+SEC31A,Thr303Lys,Likely benign,0
+EP400,Leu1169Phe,Likely benign,0
+CHD4,Asn26Ile,Likely benign,0
+SMARCA2,Leu476Val,Likely benign,0
+ARID2,Ile943Ser,Likely pathogenic,0
+IDS,Glu125Val,Likely pathogenic,0
+SETBP1,Tyr994Ter,Likely pathogenic,0
+FBN2,Cys1027Arg,Likely pathogenic,0
+SGCG,Asn287Thr,Likely benign,0
+NIN,Arg1999Cys,Likely benign,0
+FANCA,Gln1128Ter,Likely pathogenic,0
+TCF20,Thr1762Ala,Likely benign,0
+DNAH11,Ala4315Thr,Benign,0
+ACTG1,Met283Thr,Likely pathogenic,0
+PSMB4,Met1Thr,Likely benign,0
+PPFIA2,Lys310Arg,Likely benign,0
+TSHB,Cys105Ter,Likely pathogenic,0
+AKNA,Thr488Met,Likely benign,0
+SPN,Ala240Thr,Likely benign,0
+ZBTB21,Asn187Ser,Likely benign,0
+WNK3,Arg929His,Likely benign,0
+PTCH2,Gln245His,Likely benign,0
+CSF1R,Gly591Glu,Likely pathogenic,0
+ZAN,Arg339Gln,Likely benign,0
+XKR5,Thr146Ala,Likely benign,0
+ERI2,Leu450Ser,Likely benign,0
+FLG,Arg3379Thr,Likely benign,0

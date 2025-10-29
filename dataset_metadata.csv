@@ -1,0 +1,21 @@
+Gene,UniProtID,Mutation,Label,Description
+TP53,P04637,p.R175H,1,Pathogenic - common cancer mutation
+TP53,P04637,p.R248W,1,Pathogenic - DNA binding loss
+TP53,P04637,p.R273H,1,Pathogenic - hotspot mutation
+TP53,P04637,p.R282W,1,Pathogenic - loss of function
+TP53,P04637,p.P72R,0,Benign - common polymorphism
+TP53,P04637,p.P47S,0,Benign - neutral variant
+HBB,P68871,p.V2M,0,Benign - normal variant
+CFTR,P13569,p.G542X,1,Pathogenic - CF mutation
+CFTR,P13569,p.R117H,0,Benign - mild variant
+BRCA1,P38398,p.C61G,1,Pathogenic - cancer predisposition
+BRCA1,P38398,p.P871L,0,Benign - neutral
+BRCA1,P38398,p.K1183R,0,Benign - polymorphism
+APOE,P02649,p.C130R,1,Pathogenic - AD risk
+LDLR,P01130,p.C95Y,1,Pathogenic - familial hypercholesterolemia
+HEXA,P06865,p.R178H,1,Pathogenic - Tay-Sachs
+HEXA,P06865,p.R247W,1,Pathogenic - enzyme deficiency
+EGFR,P00533,p.L858R,1,Pathogenic - cancer driver
+KRAS,P01116,p.G12D,1,Pathogenic - oncogenic
+PTEN,P60484,p.R130Q,1,Pathogenic - loss of function
+RB1,P06400,p.R661W,1,Pathogenic - tumor suppressor loss
